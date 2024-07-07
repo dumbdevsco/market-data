@@ -1,50 +1,50 @@
-name	url	locale	address	price
-Шампиньоны Маркет Fresh, 400г	https://www.perekrestok.ru/cat/155/p/sampinony-market-fresh-400g-3210027	msk	Москва, Большой Патриарший переулок, 5	159,99 ₽/шт
-Шампиньоны, 250г	https://www.perekrestok.ru/cat/155/p/sampinony-250g-6176	msk	Москва, Большой Патриарший переулок, 5	89,99 ₽/шт
-Шампиньоны	https://www.perekrestok.ru/cat/155/p/sampinony-59120	msk	Москва, Большой Патриарший переулок, 5	239,99 ₽/кг
-Шампиньоны Королевские Маркет Fresh, 300г	https://www.perekrestok.ru/cat/155/p/sampinony-korolevskie-market-fresh-300g-4280106	msk	Москва, Большой Патриарший переулок, 5	149,99 ₽/шт
-Шампиньоны мини Маркет, 300г	https://www.perekrestok.ru/cat/155/p/sampinony-mini-market-300g-3683919	msk	Москва, Большой Патриарший переулок, 5	129,99 ₽/шт
-Опята культивируемые, 200г	https://www.perekrestok.ru/cat/155/p/opata-kultiviruemye-200g-3993588	msk	Москва, Большой Патриарший переулок, 5	229,99 ₽/шт
-Грибы белые сушеные Зелёная Линия, 40г	https://www.perekrestok.ru/cat/155/p/griby-belye-susenye-zelenaa-linia-40g-4254816	msk	Москва, Большой Патриарший переулок, 5	279,99 ₽/шт
-Вешенки культивируемые Маркет Fresh, 300г	https://www.perekrestok.ru/cat/155/p/vesenki-kultiviruemye-market-fresh-300g-2029404	msk	Москва, Большой Патриарший переулок, 5	169,99 ₽/шт
-Грибы еноки, 100г	https://www.perekrestok.ru/cat/155/p/griby-enoki-100g-2143004	msk	Москва, Большой Патриарший переулок, 5	169,99 ₽/шт
-Грибы Шиитаке, 150г	https://www.perekrestok.ru/cat/155/p/griby-siitake-150g-4342930	msk	Москва, Большой Патриарший переулок, 5	209,99 ₽/шт
-Грибы Экопродукт Ассорти сушёные, 50г	https://www.perekrestok.ru/cat/155/p/griby-ekoprodukt-assorti-susenye-50g-59754	msk	Москва, Большой Патриарший переулок, 5	199,99 ₽/шт
-Лисички, 250г	https://www.perekrestok.ru/cat/155/p/lisicki-250g-3683540	spb	Санкт-Петербург, Биржевая площадь, 4	379,99 ₽/шт
-Шампиньоны Маркет Fresh, 400г	https://www.perekrestok.ru/cat/155/p/sampinony-market-fresh-400g-3210027	spb	Санкт-Петербург, Биржевая площадь, 4	149,99 ₽/шт
-Шампиньоны, 250г	https://www.perekrestok.ru/cat/155/p/sampinony-250g-6176	spb	Санкт-Петербург, Биржевая площадь, 4	84,99 ₽/шт
-Шампиньоны	https://www.perekrestok.ru/cat/155/p/sampinony-59120	spb	Санкт-Петербург, Биржевая площадь, 4	239,99 ₽/кг
-Грибы белые сушеные Зелёная Линия, 40г	https://www.perekrestok.ru/cat/155/p/griby-belye-susenye-zelenaa-linia-40g-4254816	spb	Санкт-Петербург, Биржевая площадь, 4	279,99 ₽/шт
-Вешенки культивируемые Маркет Fresh, 300г	https://www.perekrestok.ru/cat/155/p/vesenki-kultiviruemye-market-fresh-300g-2029404	spb	Санкт-Петербург, Биржевая площадь, 4	149,99 ₽/шт
-Грибы еноки, 100г	https://www.perekrestok.ru/cat/155/p/griby-enoki-100g-2143004	spb	Санкт-Петербург, Биржевая площадь, 4	159,99 ₽/шт
-Грибы Экопродукт Ассорти сушёные, 50г	https://www.perekrestok.ru/cat/155/p/griby-ekoprodukt-assorti-susenye-50g-59754	spb	Санкт-Петербург, Биржевая площадь, 4	199,99 ₽/шт
-Шампиньоны, 250г	https://www.perekrestok.ru/cat/155/p/sampinony-250g-6176	ekb	Екатеринбург, ул. Бориса Ельцина, 3	129,99 ₽/шт
-Шампиньоны	https://www.perekrestok.ru/cat/155/p/sampinony-59120	ekb	Екатеринбург, ул. Бориса Ельцина, 3	269,99 ₽/кг
-Шампиньоны Королевские Маркет Fresh, 300г	https://www.perekrestok.ru/cat/155/p/sampinony-korolevskie-market-fresh-300g-4280106	ekb	Екатеринбург, ул. Бориса Ельцина, 3	99,99 ₽/шт
-Шампиньоны мини Маркет, 300г	https://www.perekrestok.ru/cat/155/p/sampinony-mini-market-300g-3683919	ekb	Екатеринбург, ул. Бориса Ельцина, 3	139,99 ₽/шт
-Грибы белые сушеные Зелёная Линия, 40г	https://www.perekrestok.ru/cat/155/p/griby-belye-susenye-zelenaa-linia-40g-4254816	ekb	Екатеринбург, ул. Бориса Ельцина, 3	279,99 ₽/шт
-Грибы еноки, 100г	https://www.perekrestok.ru/cat/155/p/griby-enoki-100g-2143004	ekb	Екатеринбург, ул. Бориса Ельцина, 3	159,99 ₽/шт
-Грибы Экопродукт Ассорти сушёные, 50г	https://www.perekrestok.ru/cat/155/p/griby-ekoprodukt-assorti-susenye-50g-59754	ekb	Екатеринбург, ул. Бориса Ельцина, 3	199,99 ₽/шт
-Лисички, 250г	https://www.perekrestok.ru/cat/155/p/lisicki-250g-3683540	nn	Нижний Новгород, площадь Минина и Пожарского, 2	399,99 ₽/шт
-Шампиньоны, 250г	https://www.perekrestok.ru/cat/155/p/sampinony-250g-6176	nn	Нижний Новгород, площадь Минина и Пожарского, 2	79,99 ₽/шт
-Шампиньоны	https://www.perekrestok.ru/cat/155/p/sampinony-59120	nn	Нижний Новгород, площадь Минина и Пожарского, 2	259,99 ₽/кг
-Шампиньоны Королевские Маркет Fresh, 300г	https://www.perekrestok.ru/cat/155/p/sampinony-korolevskie-market-fresh-300g-4280106	nn	Нижний Новгород, площадь Минина и Пожарского, 2	149,99 ₽/шт
-Опята культивируемые, 200г	https://www.perekrestok.ru/cat/155/p/opata-kultiviruemye-200g-3993588	nn	Нижний Новгород, площадь Минина и Пожарского, 2	259,99 ₽/шт
-Грибы белые сушеные Зелёная Линия, 40г	https://www.perekrestok.ru/cat/155/p/griby-belye-susenye-zelenaa-linia-40g-4254816	nn	Нижний Новгород, площадь Минина и Пожарского, 2	279,99 ₽/шт
-Грибы еноки, 100г	https://www.perekrestok.ru/cat/155/p/griby-enoki-100g-2143004	nn	Нижний Новгород, площадь Минина и Пожарского, 2	99,99 ₽/шт
-Грибы Экопродукт Ассорти сушёные, 50г	https://www.perekrestok.ru/cat/155/p/griby-ekoprodukt-assorti-susenye-50g-59754	nn	Нижний Новгород, площадь Минина и Пожарского, 2	199,99 ₽/шт
-Шампиньоны, 250г	https://www.perekrestok.ru/cat/155/p/sampinony-250g-6176	pg	Пятигорск, улица Малыгина, 5	109,99 ₽/шт
-Шампиньоны	https://www.perekrestok.ru/cat/155/p/sampinony-59120	pg	Пятигорск, улица Малыгина, 5	229,99 ₽/кг
-Шампиньоны мини Маркет, 300г	https://www.perekrestok.ru/cat/155/p/sampinony-mini-market-300g-3683919	pg	Пятигорск, улица Малыгина, 5	99,99 ₽/шт
-Опята культивируемые, 200г	https://www.perekrestok.ru/cat/155/p/opata-kultiviruemye-200g-3993588	pg	Пятигорск, улица Малыгина, 5	329,99 ₽/шт
-Грибы белые сушеные Зелёная Линия, 40г	https://www.perekrestok.ru/cat/155/p/griby-belye-susenye-zelenaa-linia-40g-4254816	pg	Пятигорск, улица Малыгина, 5	279,99 ₽/шт
-Грибы эринги, 200г	https://www.perekrestok.ru/cat/155/p/griby-eringi-200g-4175043	pg	Пятигорск, улица Малыгина, 5	199,99 ₽/шт
-Грибы шимиджи, 150г	https://www.perekrestok.ru/cat/155/p/griby-simidzi-150g-3329940	pg	Пятигорск, улица Малыгина, 5	219,99 ₽/шт
-Шампиньоны Маркет Fresh, 400г	https://www.perekrestok.ru/cat/155/p/sampinony-market-fresh-400g-3210027	rnd	Ростов-на-Дону, Будённовский проспект, 45	149,99 ₽/шт
-Шампиньоны, 250г	https://www.perekrestok.ru/cat/155/p/sampinony-250g-6176	rnd	Ростов-на-Дону, Будённовский проспект, 45	109,99 ₽/шт
-Шампиньоны	https://www.perekrestok.ru/cat/155/p/sampinony-59120	rnd	Ростов-на-Дону, Будённовский проспект, 45	209,99 ₽/кг
-Шампиньоны мини Маркет, 300г	https://www.perekrestok.ru/cat/155/p/sampinony-mini-market-300g-3683919	rnd	Ростов-на-Дону, Будённовский проспект, 45	129,99 ₽/шт
-Грибы белые сушеные Зелёная Линия, 40г	https://www.perekrestok.ru/cat/155/p/griby-belye-susenye-zelenaa-linia-40g-4254816	rnd	Ростов-на-Дону, Будённовский проспект, 45	279,99 ₽/шт
-Вешенки культивируемые Маркет Fresh, 300г	https://www.perekrestok.ru/cat/155/p/vesenki-kultiviruemye-market-fresh-300g-2029404	rnd	Ростов-на-Дону, Будённовский проспект, 45	154,99 ₽/шт
-Грибы еноки, 100г	https://www.perekrestok.ru/cat/155/p/griby-enoki-100g-2143004	rnd	Ростов-на-Дону, Будённовский проспект, 45	169,99 ₽/шт
-Грибы шимиджи, 150г	https://www.perekrestok.ru/cat/155/p/griby-simidzi-150g-3329940	rnd	Ростов-на-Дону, Будённовский проспект, 45	219,99 ₽/шт
+name	url	locale	address	price	time
+Шампиньоны Маркет Fresh, 400г	https://www.perekrestok.ru/cat/155/p/sampinony-market-fresh-400g-3210027	msk	Москва, Большой Патриарший переулок, 5	159,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Шампиньоны, 250г	https://www.perekrestok.ru/cat/155/p/sampinony-250g-6176	msk	Москва, Большой Патриарший переулок, 5	89,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Шампиньоны	https://www.perekrestok.ru/cat/155/p/sampinony-59120	msk	Москва, Большой Патриарший переулок, 5	239,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Шампиньоны Королевские Маркет Fresh, 300г	https://www.perekrestok.ru/cat/155/p/sampinony-korolevskie-market-fresh-300g-4280106	msk	Москва, Большой Патриарший переулок, 5	149,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Шампиньоны мини Маркет, 300г	https://www.perekrestok.ru/cat/155/p/sampinony-mini-market-300g-3683919	msk	Москва, Большой Патриарший переулок, 5	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Опята культивируемые, 200г	https://www.perekrestok.ru/cat/155/p/opata-kultiviruemye-200g-3993588	msk	Москва, Большой Патриарший переулок, 5	229,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Грибы белые сушеные Зелёная Линия, 40г	https://www.perekrestok.ru/cat/155/p/griby-belye-susenye-zelenaa-linia-40g-4254816	msk	Москва, Большой Патриарший переулок, 5	279,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Вешенки культивируемые Маркет Fresh, 300г	https://www.perekrestok.ru/cat/155/p/vesenki-kultiviruemye-market-fresh-300g-2029404	msk	Москва, Большой Патриарший переулок, 5	169,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Грибы еноки, 100г	https://www.perekrestok.ru/cat/155/p/griby-enoki-100g-2143004	msk	Москва, Большой Патриарший переулок, 5	169,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Грибы Шиитаке, 150г	https://www.perekrestok.ru/cat/155/p/griby-siitake-150g-4342930	msk	Москва, Большой Патриарший переулок, 5	209,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Грибы Экопродукт Ассорти сушёные, 50г	https://www.perekrestok.ru/cat/155/p/griby-ekoprodukt-assorti-susenye-50g-59754	msk	Москва, Большой Патриарший переулок, 5	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Лисички, 250г	https://www.perekrestok.ru/cat/155/p/lisicki-250g-3683540	spb	Санкт-Петербург, Биржевая площадь, 4	379,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Шампиньоны Маркет Fresh, 400г	https://www.perekrestok.ru/cat/155/p/sampinony-market-fresh-400g-3210027	spb	Санкт-Петербург, Биржевая площадь, 4	149,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Шампиньоны, 250г	https://www.perekrestok.ru/cat/155/p/sampinony-250g-6176	spb	Санкт-Петербург, Биржевая площадь, 4	84,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Шампиньоны	https://www.perekrestok.ru/cat/155/p/sampinony-59120	spb	Санкт-Петербург, Биржевая площадь, 4	239,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Грибы белые сушеные Зелёная Линия, 40г	https://www.perekrestok.ru/cat/155/p/griby-belye-susenye-zelenaa-linia-40g-4254816	spb	Санкт-Петербург, Биржевая площадь, 4	279,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Вешенки культивируемые Маркет Fresh, 300г	https://www.perekrestok.ru/cat/155/p/vesenki-kultiviruemye-market-fresh-300g-2029404	spb	Санкт-Петербург, Биржевая площадь, 4	149,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Грибы еноки, 100г	https://www.perekrestok.ru/cat/155/p/griby-enoki-100g-2143004	spb	Санкт-Петербург, Биржевая площадь, 4	159,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Грибы Экопродукт Ассорти сушёные, 50г	https://www.perekrestok.ru/cat/155/p/griby-ekoprodukt-assorti-susenye-50g-59754	spb	Санкт-Петербург, Биржевая площадь, 4	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Шампиньоны, 250г	https://www.perekrestok.ru/cat/155/p/sampinony-250g-6176	ekb	Екатеринбург, ул. Бориса Ельцина, 3	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Шампиньоны	https://www.perekrestok.ru/cat/155/p/sampinony-59120	ekb	Екатеринбург, ул. Бориса Ельцина, 3	269,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Шампиньоны Королевские Маркет Fresh, 300г	https://www.perekrestok.ru/cat/155/p/sampinony-korolevskie-market-fresh-300g-4280106	ekb	Екатеринбург, ул. Бориса Ельцина, 3	99,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Шампиньоны мини Маркет, 300г	https://www.perekrestok.ru/cat/155/p/sampinony-mini-market-300g-3683919	ekb	Екатеринбург, ул. Бориса Ельцина, 3	139,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Грибы белые сушеные Зелёная Линия, 40г	https://www.perekrestok.ru/cat/155/p/griby-belye-susenye-zelenaa-linia-40g-4254816	ekb	Екатеринбург, ул. Бориса Ельцина, 3	279,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Грибы еноки, 100г	https://www.perekrestok.ru/cat/155/p/griby-enoki-100g-2143004	ekb	Екатеринбург, ул. Бориса Ельцина, 3	159,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Грибы Экопродукт Ассорти сушёные, 50г	https://www.perekrestok.ru/cat/155/p/griby-ekoprodukt-assorti-susenye-50g-59754	ekb	Екатеринбург, ул. Бориса Ельцина, 3	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Лисички, 250г	https://www.perekrestok.ru/cat/155/p/lisicki-250g-3683540	nn	Нижний Новгород, площадь Минина и Пожарского, 2	399,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Шампиньоны, 250г	https://www.perekrestok.ru/cat/155/p/sampinony-250g-6176	nn	Нижний Новгород, площадь Минина и Пожарского, 2	79,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Шампиньоны	https://www.perekrestok.ru/cat/155/p/sampinony-59120	nn	Нижний Новгород, площадь Минина и Пожарского, 2	259,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Шампиньоны Королевские Маркет Fresh, 300г	https://www.perekrestok.ru/cat/155/p/sampinony-korolevskie-market-fresh-300g-4280106	nn	Нижний Новгород, площадь Минина и Пожарского, 2	149,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Опята культивируемые, 200г	https://www.perekrestok.ru/cat/155/p/opata-kultiviruemye-200g-3993588	nn	Нижний Новгород, площадь Минина и Пожарского, 2	259,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Грибы белые сушеные Зелёная Линия, 40г	https://www.perekrestok.ru/cat/155/p/griby-belye-susenye-zelenaa-linia-40g-4254816	nn	Нижний Новгород, площадь Минина и Пожарского, 2	279,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Грибы еноки, 100г	https://www.perekrestok.ru/cat/155/p/griby-enoki-100g-2143004	nn	Нижний Новгород, площадь Минина и Пожарского, 2	99,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Грибы Экопродукт Ассорти сушёные, 50г	https://www.perekrestok.ru/cat/155/p/griby-ekoprodukt-assorti-susenye-50g-59754	nn	Нижний Новгород, площадь Минина и Пожарского, 2	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Шампиньоны, 250г	https://www.perekrestok.ru/cat/155/p/sampinony-250g-6176	pg	Пятигорск, улица Малыгина, 5	109,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Шампиньоны	https://www.perekrestok.ru/cat/155/p/sampinony-59120	pg	Пятигорск, улица Малыгина, 5	229,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Шампиньоны мини Маркет, 300г	https://www.perekrestok.ru/cat/155/p/sampinony-mini-market-300g-3683919	pg	Пятигорск, улица Малыгина, 5	99,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Опята культивируемые, 200г	https://www.perekrestok.ru/cat/155/p/opata-kultiviruemye-200g-3993588	pg	Пятигорск, улица Малыгина, 5	329,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Грибы белые сушеные Зелёная Линия, 40г	https://www.perekrestok.ru/cat/155/p/griby-belye-susenye-zelenaa-linia-40g-4254816	pg	Пятигорск, улица Малыгина, 5	279,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Грибы эринги, 200г	https://www.perekrestok.ru/cat/155/p/griby-eringi-200g-4175043	pg	Пятигорск, улица Малыгина, 5	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Грибы шимиджи, 150г	https://www.perekrestok.ru/cat/155/p/griby-simidzi-150g-3329940	pg	Пятигорск, улица Малыгина, 5	219,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Шампиньоны Маркет Fresh, 400г	https://www.perekrestok.ru/cat/155/p/sampinony-market-fresh-400g-3210027	rnd	Ростов-на-Дону, Будённовский проспект, 45	149,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Шампиньоны, 250г	https://www.perekrestok.ru/cat/155/p/sampinony-250g-6176	rnd	Ростов-на-Дону, Будённовский проспект, 45	109,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Шампиньоны	https://www.perekrestok.ru/cat/155/p/sampinony-59120	rnd	Ростов-на-Дону, Будённовский проспект, 45	209,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Шампиньоны мини Маркет, 300г	https://www.perekrestok.ru/cat/155/p/sampinony-mini-market-300g-3683919	rnd	Ростов-на-Дону, Будённовский проспект, 45	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Грибы белые сушеные Зелёная Линия, 40г	https://www.perekrestok.ru/cat/155/p/griby-belye-susenye-zelenaa-linia-40g-4254816	rnd	Ростов-на-Дону, Будённовский проспект, 45	279,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Вешенки культивируемые Маркет Fresh, 300г	https://www.perekrestok.ru/cat/155/p/vesenki-kultiviruemye-market-fresh-300g-2029404	rnd	Ростов-на-Дону, Будённовский проспект, 45	154,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Грибы еноки, 100г	https://www.perekrestok.ru/cat/155/p/griby-enoki-100g-2143004	rnd	Ростов-на-Дону, Будённовский проспект, 45	169,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Грибы шимиджи, 150г	https://www.perekrestok.ru/cat/155/p/griby-simidzi-150g-3329940	rnd	Ростов-на-Дону, Будённовский проспект, 45	219,99 ₽/шт	Sun Jul  7 23:20:00 2024

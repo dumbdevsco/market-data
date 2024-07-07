@@ -1,76 +1,76 @@
-name	url	locale	address	price
-Малина Маркет Fresh, 125г	https://www.perekrestok.ru/cat/1245/p/malina-market-fresh-125g-21151	msk	Москва, Большой Патриарший переулок, 5	299,99 ₽/шт
-Малина, 250г	https://www.perekrestok.ru/cat/154/p/malina-250g-3641616	msk	Москва, Большой Патриарший переулок, 5	589,99 ₽/шт
-Ежевика Маркет Fresh, 125г	https://www.perekrestok.ru/cat/154/p/ezevika-market-fresh-125g-20934	msk	Москва, Большой Патриарший переулок, 5	349,99 ₽/шт
-Арбуз	https://www.perekrestok.ru/cat/154/p/arbuz-77410	msk	Москва, Большой Патриарший переулок, 5	89,99 ₽/кг
-Голубика Маркет Fresh, 500г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-500g-3641622	msk	Москва, Большой Патриарший переулок, 5	499,99 ₽/шт
-Голубика Маркет Fresh, 250г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-250g-4052118	msk	Москва, Большой Патриарший переулок, 5	329,99 ₽/шт
-Малина свежая Маркет Fresh, 400г	https://www.perekrestok.ru/cat/154/p/malina-svezaa-market-fresh-400g-4302383	msk	Москва, Большой Патриарший переулок, 5	849,99 ₽/шт
-Черешня отборная, 500г	https://www.perekrestok.ru/cat/154/p/ceresna-otbornaa-500g-4300902	msk	Москва, Большой Патриарший переулок, 5	349,99 ₽/шт
-Черешня Россия, 500г	https://www.perekrestok.ru/cat/154/p/ceresna-rossia-500g-4299832	msk	Москва, Большой Патриарший переулок, 5	329,99 ₽/шт
-Черешня Россия	https://www.perekrestok.ru/cat/154/p/ceresna-rossia-4135451	msk	Москва, Большой Патриарший переулок, 5	429,99 ₽/кг
-Черешня отборная	https://www.perekrestok.ru/cat/154/p/ceresna-otbornaa-4342145	msk	Москва, Большой Патриарший переулок, 5	699,99 ₽/кг
-Клубника Маркет Fresh, 250г	https://www.perekrestok.ru/cat/154/p/klubnika-market-fresh-250g-11034	msk	Москва, Большой Патриарший переулок, 5	249,99 ₽/шт
-Вишня	https://www.perekrestok.ru/cat/154/p/visna-71844	msk	Москва, Большой Патриарший переулок, 5	299,99 ₽/кг
-Голубика Маркет Fresh, 125г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-125g-48663	msk	Москва, Большой Патриарший переулок, 5	169,99 ₽/шт
-Клюква дикорастущая Зелёная Линия, 250г	https://www.perekrestok.ru/cat/154/p/klukva-dikorastusaa-zelenaa-linia-250g-4250849	msk	Москва, Большой Патриарший переулок, 5	174,99 ₽/шт
-Арбуз импортный без косточек 	https://www.perekrestok.ru/cat/154/p/arbuz-importnyj-bez-kostocek-3694537	msk	Москва, Большой Патриарший переулок, 5	139,99 ₽/кг
-Черешня розовая	https://www.perekrestok.ru/cat/154/p/ceresna-rozovaa-3254387	msk	Москва, Большой Патриарший переулок, 5	199,99 ₽/кг
-Малина Маркет Fresh, 125г	https://www.perekrestok.ru/cat/1245/p/malina-market-fresh-125g-21151	spb	Санкт-Петербург, Биржевая площадь, 4	299,99 ₽/шт
-Малина, 250г	https://www.perekrestok.ru/cat/154/p/malina-250g-3641616	spb	Санкт-Петербург, Биржевая площадь, 4	589,99 ₽/шт
-Голубика Маркет Fresh, 500г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-500g-3641622	spb	Санкт-Петербург, Биржевая площадь, 4	579,99 ₽/шт
-Голубика Маркет Fresh, 250г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-250g-4052118	spb	Санкт-Петербург, Биржевая площадь, 4	219,99 ₽/шт
-Арбуз	https://www.perekrestok.ru/cat/154/p/arbuz-77410	spb	Санкт-Петербург, Биржевая площадь, 4	89,99 ₽/кг
-Черешня отборная, 500г	https://www.perekrestok.ru/cat/154/p/ceresna-otbornaa-500g-4300902	spb	Санкт-Петербург, Биржевая площадь, 4	279,99 ₽/шт
-Клубника Маркет Fresh, 250г	https://www.perekrestok.ru/cat/154/p/klubnika-market-fresh-250g-11034	spb	Санкт-Петербург, Биржевая площадь, 4	279,99 ₽/шт
-Вишня	https://www.perekrestok.ru/cat/154/p/visna-71844	spb	Санкт-Петербург, Биржевая площадь, 4	379,99 ₽/кг
-Голубика Маркет Fresh, 125г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-125g-48663	spb	Санкт-Петербург, Биржевая площадь, 4	119,99 ₽/шт
-Смородина черная, 250г	https://www.perekrestok.ru/cat/154/p/smorodina-cernaa-250g-4167708	spb	Санкт-Петербург, Биржевая площадь, 4	249,99 ₽/шт
-Арбуз Яйцо Дракона жёлтый	https://www.perekrestok.ru/cat/154/p/arbuz-ajco-drakona-zeltyj-4210849	spb	Санкт-Петербург, Биржевая площадь, 4	99,99 ₽/кг
-Крыжовник Съешь меня, 250г	https://www.perekrestok.ru/cat/154/p/kryzovnik-ses-mena-250g-3641621	spb	Санкт-Петербург, Биржевая площадь, 4	179,99 ₽/шт
-Черешня розовая	https://www.perekrestok.ru/cat/154/p/ceresna-rozovaa-3254387	spb	Санкт-Петербург, Биржевая площадь, 4	549,99 ₽/кг
-Малина Маркет Fresh, 125г	https://www.perekrestok.ru/cat/1245/p/malina-market-fresh-125g-21151	ekb	Екатеринбург, ул. Бориса Ельцина, 3	349,99 ₽/шт
-Арбуз	https://www.perekrestok.ru/cat/154/p/arbuz-77410	ekb	Екатеринбург, ул. Бориса Ельцина, 3	49,99 ₽/кг
-Голубика Маркет Fresh, 500г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-500g-3641622	ekb	Екатеринбург, ул. Бориса Ельцина, 3	569,99 ₽/шт
-Голубика Маркет Fresh, 250г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-250g-4052118	ekb	Екатеринбург, ул. Бориса Ельцина, 3	359,99 ₽/шт
-Черешня отборная, 500г	https://www.perekrestok.ru/cat/154/p/ceresna-otbornaa-500g-4300902	ekb	Екатеринбург, ул. Бориса Ельцина, 3	449,99 ₽/шт
-Клубника, 200г	https://www.perekrestok.ru/cat/154/p/klubnika-200g-3697994	ekb	Екатеринбург, ул. Бориса Ельцина, 3	449,99 ₽/шт
-Вишня	https://www.perekrestok.ru/cat/154/p/visna-71844	ekb	Екатеринбург, ул. Бориса Ельцина, 3	399,99 ₽/кг
-Голубика Маркет Fresh, 125г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-125g-48663	ekb	Екатеринбург, ул. Бориса Ельцина, 3	189,99 ₽/шт
-Смородина черная, 250г	https://www.perekrestok.ru/cat/154/p/smorodina-cernaa-250g-4167708	ekb	Екатеринбург, ул. Бориса Ельцина, 3	229,99 ₽/шт
-Крыжовник Съешь меня, 250г	https://www.perekrestok.ru/cat/154/p/kryzovnik-ses-mena-250g-3641621	ekb	Екатеринбург, ул. Бориса Ельцина, 3	199,99 ₽/шт
-Физалис, 100г	https://www.perekrestok.ru/cat/154/p/fizalis-100g-48628	ekb	Екатеринбург, ул. Бориса Ельцина, 3	229,99 ₽/шт
-Малина Маркет Fresh, 125г	https://www.perekrestok.ru/cat/1245/p/malina-market-fresh-125g-21151	nn	Нижний Новгород, площадь Минина и Пожарского, 2	389,99 ₽/шт
-Арбуз	https://www.perekrestok.ru/cat/154/p/arbuz-77410	nn	Нижний Новгород, площадь Минина и Пожарского, 2	89,99 ₽/кг
-Голубика Маркет Fresh, 500г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-500g-3641622	nn	Нижний Новгород, площадь Минина и Пожарского, 2	519,99 ₽/шт
-Клубника Маркет Fresh, 250г	https://www.perekrestok.ru/cat/154/p/klubnika-market-fresh-250g-11034	nn	Нижний Новгород, площадь Минина и Пожарского, 2	219,99 ₽/шт
-Голубика Market Collection, 125г	https://www.perekrestok.ru/cat/154/p/golubika-market-collection-125g-4098519	nn	Нижний Новгород, площадь Минина и Пожарского, 2	249,99 ₽/шт
-Арбуз Яйцо Дракона жёлтый	https://www.perekrestok.ru/cat/154/p/arbuz-ajco-drakona-zeltyj-4210849	nn	Нижний Новгород, площадь Минина и Пожарского, 2	99,99 ₽/кг
-Крыжовник Съешь меня, 250г	https://www.perekrestok.ru/cat/154/p/kryzovnik-ses-mena-250g-3641621	nn	Нижний Новгород, площадь Минина и Пожарского, 2	199,99 ₽/шт
-Ежевика Market Collection, 125г	https://www.perekrestok.ru/cat/154/p/ezevika-market-collection-125g-4098521	nn	Нижний Новгород, площадь Минина и Пожарского, 2	399,99 ₽/шт
-Голубика Маркет Fresh, 500г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-500g-3641622	pg	Пятигорск, улица Малыгина, 5	499,99 ₽/шт
-Голубика Маркет Fresh, 250г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-250g-4052118	pg	Пятигорск, улица Малыгина, 5	329,99 ₽/шт
-Черешня отборная, 500г	https://www.perekrestok.ru/cat/154/p/ceresna-otbornaa-500g-4300902	pg	Пятигорск, улица Малыгина, 5	449,99 ₽/шт
-Клубника Маркет Fresh, 250г	https://www.perekrestok.ru/cat/154/p/klubnika-market-fresh-250g-11034	pg	Пятигорск, улица Малыгина, 5	339,99 ₽/шт
-Голубика Маркет Fresh, 125г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-125g-48663	pg	Пятигорск, улица Малыгина, 5	169,99 ₽/шт
-Клюква дикорастущая Зелёная Линия, 250г	https://www.perekrestok.ru/cat/154/p/klukva-dikorastusaa-zelenaa-linia-250g-4250849	pg	Пятигорск, улица Малыгина, 5	329,99 ₽/шт
-Смородина красная, 250г	https://www.perekrestok.ru/cat/154/p/smorodina-krasnaa-250g-3641619	pg	Пятигорск, улица Малыгина, 5	249,99 ₽/шт
-Смородина красная	https://www.perekrestok.ru/cat/154/p/smorodina-krasnaa-2564	pg	Пятигорск, улица Малыгина, 5	849,99 ₽/кг
-Арбуз Бейби без косточек	https://www.perekrestok.ru/cat/154/p/arbuz-bejbi-bez-kostocek-4072214	pg	Пятигорск, улица Малыгина, 5	129,99 ₽/кг
-Крыжовник Съешь меня, 250г	https://www.perekrestok.ru/cat/154/p/kryzovnik-ses-mena-250g-3641621	pg	Пятигорск, улица Малыгина, 5	189,99 ₽/шт
-Физалис, 100г	https://www.perekrestok.ru/cat/154/p/fizalis-100g-48628	pg	Пятигорск, улица Малыгина, 5	199,99 ₽/шт
-Ежевика	https://www.perekrestok.ru/cat/154/p/ezevika-3680524	pg	Пятигорск, улица Малыгина, 5	899,99 ₽/кг
-Малина Маркет Fresh, 125г	https://www.perekrestok.ru/cat/1245/p/malina-market-fresh-125g-21151	rnd	Ростов-на-Дону, Будённовский проспект, 45	349,99 ₽/шт
-Арбуз	https://www.perekrestok.ru/cat/154/p/arbuz-77410	rnd	Ростов-на-Дону, Будённовский проспект, 45	79,99 ₽/кг
-Голубика Маркет Fresh, 500г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-500g-3641622	rnd	Ростов-на-Дону, Будённовский проспект, 45	499,99 ₽/шт
-Голубика Маркет Fresh, 250г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-250g-4052118	rnd	Ростов-на-Дону, Будённовский проспект, 45	329,99 ₽/шт
-Черешня отборная, 500г	https://www.perekrestok.ru/cat/154/p/ceresna-otbornaa-500g-4300902	rnd	Ростов-на-Дону, Будённовский проспект, 45	449,99 ₽/шт
-Клубника Маркет Fresh, 250г	https://www.perekrestok.ru/cat/154/p/klubnika-market-fresh-250g-11034	rnd	Ростов-на-Дону, Будённовский проспект, 45	339,99 ₽/шт
-Голубика Маркет Fresh, 125г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-125g-48663	rnd	Ростов-на-Дону, Будённовский проспект, 45	129,99 ₽/шт
-Клюква дикорастущая Зелёная Линия, 250г	https://www.perekrestok.ru/cat/154/p/klukva-dikorastusaa-zelenaa-linia-250g-4250849	rnd	Ростов-на-Дону, Будённовский проспект, 45	329,99 ₽/шт
-Смородина красная, 250г	https://www.perekrestok.ru/cat/154/p/smorodina-krasnaa-250g-3641619	rnd	Ростов-на-Дону, Будённовский проспект, 45	249,99 ₽/шт
-Арбуз Яйцо Дракона жёлтый	https://www.perekrestok.ru/cat/154/p/arbuz-ajco-drakona-zeltyj-4210849	rnd	Ростов-на-Дону, Будённовский проспект, 45	104,99 ₽/кг
-Крыжовник Съешь меня, 250г	https://www.perekrestok.ru/cat/154/p/kryzovnik-ses-mena-250g-3641621	rnd	Ростов-на-Дону, Будённовский проспект, 45	189,99 ₽/шт
-Ежевика Market Collection, 125г	https://www.perekrestok.ru/cat/154/p/ezevika-market-collection-125g-4098521	rnd	Ростов-на-Дону, Будённовский проспект, 45	449,99 ₽/шт
-Крыжовник	https://www.perekrestok.ru/cat/154/p/kryzovnik-41881	rnd	Ростов-на-Дону, Будённовский проспект, 45	599,99 ₽/кг
-Ежевика	https://www.perekrestok.ru/cat/154/p/ezevika-3680524	rnd	Ростов-на-Дону, Будённовский проспект, 45	899,99 ₽/кг
+name	url	locale	address	price	time
+Малина Маркет Fresh, 125г	https://www.perekrestok.ru/cat/1245/p/malina-market-fresh-125g-21151	msk	Москва, Большой Патриарший переулок, 5	299,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Малина, 250г	https://www.perekrestok.ru/cat/154/p/malina-250g-3641616	msk	Москва, Большой Патриарший переулок, 5	589,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Ежевика Маркет Fresh, 125г	https://www.perekrestok.ru/cat/154/p/ezevika-market-fresh-125g-20934	msk	Москва, Большой Патриарший переулок, 5	349,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Арбуз	https://www.perekrestok.ru/cat/154/p/arbuz-77410	msk	Москва, Большой Патриарший переулок, 5	89,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Голубика Маркет Fresh, 500г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-500g-3641622	msk	Москва, Большой Патриарший переулок, 5	499,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Голубика Маркет Fresh, 250г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-250g-4052118	msk	Москва, Большой Патриарший переулок, 5	329,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Малина свежая Маркет Fresh, 400г	https://www.perekrestok.ru/cat/154/p/malina-svezaa-market-fresh-400g-4302383	msk	Москва, Большой Патриарший переулок, 5	849,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Черешня отборная, 500г	https://www.perekrestok.ru/cat/154/p/ceresna-otbornaa-500g-4300902	msk	Москва, Большой Патриарший переулок, 5	349,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Черешня Россия, 500г	https://www.perekrestok.ru/cat/154/p/ceresna-rossia-500g-4299832	msk	Москва, Большой Патриарший переулок, 5	329,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Черешня Россия	https://www.perekrestok.ru/cat/154/p/ceresna-rossia-4135451	msk	Москва, Большой Патриарший переулок, 5	429,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Черешня отборная	https://www.perekrestok.ru/cat/154/p/ceresna-otbornaa-4342145	msk	Москва, Большой Патриарший переулок, 5	699,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Клубника Маркет Fresh, 250г	https://www.perekrestok.ru/cat/154/p/klubnika-market-fresh-250g-11034	msk	Москва, Большой Патриарший переулок, 5	249,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Вишня	https://www.perekrestok.ru/cat/154/p/visna-71844	msk	Москва, Большой Патриарший переулок, 5	299,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Голубика Маркет Fresh, 125г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-125g-48663	msk	Москва, Большой Патриарший переулок, 5	169,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Клюква дикорастущая Зелёная Линия, 250г	https://www.perekrestok.ru/cat/154/p/klukva-dikorastusaa-zelenaa-linia-250g-4250849	msk	Москва, Большой Патриарший переулок, 5	174,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Арбуз импортный без косточек 	https://www.perekrestok.ru/cat/154/p/arbuz-importnyj-bez-kostocek-3694537	msk	Москва, Большой Патриарший переулок, 5	139,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Черешня розовая	https://www.perekrestok.ru/cat/154/p/ceresna-rozovaa-3254387	msk	Москва, Большой Патриарший переулок, 5	199,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Малина Маркет Fresh, 125г	https://www.perekrestok.ru/cat/1245/p/malina-market-fresh-125g-21151	spb	Санкт-Петербург, Биржевая площадь, 4	299,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Малина, 250г	https://www.perekrestok.ru/cat/154/p/malina-250g-3641616	spb	Санкт-Петербург, Биржевая площадь, 4	589,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Голубика Маркет Fresh, 500г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-500g-3641622	spb	Санкт-Петербург, Биржевая площадь, 4	579,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Голубика Маркет Fresh, 250г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-250g-4052118	spb	Санкт-Петербург, Биржевая площадь, 4	219,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Арбуз	https://www.perekrestok.ru/cat/154/p/arbuz-77410	spb	Санкт-Петербург, Биржевая площадь, 4	89,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Черешня отборная, 500г	https://www.perekrestok.ru/cat/154/p/ceresna-otbornaa-500g-4300902	spb	Санкт-Петербург, Биржевая площадь, 4	279,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Клубника Маркет Fresh, 250г	https://www.perekrestok.ru/cat/154/p/klubnika-market-fresh-250g-11034	spb	Санкт-Петербург, Биржевая площадь, 4	279,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Вишня	https://www.perekrestok.ru/cat/154/p/visna-71844	spb	Санкт-Петербург, Биржевая площадь, 4	379,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Голубика Маркет Fresh, 125г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-125g-48663	spb	Санкт-Петербург, Биржевая площадь, 4	119,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Смородина черная, 250г	https://www.perekrestok.ru/cat/154/p/smorodina-cernaa-250g-4167708	spb	Санкт-Петербург, Биржевая площадь, 4	249,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Арбуз Яйцо Дракона жёлтый	https://www.perekrestok.ru/cat/154/p/arbuz-ajco-drakona-zeltyj-4210849	spb	Санкт-Петербург, Биржевая площадь, 4	99,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Крыжовник Съешь меня, 250г	https://www.perekrestok.ru/cat/154/p/kryzovnik-ses-mena-250g-3641621	spb	Санкт-Петербург, Биржевая площадь, 4	179,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Черешня розовая	https://www.perekrestok.ru/cat/154/p/ceresna-rozovaa-3254387	spb	Санкт-Петербург, Биржевая площадь, 4	549,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Малина Маркет Fresh, 125г	https://www.perekrestok.ru/cat/1245/p/malina-market-fresh-125g-21151	ekb	Екатеринбург, ул. Бориса Ельцина, 3	349,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Арбуз	https://www.perekrestok.ru/cat/154/p/arbuz-77410	ekb	Екатеринбург, ул. Бориса Ельцина, 3	49,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Голубика Маркет Fresh, 500г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-500g-3641622	ekb	Екатеринбург, ул. Бориса Ельцина, 3	569,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Голубика Маркет Fresh, 250г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-250g-4052118	ekb	Екатеринбург, ул. Бориса Ельцина, 3	359,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Черешня отборная, 500г	https://www.perekrestok.ru/cat/154/p/ceresna-otbornaa-500g-4300902	ekb	Екатеринбург, ул. Бориса Ельцина, 3	449,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Клубника, 200г	https://www.perekrestok.ru/cat/154/p/klubnika-200g-3697994	ekb	Екатеринбург, ул. Бориса Ельцина, 3	449,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Вишня	https://www.perekrestok.ru/cat/154/p/visna-71844	ekb	Екатеринбург, ул. Бориса Ельцина, 3	399,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Голубика Маркет Fresh, 125г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-125g-48663	ekb	Екатеринбург, ул. Бориса Ельцина, 3	189,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Смородина черная, 250г	https://www.perekrestok.ru/cat/154/p/smorodina-cernaa-250g-4167708	ekb	Екатеринбург, ул. Бориса Ельцина, 3	229,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Крыжовник Съешь меня, 250г	https://www.perekrestok.ru/cat/154/p/kryzovnik-ses-mena-250g-3641621	ekb	Екатеринбург, ул. Бориса Ельцина, 3	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Физалис, 100г	https://www.perekrestok.ru/cat/154/p/fizalis-100g-48628	ekb	Екатеринбург, ул. Бориса Ельцина, 3	229,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Малина Маркет Fresh, 125г	https://www.perekrestok.ru/cat/1245/p/malina-market-fresh-125g-21151	nn	Нижний Новгород, площадь Минина и Пожарского, 2	389,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Арбуз	https://www.perekrestok.ru/cat/154/p/arbuz-77410	nn	Нижний Новгород, площадь Минина и Пожарского, 2	89,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Голубика Маркет Fresh, 500г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-500g-3641622	nn	Нижний Новгород, площадь Минина и Пожарского, 2	519,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Клубника Маркет Fresh, 250г	https://www.perekrestok.ru/cat/154/p/klubnika-market-fresh-250g-11034	nn	Нижний Новгород, площадь Минина и Пожарского, 2	219,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Голубика Market Collection, 125г	https://www.perekrestok.ru/cat/154/p/golubika-market-collection-125g-4098519	nn	Нижний Новгород, площадь Минина и Пожарского, 2	249,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Арбуз Яйцо Дракона жёлтый	https://www.perekrestok.ru/cat/154/p/arbuz-ajco-drakona-zeltyj-4210849	nn	Нижний Новгород, площадь Минина и Пожарского, 2	99,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Крыжовник Съешь меня, 250г	https://www.perekrestok.ru/cat/154/p/kryzovnik-ses-mena-250g-3641621	nn	Нижний Новгород, площадь Минина и Пожарского, 2	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Ежевика Market Collection, 125г	https://www.perekrestok.ru/cat/154/p/ezevika-market-collection-125g-4098521	nn	Нижний Новгород, площадь Минина и Пожарского, 2	399,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Голубика Маркет Fresh, 500г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-500g-3641622	pg	Пятигорск, улица Малыгина, 5	499,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Голубика Маркет Fresh, 250г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-250g-4052118	pg	Пятигорск, улица Малыгина, 5	329,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Черешня отборная, 500г	https://www.perekrestok.ru/cat/154/p/ceresna-otbornaa-500g-4300902	pg	Пятигорск, улица Малыгина, 5	449,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Клубника Маркет Fresh, 250г	https://www.perekrestok.ru/cat/154/p/klubnika-market-fresh-250g-11034	pg	Пятигорск, улица Малыгина, 5	339,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Голубика Маркет Fresh, 125г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-125g-48663	pg	Пятигорск, улица Малыгина, 5	169,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Клюква дикорастущая Зелёная Линия, 250г	https://www.perekrestok.ru/cat/154/p/klukva-dikorastusaa-zelenaa-linia-250g-4250849	pg	Пятигорск, улица Малыгина, 5	329,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Смородина красная, 250г	https://www.perekrestok.ru/cat/154/p/smorodina-krasnaa-250g-3641619	pg	Пятигорск, улица Малыгина, 5	249,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Смородина красная	https://www.perekrestok.ru/cat/154/p/smorodina-krasnaa-2564	pg	Пятигорск, улица Малыгина, 5	849,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Арбуз Бейби без косточек	https://www.perekrestok.ru/cat/154/p/arbuz-bejbi-bez-kostocek-4072214	pg	Пятигорск, улица Малыгина, 5	129,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Крыжовник Съешь меня, 250г	https://www.perekrestok.ru/cat/154/p/kryzovnik-ses-mena-250g-3641621	pg	Пятигорск, улица Малыгина, 5	189,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Физалис, 100г	https://www.perekrestok.ru/cat/154/p/fizalis-100g-48628	pg	Пятигорск, улица Малыгина, 5	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Ежевика	https://www.perekrestok.ru/cat/154/p/ezevika-3680524	pg	Пятигорск, улица Малыгина, 5	899,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Малина Маркет Fresh, 125г	https://www.perekrestok.ru/cat/1245/p/malina-market-fresh-125g-21151	rnd	Ростов-на-Дону, Будённовский проспект, 45	349,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Арбуз	https://www.perekrestok.ru/cat/154/p/arbuz-77410	rnd	Ростов-на-Дону, Будённовский проспект, 45	79,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Голубика Маркет Fresh, 500г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-500g-3641622	rnd	Ростов-на-Дону, Будённовский проспект, 45	499,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Голубика Маркет Fresh, 250г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-250g-4052118	rnd	Ростов-на-Дону, Будённовский проспект, 45	329,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Черешня отборная, 500г	https://www.perekrestok.ru/cat/154/p/ceresna-otbornaa-500g-4300902	rnd	Ростов-на-Дону, Будённовский проспект, 45	449,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Клубника Маркет Fresh, 250г	https://www.perekrestok.ru/cat/154/p/klubnika-market-fresh-250g-11034	rnd	Ростов-на-Дону, Будённовский проспект, 45	339,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Голубика Маркет Fresh, 125г	https://www.perekrestok.ru/cat/154/p/golubika-market-fresh-125g-48663	rnd	Ростов-на-Дону, Будённовский проспект, 45	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Клюква дикорастущая Зелёная Линия, 250г	https://www.perekrestok.ru/cat/154/p/klukva-dikorastusaa-zelenaa-linia-250g-4250849	rnd	Ростов-на-Дону, Будённовский проспект, 45	329,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Смородина красная, 250г	https://www.perekrestok.ru/cat/154/p/smorodina-krasnaa-250g-3641619	rnd	Ростов-на-Дону, Будённовский проспект, 45	249,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Арбуз Яйцо Дракона жёлтый	https://www.perekrestok.ru/cat/154/p/arbuz-ajco-drakona-zeltyj-4210849	rnd	Ростов-на-Дону, Будённовский проспект, 45	104,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Крыжовник Съешь меня, 250г	https://www.perekrestok.ru/cat/154/p/kryzovnik-ses-mena-250g-3641621	rnd	Ростов-на-Дону, Будённовский проспект, 45	189,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Ежевика Market Collection, 125г	https://www.perekrestok.ru/cat/154/p/ezevika-market-collection-125g-4098521	rnd	Ростов-на-Дону, Будённовский проспект, 45	449,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Крыжовник	https://www.perekrestok.ru/cat/154/p/kryzovnik-41881	rnd	Ростов-на-Дону, Будённовский проспект, 45	599,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Ежевика	https://www.perekrestok.ru/cat/154/p/ezevika-3680524	rnd	Ростов-на-Дону, Будённовский проспект, 45	899,99 ₽/кг	Sun Jul  7 23:20:00 2024

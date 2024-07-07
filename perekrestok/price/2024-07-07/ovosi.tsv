@@ -1,465 +1,465 @@
-name	url	locale	address	price
-Огурцы Хрустящие	https://www.perekrestok.ru/cat/150/p/ogurcy-hrustasie-3632205	msk	Москва, Большой Патриарший переулок, 5	149,99 ₽/кг
-Перец сладкий	https://www.perekrestok.ru/cat/150/p/perec-sladkij-53484	msk	Москва, Большой Патриарший переулок, 5	199,99 ₽/кг
-Картофель ранний	https://www.perekrestok.ru/cat/150/p/kartofel-rannij-45505	msk	Москва, Большой Патриарший переулок, 5	59,99 ₽/кг
-Редис красный, 500г	https://www.perekrestok.ru/cat/150/p/redis-krasnyj-500g-25180	msk	Москва, Большой Патриарший переулок, 5	99,99 ₽/шт
-Сельдерей черешковый, 1шт	https://www.perekrestok.ru/cat/150/p/selderej-cereskovyj-1st-2065179	msk	Москва, Большой Патриарший переулок, 5	99,99 ₽/шт
-Чеснок ранний	https://www.perekrestok.ru/cat/150/p/cesnok-rannij-77278	msk	Москва, Большой Патриарший переулок, 5	389,99 ₽/кг
-Томаты Махитос чёрные	https://www.perekrestok.ru/cat/150/p/tomaty-mahitos-cernye-3255521	msk	Москва, Большой Патриарший переулок, 5	399,99 ₽/кг
-Томаты Мадрид	https://www.perekrestok.ru/cat/150/p/tomaty-madrid-4335745	msk	Москва, Большой Патриарший переулок, 5	429,99 ₽/кг
-Лук порей	https://www.perekrestok.ru/cat/150/p/luk-porej-1561	msk	Москва, Большой Патриарший переулок, 5	999,99 ₽/кг
-Томаты розовые отборные	https://www.perekrestok.ru/cat/150/p/tomaty-rozovye-otbornye-4087773	msk	Москва, Большой Патриарший переулок, 5	289,99 ₽/кг
-Томаты черри на ветке, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-na-vetke-250g-3673307	msk	Москва, Большой Патриарший переулок, 5	119,99 ₽/шт
-Томаты Медовые черри красные круглые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-medovye-cerri-krasnye-kruglye-200g-3676649	msk	Москва, Большой Патриарший переулок, 5	209,99 ₽/шт
-Томаты Рост Фламенко красные сливовидные	https://www.perekrestok.ru/cat/150/p/tomaty-rost-flamenko-krasnye-slivovidnye-4214021	msk	Москва, Большой Патриарший переулок, 5	269,99 ₽/кг
-Томаты Flamenco сливовидные красные, 450г	https://www.perekrestok.ru/cat/150/p/tomaty-flamenco-slivovidnye-krasnye-450g-4217380	msk	Москва, Большой Патриарший переулок, 5	129,99 ₽/шт
-Томаты Черри Медовые оранжевые круглые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-medovye-oranzevye-kruglye-200g-4188460	msk	Москва, Большой Патриарший переулок, 5	139,99 ₽/шт
-Томаты Бакинские	https://www.perekrestok.ru/cat/150/p/tomaty-bakinskie-3017019	msk	Москва, Большой Патриарший переулок, 5	299,99 ₽/кг
-Томаты розовые Азербайджан	https://www.perekrestok.ru/cat/150/p/tomaty-rozovye-azerbajdzan-3695580	msk	Москва, Большой Патриарший переулок, 5	229,99 ₽/кг
-Томаты черри отечественные, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-otecestvennye-250g-3634714	msk	Москва, Большой Патриарший переулок, 5	159,99 ₽/шт
-Томаты азербайджанские, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-azerbajdzanskie-500g-4125409	msk	Москва, Большой Патриарший переулок, 5	179,99 ₽/шт
-Томаты черри красные, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-krasnye-250g-11971	msk	Москва, Большой Патриарший переулок, 5	129,99 ₽/шт
-Томаты жёлтые сливовидные, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-zeltye-slivovidnye-350g-3657325	msk	Москва, Большой Патриарший переулок, 5	149,99 ₽/шт
-Томаты жёлтые сливовидные	https://www.perekrestok.ru/cat/150/p/tomaty-zeltye-slivovidnye-14809	msk	Москва, Большой Патриарший переулок, 5	299,99 ₽/кг
-Томаты Эко-Культура Черри Ароматто сливовидные на ветке, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-aromatto-slivovidnye-na-vetke-500g-4281278	msk	Москва, Большой Патриарший переулок, 5	429,99 ₽/шт
-Томаты Дагестан, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-dagestan-500g-4255159	msk	Москва, Большой Патриарший переулок, 5	199,99 ₽/шт
-Томаты коктейльные розовые, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-koktejlnye-rozovye-350g-2138220	msk	Москва, Большой Патриарший переулок, 5	189,99 ₽/шт
-Томаты Сладкая Ягода Черри красные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-sladkaa-agoda-cerri-krasnye-200g-4217379	msk	Москва, Большой Патриарший переулок, 5	209,99 ₽/шт
-Томаты Эко-Культура Черри слатто коралловые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-korallovye-200g-4323260	msk	Москва, Большой Патриарший переулок, 5	164,99 ₽/шт
-Томаты коктейль сливовидные, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-koktejl-slivovidnye-350g-82521	msk	Москва, Большой Патриарший переулок, 5	179,99 ₽/шт
-Томаты Конфетто черри, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-konfetto-cerri-250g-4022853	msk	Москва, Большой Патриарший переулок, 5	199,99 ₽/шт
-Томаты Бычье сердце	https://www.perekrestok.ru/cat/150/p/tomaty-byce-serdce-3383460	msk	Москва, Большой Патриарший переулок, 5	499,99 ₽/кг
-Томаты Кумато	https://www.perekrestok.ru/cat/150/p/tomaty-kumato-42138	msk	Москва, Большой Патриарший переулок, 5	329,99 ₽/кг
-Томаты Эко-культура Черри Слатто сливовидные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-slivovidnye-200g-4281279	msk	Москва, Большой Патриарший переулок, 5	169,99 ₽/шт
-Томаты Пинк парадайз, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-pink-paradajz-350g-4052764	msk	Москва, Большой Патриарший переулок, 5	259,99 ₽/шт
-Томаты коктейльные на ветке	https://www.perekrestok.ru/cat/150/p/tomaty-koktejlnye-na-vetke-4349904	msk	Москва, Большой Патриарший переулок, 5	429,99 ₽/кг
-Картофель молодой Азербайджан	https://www.perekrestok.ru/cat/150/p/kartofel-molodoj-azerbajdzan-4278509	msk	Москва, Большой Патриарший переулок, 5	69,99 ₽/кг
-Картофель в сетке	https://www.perekrestok.ru/cat/150/p/kartofel-v-setke-3987	msk	Москва, Большой Патриарший переулок, 5	52,99 ₽/кг
-Картофель мытый	https://www.perekrestok.ru/cat/150/p/kartofel-mytyj-2099571	msk	Москва, Большой Патриарший переулок, 5	95,99 ₽/кг
-Картофель для варки, 3кг	https://www.perekrestok.ru/cat/150/p/kartofel-dla-varki-3kg-3142878	msk	Москва, Большой Патриарший переулок, 5	289,99 ₽/шт
-Картофель красный ранний	https://www.perekrestok.ru/cat/150/p/kartofel-krasnyj-rannij-4273508	msk	Москва, Большой Патриарший переулок, 5	89,99 ₽/кг
-Картофель для жарки, 3кг	https://www.perekrestok.ru/cat/150/p/kartofel-dla-zarki-3kg-3142879	msk	Москва, Большой Патриарший переулок, 5	339,99 ₽/шт
-Картофель Кримм Классический Шарики пастеризованный, 500г	https://www.perekrestok.ru/cat/150/p/kartofel-krimm-klassiceskij-sariki-pasterizovannyj-500g-4011560	msk	Москва, Большой Патриарший переулок, 5	79,99 ₽/шт
-Картофель варёный очищенный, 500г	https://www.perekrestok.ru/cat/150/p/kartofel-varenyj-ocisennyj-500g-59403	msk	Москва, Большой Патриарший переулок, 5	89,99 ₽/шт
-Огурцы гладкие среднеплодные	https://www.perekrestok.ru/cat/150/p/ogurcy-gladkie-sredneplodnye-2098997	msk	Москва, Большой Патриарший переулок, 5	139,99 ₽/кг
-Огурцы короткоплодные	https://www.perekrestok.ru/cat/150/p/ogurcy-korotkoplodnye-4072	msk	Москва, Большой Патриарший переулок, 5	159,99 ₽/кг
-Огурцы Фасованные, 450г	https://www.perekrestok.ru/cat/150/p/ogurcy-fasovannye-450g-44569	msk	Москва, Большой Патриарший переулок, 5	129,99 ₽/шт
-Огурцы Хрустящие, 450г	https://www.perekrestok.ru/cat/150/p/ogurcy-hrustasie-450g-3682401	msk	Москва, Большой Патриарший переулок, 5	89,99 ₽/шт
-Огурцы, 600г	https://www.perekrestok.ru/cat/150/p/ogurcy-600g-2131726	msk	Москва, Большой Патриарший переулок, 5	99,99 ₽/шт
-Огурцы корнишоны, 300г	https://www.perekrestok.ru/cat/150/p/ogurcy-kornisony-300g-3368258	msk	Москва, Большой Патриарший переулок, 5	159,99 ₽/шт
-Огурцы длинные, 1шт	https://www.perekrestok.ru/cat/150/p/ogurcy-dlinnye-1st-3301324	msk	Москва, Большой Патриарший переулок, 5	59,99 ₽/шт
-Морковь отечественная	https://www.perekrestok.ru/cat/150/p/morkov-otecestvennaa-60529	msk	Москва, Большой Патриарший переулок, 5	54,99 ₽/кг
-Морковь мытая Маркет Fresh, 1кг	https://www.perekrestok.ru/cat/150/p/morkov-mytaa-market-fresh-1kg-19345	msk	Москва, Большой Патриарший переулок, 5	99,99 ₽/шт
-Морковь Дмитровские Овощи целая вареная очищенная, 500г	https://www.perekrestok.ru/cat/150/p/morkov-dmitrovskie-ovosi-celaa-varenaa-ocisennaa-500g-3444579	msk	Москва, Большой Патриарший переулок, 5	89,99 ₽/шт
-Лук репчатый	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-45463	msk	Москва, Большой Патриарший переулок, 5	49,99 ₽/кг
-Лук репчатый в сетке	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-v-setke-3969	msk	Москва, Большой Патриарший переулок, 5	36,99 ₽/кг
-Лук репчатый красный	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-krasnyj-79012	msk	Москва, Большой Патриарший переулок, 5	119,99 ₽/кг
-Лук репчатый, 600г	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-600g-3368253	msk	Москва, Большой Патриарший переулок, 5	79,99 ₽/шт
-Лук Ялтинский	https://www.perekrestok.ru/cat/150/p/luk-altinskij-3368252	msk	Москва, Большой Патриарший переулок, 5	229,99 ₽/кг
-Лук репчатый красный, 500г	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-krasnyj-500g-3016771	msk	Москва, Большой Патриарший переулок, 5	89,99 ₽/шт
-Лук репчатый, 500г	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-500g-3016772	msk	Москва, Большой Патриарший переулок, 5	159,99 ₽/шт
-Перец Ласточка	https://www.perekrestok.ru/cat/150/p/perec-lastocka-3231963	msk	Москва, Большой Патриарший переулок, 5	179,99 ₽/кг
-Перец красный сладкий	https://www.perekrestok.ru/cat/150/p/perec-krasnyj-sladkij-6177	msk	Москва, Большой Патриарший переулок, 5	369,99 ₽/кг
-Перец в ассортименте, 2шт	https://www.perekrestok.ru/cat/150/p/perec-v-assortimente-2st-4228843	msk	Москва, Большой Патриарший переулок, 5	179,99 ₽/шт
-Перец чили красный мини, 50г	https://www.perekrestok.ru/cat/150/p/perec-cili-krasnyj-mini-50g-4040980	msk	Москва, Большой Патриарший переулок, 5	149,99 ₽/шт
-Перец жгучий смешанный, 100г	https://www.perekrestok.ru/cat/150/p/perec-zgucij-smesannyj-100g-2143028	msk	Москва, Большой Патриарший переулок, 5	129,99 ₽/шт
-Авокадо	https://www.perekrestok.ru/cat/150/p/avokado-49622	msk	Москва, Большой Патриарший переулок, 5	499,99 ₽/кг
-Кабачки	https://www.perekrestok.ru/cat/150/p/kabacki-44110	msk	Москва, Большой Патриарший переулок, 5	149,99 ₽/кг
-Кабачки фасованные, 600г	https://www.perekrestok.ru/cat/150/p/kabacki-fasovannye-600g-4195054	msk	Москва, Большой Патриарший переулок, 5	119,99 ₽/шт
-Кабачки цуккини зелёные	https://www.perekrestok.ru/cat/150/p/kabacki-cukkini-zelenye-48632	msk	Москва, Большой Патриарший переулок, 5	169,99 ₽/кг
-Кабачки Цуккини зелёные, 600г	https://www.perekrestok.ru/cat/150/p/kabacki-cukkini-zelenye-600g-4131555	msk	Москва, Большой Патриарший переулок, 5	149,99 ₽/шт
-Свекла	https://www.perekrestok.ru/cat/150/p/svekla-45532	msk	Москва, Большой Патриарший переулок, 5	59,99 ₽/кг
-Свекла варёная нарезанная соломкой, 500г	https://www.perekrestok.ru/cat/150/p/svekla-varenaa-narezannaa-solomkoj-500g-3635807	msk	Москва, Большой Патриарший переулок, 5	89,99 ₽/шт
-Капуста	https://www.perekrestok.ru/cat/150/p/kapusta-45661	msk	Москва, Большой Патриарший переулок, 5	39,99 ₽/кг
-Капуста китайская	https://www.perekrestok.ru/cat/150/p/kapusta-kitajskaa-78682	msk	Москва, Большой Патриарший переулок, 5	139,99 ₽/кг
-Капуста цветная + броколли, 300г	https://www.perekrestok.ru/cat/150/p/kapusta-cvetnaa-brokolli-300g-3698689	msk	Москва, Большой Патриарший переулок, 5	169,99 ₽/шт
-Капуста цветная, 300г	https://www.perekrestok.ru/cat/150/p/kapusta-cvetnaa-300g-3698688	msk	Москва, Большой Патриарший переулок, 5	139,99 ₽/шт
-Капуста брюссельская, 300г	https://www.perekrestok.ru/cat/150/p/kapusta-brusselskaa-300g-4037034	msk	Москва, Большой Патриарший переулок, 5	239,99 ₽/шт
-Чеснок	https://www.perekrestok.ru/cat/150/p/cesnok-17662	msk	Москва, Большой Патриарший переулок, 5	69,99 ₽/шт
-Чеснок	https://www.perekrestok.ru/cat/150/p/cesnok-45692	msk	Москва, Большой Патриарший переулок, 5	399,99 ₽/кг
-Чеснок Фермерский Чеснок отборный 1 сорта, 1шт	https://www.perekrestok.ru/cat/150/p/cesnok-fermerskij-cesnok-otbornyj-1-sorta-1st-4018137	msk	Москва, Большой Патриарший переулок, 5	59,99 ₽/шт
-Кукуруза сладкая в початках варёная Маркет Fresh	https://www.perekrestok.ru/cat/150/p/kukuruza-sladkaa-v-pocatkah-varenaa-market-fresh-78000169	msk	Москва, Большой Патриарший переулок, 5	189,99 ₽/шт
-Кукуруза мини импортная, 125г	https://www.perekrestok.ru/cat/150/p/kukuruza-mini-importnaa-125g-50591	msk	Москва, Большой Патриарший переулок, 5	239,99 ₽/шт
-Имбирь	https://www.perekrestok.ru/cat/150/p/imbir-3218215	msk	Москва, Большой Патриарший переулок, 5	549,90 ₽/кг
-Горошек сладкий, 100г	https://www.perekrestok.ru/cat/150/p/gorosek-sladkij-100g-4339649	msk	Москва, Большой Патриарший переулок, 5	159,99 ₽/шт
-Томаты Махитос красные	https://www.perekrestok.ru/cat/150/p/tomaty-mahitos-krasnye-1566	spb	Санкт-Петербург, Биржевая площадь, 4	199,99 ₽/кг
-Огурцы Хрустящие	https://www.perekrestok.ru/cat/150/p/ogurcy-hrustasie-3632205	spb	Санкт-Петербург, Биржевая площадь, 4	179,99 ₽/кг
-Авокадо Хасс спелое, 2шт	https://www.perekrestok.ru/cat/150/p/avokado-hass-speloe-2st-3356275	spb	Санкт-Петербург, Биржевая площадь, 4	199,99 ₽/шт
-Картофель ранний	https://www.perekrestok.ru/cat/150/p/kartofel-rannij-45505	spb	Санкт-Петербург, Биржевая площадь, 4	59,99 ₽/кг
-Редис красный, 500г	https://www.perekrestok.ru/cat/150/p/redis-krasnyj-500g-25180	spb	Санкт-Петербург, Биржевая площадь, 4	99,99 ₽/шт
-Сельдерей черешковый, 1шт	https://www.perekrestok.ru/cat/150/p/selderej-cereskovyj-1st-2065179	spb	Санкт-Петербург, Биржевая площадь, 4	119,99 ₽/шт
-Чеснок ранний	https://www.perekrestok.ru/cat/150/p/cesnok-rannij-77278	spb	Санкт-Петербург, Биржевая площадь, 4	369,99 ₽/кг
-Томаты Махитос чёрные	https://www.perekrestok.ru/cat/150/p/tomaty-mahitos-cernye-3255521	spb	Санкт-Петербург, Биржевая площадь, 4	399,99 ₽/кг
-Томаты Мадрид	https://www.perekrestok.ru/cat/150/p/tomaty-madrid-4335745	spb	Санкт-Петербург, Биржевая площадь, 4	479,99 ₽/кг
-Томаты черри чёрный шоколад Маркет Collection, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-cernyj-sokolad-market-collection-250g-4323486	spb	Санкт-Петербург, Биржевая площадь, 4	179,99 ₽/шт
-Помидоры черри	https://www.perekrestok.ru/cat/150/p/pomidory-cerri-2092921	spb	Санкт-Петербург, Биржевая площадь, 4	499,99 ₽/кг
-Томаты розовые отборные	https://www.perekrestok.ru/cat/150/p/tomaty-rozovye-otbornye-4087773	spb	Санкт-Петербург, Биржевая площадь, 4	249,99 ₽/кг
-Томаты черри красные, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-krasnye-250g-11971	spb	Санкт-Петербург, Биржевая площадь, 4	139,99 ₽/шт
-Томаты розовые	https://www.perekrestok.ru/cat/150/p/tomaty-rozovye-21292	spb	Санкт-Петербург, Биржевая площадь, 4	199,99 ₽/кг
-Томаты Рост Фламенко красные сливовидные	https://www.perekrestok.ru/cat/150/p/tomaty-rost-flamenko-krasnye-slivovidnye-4214021	spb	Санкт-Петербург, Биржевая площадь, 4	249,99 ₽/кг
-Томаты Медовые черри красные круглые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-medovye-cerri-krasnye-kruglye-200g-3676649	spb	Санкт-Петербург, Биржевая площадь, 4	134,99 ₽/шт
-Томаты Flamenco сливовидные красные, 450г	https://www.perekrestok.ru/cat/150/p/tomaty-flamenco-slivovidnye-krasnye-450g-4217380	spb	Санкт-Петербург, Биржевая площадь, 4	129,99 ₽/шт
-Томаты черри на ветке, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-na-vetke-250g-3673307	spb	Санкт-Петербург, Биржевая площадь, 4	119,99 ₽/шт
-Томаты Черри Медовые оранжевые круглые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-medovye-oranzevye-kruglye-200g-4188460	spb	Санкт-Петербург, Биржевая площадь, 4	179,99 ₽/шт
-Томаты черри отечественные, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-otecestvennye-250g-3634714	spb	Санкт-Петербург, Биржевая площадь, 4	99,99 ₽/шт
-Томаты коктейльные розовые, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-koktejlnye-rozovye-350g-2138220	spb	Санкт-Петербург, Биржевая площадь, 4	179,99 ₽/шт
-Томаты Эко-Культура Черри Ароматто сливовидные на ветке, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-aromatto-slivovidnye-na-vetke-500g-4281278	spb	Санкт-Петербург, Биржевая площадь, 4	429,99 ₽/шт
-Томаты жёлтые сливовидные, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-zeltye-slivovidnye-350g-3657325	spb	Санкт-Петербург, Биржевая площадь, 4	149,99 ₽/шт
-Томаты Эко-культура Черри Слатто сливовидные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-slivovidnye-200g-4281279	spb	Санкт-Петербург, Биржевая площадь, 4	129,99 ₽/шт
-Томаты Конфетто черри, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-konfetto-cerri-250g-4022853	spb	Санкт-Петербург, Биржевая площадь, 4	159,99 ₽/шт
-Томаты Сладкая Ягода Черри красные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-sladkaa-agoda-cerri-krasnye-200g-4217379	spb	Санкт-Петербург, Биржевая площадь, 4	129,99 ₽/шт
-Томаты сливовидные, 600г	https://www.perekrestok.ru/cat/150/p/tomaty-slivovidnye-600g-2100224	spb	Санкт-Петербург, Биржевая площадь, 4	169,99 ₽/шт
-Томаты жёлтые сливовидные	https://www.perekrestok.ru/cat/150/p/tomaty-zeltye-slivovidnye-14809	spb	Санкт-Петербург, Биржевая площадь, 4	359,99 ₽/кг
-Томаты Эко-Культура Черри слатто коралловые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-korallovye-200g-4323260	spb	Санкт-Петербург, Биржевая площадь, 4	169,99 ₽/шт
-Томаты коктейль сливовидные, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-koktejl-slivovidnye-350g-82521	spb	Санкт-Петербург, Биржевая площадь, 4	179,99 ₽/шт
-Томаты Эко-Культура черри зеленые сливовидные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-zelenye-slivovidnye-200g-4323266	spb	Санкт-Петербург, Биржевая площадь, 4	149,99 ₽/шт
-Томаты Медовые Узбекистан, 300г	https://www.perekrestok.ru/cat/150/p/tomaty-medovye-uzbekistan-300g-4280825	spb	Санкт-Петербург, Биржевая площадь, 4	319,99 ₽/шт
-Томаты коктейльные на ветке	https://www.perekrestok.ru/cat/150/p/tomaty-koktejlnye-na-vetke-4349904	spb	Санкт-Петербург, Биржевая площадь, 4	399,99 ₽/кг
-Картофель молодой Азербайджан	https://www.perekrestok.ru/cat/150/p/kartofel-molodoj-azerbajdzan-4278509	spb	Санкт-Петербург, Биржевая площадь, 4	109,99 ₽/кг
-Картофель Кримм Дольки с соусом Нежный пастеризованный, 500г	https://www.perekrestok.ru/cat/150/p/kartofel-krimm-dolki-s-sousom-neznyj-pasterizovannyj-500g-4286757	spb	Санкт-Петербург, Биржевая площадь, 4	79,99 ₽/шт
-Картофель мытый	https://www.perekrestok.ru/cat/150/p/kartofel-mytyj-2099571	spb	Санкт-Петербург, Биржевая площадь, 4	109,99 ₽/кг
-Картофель в сетке	https://www.perekrestok.ru/cat/150/p/kartofel-v-setke-3987	spb	Санкт-Петербург, Биржевая площадь, 4	49,99 ₽/кг
-Картофель для варки, 3кг	https://www.perekrestok.ru/cat/150/p/kartofel-dla-varki-3kg-3142878	spb	Санкт-Петербург, Биржевая площадь, 4	199,99 ₽/шт
-Картофель красный мытый	https://www.perekrestok.ru/cat/150/p/kartofel-krasnyj-mytyj-3646068	spb	Санкт-Петербург, Биржевая площадь, 4	99,99 ₽/кг
-Картофель Бэби, 2кг	https://www.perekrestok.ru/cat/150/p/kartofel-bebi-2kg-2083095	spb	Санкт-Петербург, Биржевая площадь, 4	189,99 ₽/шт
-Картофель отборный, 2.5кг	https://www.perekrestok.ru/cat/150/p/kartofel-otbornyj-2-5kg-3092450	spb	Санкт-Петербург, Биржевая площадь, 4	124,99 ₽/шт
-Картофель для жарки, 3кг	https://www.perekrestok.ru/cat/150/p/kartofel-dla-zarki-3kg-3142879	spb	Санкт-Петербург, Биржевая площадь, 4	339,99 ₽/шт
-Картофель Сладкий батат	https://www.perekrestok.ru/cat/150/p/kartofel-sladkij-batat-81796	spb	Санкт-Петербург, Биржевая площадь, 4	299,99 ₽/кг
-Картофель красный	https://www.perekrestok.ru/cat/150/p/kartofel-krasnyj-3074469	spb	Санкт-Петербург, Биржевая площадь, 4	99,99 ₽/кг
-Картофель Кримм Классический Шарики пастеризованный, 500г	https://www.perekrestok.ru/cat/150/p/kartofel-krimm-klassiceskij-sariki-pasterizovannyj-500g-4011560	spb	Санкт-Петербург, Биржевая площадь, 4	79,99 ₽/шт
-Огурцы гладкие среднеплодные	https://www.perekrestok.ru/cat/150/p/ogurcy-gladkie-sredneplodnye-2098997	spb	Санкт-Петербург, Биржевая площадь, 4	179,99 ₽/кг
-Огурцы Фасованные, 450г	https://www.perekrestok.ru/cat/150/p/ogurcy-fasovannye-450g-44569	spb	Санкт-Петербург, Биржевая площадь, 4	119,99 ₽/шт
-Огурцы корнишоны, 300г	https://www.perekrestok.ru/cat/150/p/ogurcy-kornisony-300g-3368258	spb	Санкт-Петербург, Биржевая площадь, 4	149,99 ₽/шт
-Огурцы короткоплодные	https://www.perekrestok.ru/cat/150/p/ogurcy-korotkoplodnye-4072	spb	Санкт-Петербург, Биржевая площадь, 4	189,99 ₽/кг
-Огурцы, 600г	https://www.perekrestok.ru/cat/150/p/ogurcy-600g-2131726	spb	Санкт-Петербург, Биржевая площадь, 4	129,99 ₽/шт
-Огурцы длинные, 1шт	https://www.perekrestok.ru/cat/150/p/ogurcy-dlinnye-1st-3301324	spb	Санкт-Петербург, Биржевая площадь, 4	69,99 ₽/шт
-Морковь отечественная	https://www.perekrestok.ru/cat/150/p/morkov-otecestvennaa-60529	spb	Санкт-Петербург, Биржевая площадь, 4	69,99 ₽/кг
-Морковь мытая Маркет Fresh, 1кг	https://www.perekrestok.ru/cat/150/p/morkov-mytaa-market-fresh-1kg-19345	spb	Санкт-Петербург, Биржевая площадь, 4	129,99 ₽/шт
-Лук репчатый	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-45463	spb	Санкт-Петербург, Биржевая площадь, 4	69,99 ₽/кг
-Лук репчатый красный	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-krasnyj-79012	spb	Санкт-Петербург, Биржевая площадь, 4	129,99 ₽/кг
-Лук Ялтинский	https://www.perekrestok.ru/cat/150/p/luk-altinskij-3368252	spb	Санкт-Петербург, Биржевая площадь, 4	299,99 ₽/кг
-Лук репчатый, 600г	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-600g-3368253	spb	Санкт-Петербург, Биржевая площадь, 4	69,99 ₽/шт
-Лук репчатый в сетке	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-v-setke-3969	spb	Санкт-Петербург, Биржевая площадь, 4	45,99 ₽/кг
-Лук репчатый красный, 500г	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-krasnyj-500g-3016771	spb	Санкт-Петербург, Биржевая площадь, 4	109,99 ₽/шт
-Редис Дайкон белый	https://www.perekrestok.ru/cat/150/p/redis-dajkon-belyj-5565	spb	Санкт-Петербург, Биржевая площадь, 4	249,99 ₽/кг
-Перец Ласточка	https://www.perekrestok.ru/cat/150/p/perec-lastocka-3231963	spb	Санкт-Петербург, Биржевая площадь, 4	179,99 ₽/кг
-Перец красный сладкий	https://www.perekrestok.ru/cat/150/p/perec-krasnyj-sladkij-6177	spb	Санкт-Петербург, Биржевая площадь, 4	349,99 ₽/кг
-Перец в ассортименте, 2шт	https://www.perekrestok.ru/cat/150/p/perec-v-assortimente-2st-4228843	spb	Санкт-Петербург, Биржевая площадь, 4	199,99 ₽/шт
-Авокадо Хасс Маркет fresh, 700г	https://www.perekrestok.ru/cat/150/p/avokado-hass-market-fresh-700g-3948371	spb	Санкт-Петербург, Биржевая площадь, 4	499,99 ₽/шт
-Авокадо	https://www.perekrestok.ru/cat/150/p/avokado-49622	spb	Санкт-Петербург, Биржевая площадь, 4	499,99 ₽/кг
-Авокадо Хасс	https://www.perekrestok.ru/cat/150/p/avokado-hass-3954359	spb	Санкт-Петербург, Биржевая площадь, 4	629,99 ₽/кг
-Кабачки	https://www.perekrestok.ru/cat/150/p/kabacki-44110	spb	Санкт-Петербург, Биржевая площадь, 4	149,99 ₽/кг
-Баклажаны	https://www.perekrestok.ru/cat/150/p/baklazany-4414	spb	Санкт-Петербург, Биржевая площадь, 4	249,99 ₽/кг
-Кабачки фасованные, 600г	https://www.perekrestok.ru/cat/150/p/kabacki-fasovannye-600g-4195054	spb	Санкт-Петербург, Биржевая площадь, 4	139,99 ₽/шт
-Кабачки цуккини зелёные	https://www.perekrestok.ru/cat/150/p/kabacki-cukkini-zelenye-48632	spb	Санкт-Петербург, Биржевая площадь, 4	249,99 ₽/кг
-Баклажаны Граффити	https://www.perekrestok.ru/cat/150/p/baklazany-graffiti-81775	spb	Санкт-Петербург, Биржевая площадь, 4	264,99 ₽/кг
-Свекла молодая	https://www.perekrestok.ru/cat/150/p/svekla-molodaa-13998	spb	Санкт-Петербург, Биржевая площадь, 4	79,99 ₽/кг
-Свекла варёная очищенная целая, 500г	https://www.perekrestok.ru/cat/150/p/svekla-varenaa-ocisennaa-celaa-500g-3635805	spb	Санкт-Петербург, Биржевая площадь, 4	71,99 ₽/шт
-Свекла варёная нарезанная соломкой, 500г	https://www.perekrestok.ru/cat/150/p/svekla-varenaa-narezannaa-solomkoj-500g-3635807	spb	Санкт-Петербург, Биржевая площадь, 4	89,99 ₽/шт
-Свекла варёная нарезанная кубиком, 500г	https://www.perekrestok.ru/cat/150/p/svekla-varenaa-narezannaa-kubikom-500g-3635806	spb	Санкт-Петербург, Биржевая площадь, 4	89,99 ₽/шт
-Свекла	https://www.perekrestok.ru/cat/150/p/svekla-45532	spb	Санкт-Петербург, Биржевая площадь, 4	69,99 ₽/кг
-Свекла мытая фасованная, 1кг	https://www.perekrestok.ru/cat/150/p/svekla-mytaa-fasovannaa-1kg-19768	spb	Санкт-Петербург, Биржевая площадь, 4	89,99 ₽/шт
-Капуста брокколи	https://www.perekrestok.ru/cat/150/p/kapusta-brokkoli-1557	spb	Санкт-Петербург, Биржевая площадь, 4	449,99 ₽/кг
-Капуста	https://www.perekrestok.ru/cat/150/p/kapusta-45661	spb	Санкт-Петербург, Биржевая площадь, 4	46,99 ₽/кг
-Капуста цветная + броколли, 300г	https://www.perekrestok.ru/cat/150/p/kapusta-cvetnaa-brokolli-300g-3698689	spb	Санкт-Петербург, Биржевая площадь, 4	179,99 ₽/шт
-Капуста цветная, 300г	https://www.perekrestok.ru/cat/150/p/kapusta-cvetnaa-300g-3698688	spb	Санкт-Петербург, Биржевая площадь, 4	149,99 ₽/шт
-Капуста кольраби	https://www.perekrestok.ru/cat/150/p/kapusta-kolrabi-1558	spb	Санкт-Петербург, Биржевая площадь, 4	299,99 ₽/кг
-Тыква Оранжевое солнце	https://www.perekrestok.ru/cat/150/p/tykva-oranzevoe-solnce-4088824	spb	Санкт-Петербург, Биржевая площадь, 4	149,99 ₽/кг
-Тыква Баттернат	https://www.perekrestok.ru/cat/150/p/tykva-batternat-82036	spb	Санкт-Петербург, Биржевая площадь, 4	149,99 ₽/кг
-Чеснок	https://www.perekrestok.ru/cat/150/p/cesnok-17662	spb	Санкт-Петербург, Биржевая площадь, 4	49,99 ₽/шт
-Чеснок	https://www.perekrestok.ru/cat/150/p/cesnok-45692	spb	Санкт-Петербург, Биржевая площадь, 4	199,99 ₽/кг
-Чеснок Фермерский, 150г	https://www.perekrestok.ru/cat/150/p/cesnok-fermerskij-150g-51157	spb	Санкт-Петербург, Биржевая площадь, 4	189,99 ₽/шт
-Чеснок Фермерский Чеснок отборный 1 сорта, 1шт	https://www.perekrestok.ru/cat/150/p/cesnok-fermerskij-cesnok-otbornyj-1-sorta-1st-4018137	spb	Санкт-Петербург, Биржевая площадь, 4	69,99 ₽/шт
-Кукуруза сладкая в початках варёная Маркет Fresh	https://www.perekrestok.ru/cat/150/p/kukuruza-sladkaa-v-pocatkah-varenaa-market-fresh-78000169	spb	Санкт-Петербург, Биржевая площадь, 4	189,99 ₽/шт
-Кукуруза	https://www.perekrestok.ru/cat/150/p/kukuruza-53477	spb	Санкт-Петербург, Биржевая площадь, 4	249,99 ₽/кг
-Кукуруза сладкая варёная, 240г	https://www.perekrestok.ru/cat/150/p/kukuruza-sladkaa-varenaa-240g-4119172	spb	Санкт-Петербург, Биржевая площадь, 4	129,99 ₽/шт
-Имбирь	https://www.perekrestok.ru/cat/150/p/imbir-3218215	spb	Санкт-Петербург, Биржевая площадь, 4	549,90 ₽/кг
-Сельдерей черешковый стакан, 200г	https://www.perekrestok.ru/cat/150/p/selderej-cereskovyj-stakan-200g-4264573	spb	Санкт-Петербург, Биржевая площадь, 4	89,99 ₽/шт
-Фенхель	https://www.perekrestok.ru/cat/150/p/fenhel-4702	spb	Санкт-Петербург, Биржевая площадь, 4	759,99 ₽/кг
-Томаты Махитос красные	https://www.perekrestok.ru/cat/150/p/tomaty-mahitos-krasnye-1566	ekb	Екатеринбург, ул. Бориса Ельцина, 3	199,99 ₽/кг
-Картофель ранний	https://www.perekrestok.ru/cat/150/p/kartofel-rannij-45505	ekb	Екатеринбург, ул. Бориса Ельцина, 3	59,99 ₽/кг
-Редис красный, 500г	https://www.perekrestok.ru/cat/150/p/redis-krasnyj-500g-25180	ekb	Екатеринбург, ул. Бориса Ельцина, 3	109,99 ₽/шт
-Сельдерей черешковый, 1шт	https://www.perekrestok.ru/cat/150/p/selderej-cereskovyj-1st-2065179	ekb	Екатеринбург, ул. Бориса Ельцина, 3	99,99 ₽/шт
-Редис красный	https://www.perekrestok.ru/cat/150/p/redis-krasnyj-2083434	ekb	Екатеринбург, ул. Бориса Ельцина, 3	199,99 ₽/кг
-Авокадо Хасс, 2 шт.	https://www.perekrestok.ru/cat/150/p/avokado-hass-2-st-3445047	ekb	Екатеринбург, ул. Бориса Ельцина, 3	199,99 ₽/шт
-Чеснок ранний	https://www.perekrestok.ru/cat/150/p/cesnok-rannij-77278	ekb	Екатеринбург, ул. Бориса Ельцина, 3	429,99 ₽/кг
-Томаты Махитос чёрные	https://www.perekrestok.ru/cat/150/p/tomaty-mahitos-cernye-3255521	ekb	Екатеринбург, ул. Бориса Ельцина, 3	349,99 ₽/кг
-Томаты Мадрид	https://www.perekrestok.ru/cat/150/p/tomaty-madrid-4335745	ekb	Екатеринбург, ул. Бориса Ельцина, 3	399,99 ₽/кг
-Томаты черри чёрный шоколад Маркет Collection, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-cernyj-sokolad-market-collection-250g-4323486	ekb	Екатеринбург, ул. Бориса Ельцина, 3	149,99 ₽/шт
-Томаты черри на ветке, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-na-vetke-250g-3673307	ekb	Екатеринбург, ул. Бориса Ельцина, 3	139,99 ₽/шт
-Томаты Медовые черри красные круглые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-medovye-cerri-krasnye-kruglye-200g-3676649	ekb	Екатеринбург, ул. Бориса Ельцина, 3	179,99 ₽/шт
-Томаты Рост Фламенко красные сливовидные	https://www.perekrestok.ru/cat/150/p/tomaty-rost-flamenko-krasnye-slivovidnye-4214021	ekb	Екатеринбург, ул. Бориса Ельцина, 3	279,99 ₽/кг
-Томаты Flamenco сливовидные красные, 450г	https://www.perekrestok.ru/cat/150/p/tomaty-flamenco-slivovidnye-krasnye-450g-4217380	ekb	Екатеринбург, ул. Бориса Ельцина, 3	139,99 ₽/шт
-Томаты красные круглые	https://www.perekrestok.ru/cat/150/p/tomaty-krasnye-kruglye-2166	ekb	Екатеринбург, ул. Бориса Ельцина, 3	169,99 ₽/кг
-Томаты Черри Медовые оранжевые круглые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-medovye-oranzevye-kruglye-200g-4188460	ekb	Екатеринбург, ул. Бориса Ельцина, 3	189,99 ₽/шт
-Томаты Бакинские	https://www.perekrestok.ru/cat/150/p/tomaty-bakinskie-3017019	ekb	Екатеринбург, ул. Бориса Ельцина, 3	249,99 ₽/кг
-Томаты черри отечественные, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-otecestvennye-250g-3634714	ekb	Екатеринбург, ул. Бориса Ельцина, 3	139,99 ₽/шт
-Томаты черри красные, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-krasnye-250g-11971	ekb	Екатеринбург, ул. Бориса Ельцина, 3	129,99 ₽/шт
-Томаты жёлтые сливовидные, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-zeltye-slivovidnye-350g-3657325	ekb	Екатеринбург, ул. Бориса Ельцина, 3	129,99 ₽/шт
-Томаты Эко-Культура Черри Ароматто сливовидные на ветке, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-aromatto-slivovidnye-na-vetke-500g-4281278	ekb	Екатеринбург, ул. Бориса Ельцина, 3	349,99 ₽/шт
-Томаты розовые	https://www.perekrestok.ru/cat/150/p/tomaty-rozovye-21292	ekb	Екатеринбург, ул. Бориса Ельцина, 3	189,99 ₽/кг
-Томаты Дагестан, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-dagestan-500g-4255159	ekb	Екатеринбург, ул. Бориса Ельцина, 3	199,99 ₽/шт
-Томаты Сладкая Ягода Черри красные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-sladkaa-agoda-cerri-krasnye-200g-4217379	ekb	Екатеринбург, ул. Бориса Ельцина, 3	179,99 ₽/шт
-Томаты Эко-Культура Черри слатто коралловые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-korallovye-200g-4323260	ekb	Екатеринбург, ул. Бориса Ельцина, 3	179,99 ₽/шт
-Томаты Кумато	https://www.perekrestok.ru/cat/150/p/tomaty-kumato-42138	ekb	Екатеринбург, ул. Бориса Ельцина, 3	249,99 ₽/кг
-Томаты Пинк парадайз, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-pink-paradajz-350g-4052764	ekb	Екатеринбург, ул. Бориса Ельцина, 3	239,99 ₽/шт
-Картофель молодой Азербайджан	https://www.perekrestok.ru/cat/150/p/kartofel-molodoj-azerbajdzan-4278509	ekb	Екатеринбург, ул. Бориса Ельцина, 3	69,99 ₽/кг
-Картофель в сетке	https://www.perekrestok.ru/cat/150/p/kartofel-v-setke-3987	ekb	Екатеринбург, ул. Бориса Ельцина, 3	49,99 ₽/кг
-Картофель мытый	https://www.perekrestok.ru/cat/150/p/kartofel-mytyj-2099571	ekb	Екатеринбург, ул. Бориса Ельцина, 3	99,99 ₽/кг
-Картофель для варки, 3кг	https://www.perekrestok.ru/cat/150/p/kartofel-dla-varki-3kg-3142878	ekb	Екатеринбург, ул. Бориса Ельцина, 3	269,99 ₽/шт
-Картофель для жарки, 3кг	https://www.perekrestok.ru/cat/150/p/kartofel-dla-zarki-3kg-3142879	ekb	Екатеринбург, ул. Бориса Ельцина, 3	279,99 ₽/шт
-Огурцы гладкие среднеплодные	https://www.perekrestok.ru/cat/150/p/ogurcy-gladkie-sredneplodnye-2098997	ekb	Екатеринбург, ул. Бориса Ельцина, 3	119,99 ₽/кг
-Огурцы короткоплодные	https://www.perekrestok.ru/cat/150/p/ogurcy-korotkoplodnye-4072	ekb	Екатеринбург, ул. Бориса Ельцина, 3	159,99 ₽/кг
-Огурцы Фасованные, 450г	https://www.perekrestok.ru/cat/150/p/ogurcy-fasovannye-450g-44569	ekb	Екатеринбург, ул. Бориса Ельцина, 3	129,99 ₽/шт
-Огурцы, 600г	https://www.perekrestok.ru/cat/150/p/ogurcy-600g-2131726	ekb	Екатеринбург, ул. Бориса Ельцина, 3	89,99 ₽/шт
-Огурцы длинные, 1шт	https://www.perekrestok.ru/cat/150/p/ogurcy-dlinnye-1st-3301324	ekb	Екатеринбург, ул. Бориса Ельцина, 3	59,99 ₽/шт
-Морковь отечественная	https://www.perekrestok.ru/cat/150/p/morkov-otecestvennaa-60529	ekb	Екатеринбург, ул. Бориса Ельцина, 3	69,99 ₽/кг
-Морковь мытая Маркет Fresh, 1кг	https://www.perekrestok.ru/cat/150/p/morkov-mytaa-market-fresh-1kg-19345	ekb	Екатеринбург, ул. Бориса Ельцина, 3	104,99 ₽/шт
-Лук репчатый	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-45463	ekb	Екатеринбург, ул. Бориса Ельцина, 3	49,99 ₽/кг
-Лук репчатый в сетке	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-v-setke-3969	ekb	Екатеринбург, ул. Бориса Ельцина, 3	45,99 ₽/кг
-Лук репчатый красный	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-krasnyj-79012	ekb	Екатеринбург, ул. Бориса Ельцина, 3	139,99 ₽/кг
-Лук Ялтинский	https://www.perekrestok.ru/cat/150/p/luk-altinskij-3368252	ekb	Екатеринбург, ул. Бориса Ельцина, 3	249,99 ₽/кг
-Лук репчатый, 500г	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-500g-3016772	ekb	Екатеринбург, ул. Бориса Ельцина, 3	159,99 ₽/шт
-Перец Ласточка	https://www.perekrestok.ru/cat/150/p/perec-lastocka-3231963	ekb	Екатеринбург, ул. Бориса Ельцина, 3	149,99 ₽/кг
-Авокадо	https://www.perekrestok.ru/cat/150/p/avokado-49622	ekb	Екатеринбург, ул. Бориса Ельцина, 3	429,99 ₽/кг
-Авокадо Хасс	https://www.perekrestok.ru/cat/150/p/avokado-hass-81751	ekb	Екатеринбург, ул. Бориса Ельцина, 3	639,90 ₽/кг
-Кабачки	https://www.perekrestok.ru/cat/150/p/kabacki-44110	ekb	Екатеринбург, ул. Бориса Ельцина, 3	109,99 ₽/кг
-Баклажаны	https://www.perekrestok.ru/cat/150/p/baklazany-4414	ekb	Екатеринбург, ул. Бориса Ельцина, 3	259,99 ₽/кг
-Кабачки фасованные, 600г	https://www.perekrestok.ru/cat/150/p/kabacki-fasovannye-600g-4195054	ekb	Екатеринбург, ул. Бориса Ельцина, 3	89,99 ₽/шт
-Кабачки цуккини зелёные	https://www.perekrestok.ru/cat/150/p/kabacki-cukkini-zelenye-48632	ekb	Екатеринбург, ул. Бориса Ельцина, 3	199,99 ₽/кг
-Свекла	https://www.perekrestok.ru/cat/150/p/svekla-45532	ekb	Екатеринбург, ул. Бориса Ельцина, 3	63,99 ₽/кг
-Свекла варёная очищенная целая, 500г	https://www.perekrestok.ru/cat/150/p/svekla-varenaa-ocisennaa-celaa-500g-3635805	ekb	Екатеринбург, ул. Бориса Ельцина, 3	95,99 ₽/шт
-Свекла мытая фасованная, 1кг	https://www.perekrestok.ru/cat/150/p/svekla-mytaa-fasovannaa-1kg-19768	ekb	Екатеринбург, ул. Бориса Ельцина, 3	79,99 ₽/шт
-Свекла варёная нарезанная соломкой, 500г	https://www.perekrestok.ru/cat/150/p/svekla-varenaa-narezannaa-solomkoj-500g-3635807	ekb	Екатеринбург, ул. Бориса Ельцина, 3	104,99 ₽/шт
-Капуста	https://www.perekrestok.ru/cat/150/p/kapusta-45661	ekb	Екатеринбург, ул. Бориса Ельцина, 3	37,99 ₽/кг
-Капуста брокколи	https://www.perekrestok.ru/cat/150/p/kapusta-brokkoli-1557	ekb	Екатеринбург, ул. Бориса Ельцина, 3	299,99 ₽/кг
-Капуста китайская	https://www.perekrestok.ru/cat/150/p/kapusta-kitajskaa-78682	ekb	Екатеринбург, ул. Бориса Ельцина, 3	169,99 ₽/кг
-Капуста брокколи, 300г	https://www.perekrestok.ru/cat/150/p/kapusta-brokkoli-300g-3698687	ekb	Екатеринбург, ул. Бориса Ельцина, 3	149,99 ₽/шт
-Капуста кольраби	https://www.perekrestok.ru/cat/150/p/kapusta-kolrabi-1558	ekb	Екатеринбург, ул. Бориса Ельцина, 3	169,99 ₽/кг
-Тыква Баттернат	https://www.perekrestok.ru/cat/150/p/tykva-batternat-82036	ekb	Екатеринбург, ул. Бориса Ельцина, 3	119,99 ₽/кг
-Чеснок	https://www.perekrestok.ru/cat/150/p/cesnok-17662	ekb	Екатеринбург, ул. Бориса Ельцина, 3	65,99 ₽/шт
-Чеснок	https://www.perekrestok.ru/cat/150/p/cesnok-45692	ekb	Екатеринбург, ул. Бориса Ельцина, 3	379,99 ₽/кг
-Чеснок Фермерский Чеснок тёртый, 80г	https://www.perekrestok.ru/cat/150/p/cesnok-fermerskij-cesnok-tertyj-80g-3677358	ekb	Екатеринбург, ул. Бориса Ельцина, 3	129,99 ₽/шт
-Кукуруза сладкая в початках варёная Маркет Fresh	https://www.perekrestok.ru/cat/150/p/kukuruza-sladkaa-v-pocatkah-varenaa-market-fresh-78000169	ekb	Екатеринбург, ул. Бориса Ельцина, 3	199,99 ₽/шт
-Имбирь	https://www.perekrestok.ru/cat/150/p/imbir-3218215	ekb	Екатеринбург, ул. Бориса Ельцина, 3	399,90 ₽/кг
-Томаты Махитос красные	https://www.perekrestok.ru/cat/150/p/tomaty-mahitos-krasnye-1566	nn	Нижний Новгород, площадь Минина и Пожарского, 2	179,99 ₽/кг
-Перец сладкий	https://www.perekrestok.ru/cat/150/p/perec-sladkij-53484	nn	Нижний Новгород, площадь Минина и Пожарского, 2	169,99 ₽/кг
-Картофель ранний	https://www.perekrestok.ru/cat/150/p/kartofel-rannij-45505	nn	Нижний Новгород, площадь Минина и Пожарского, 2	59,99 ₽/кг
-Сельдерей черешковый, 1шт	https://www.perekrestok.ru/cat/150/p/selderej-cereskovyj-1st-2065179	nn	Нижний Новгород, площадь Минина и Пожарского, 2	89,99 ₽/шт
-Редис красный	https://www.perekrestok.ru/cat/150/p/redis-krasnyj-2083434	nn	Нижний Новгород, площадь Минина и Пожарского, 2	229,99 ₽/кг
-Авокадо Хасс, 2 шт.	https://www.perekrestok.ru/cat/150/p/avokado-hass-2-st-3445047	nn	Нижний Новгород, площадь Минина и Пожарского, 2	219,99 ₽/шт
-Чеснок ранний	https://www.perekrestok.ru/cat/150/p/cesnok-rannij-77278	nn	Нижний Новгород, площадь Минина и Пожарского, 2	399,99 ₽/кг
-Томаты Махитос чёрные	https://www.perekrestok.ru/cat/150/p/tomaty-mahitos-cernye-3255521	nn	Нижний Новгород, площадь Минина и Пожарского, 2	349,99 ₽/кг
-Лук порей	https://www.perekrestok.ru/cat/150/p/luk-porej-1561	nn	Нижний Новгород, площадь Минина и Пожарского, 2	599,90 ₽/кг
-Томаты черри на ветке, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-na-vetke-250g-3673307	nn	Нижний Новгород, площадь Минина и Пожарского, 2	139,99 ₽/шт
-Томаты Медовые черри красные круглые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-medovye-cerri-krasnye-kruglye-200g-3676649	nn	Нижний Новгород, площадь Минина и Пожарского, 2	189,99 ₽/шт
-Томаты Рост Фламенко красные сливовидные	https://www.perekrestok.ru/cat/150/p/tomaty-rost-flamenko-krasnye-slivovidnye-4214021	nn	Нижний Новгород, площадь Минина и Пожарского, 2	249,99 ₽/кг
-Томаты Flamenco сливовидные красные, 450г	https://www.perekrestok.ru/cat/150/p/tomaty-flamenco-slivovidnye-krasnye-450g-4217380	nn	Нижний Новгород, площадь Минина и Пожарского, 2	119,99 ₽/шт
-Томаты красные круглые	https://www.perekrestok.ru/cat/150/p/tomaty-krasnye-kruglye-2166	nn	Нижний Новгород, площадь Минина и Пожарского, 2	169,99 ₽/кг
-Томаты Черри Медовые оранжевые круглые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-medovye-oranzevye-kruglye-200g-4188460	nn	Нижний Новгород, площадь Минина и Пожарского, 2	149,99 ₽/шт
-Томаты Бакинские	https://www.perekrestok.ru/cat/150/p/tomaty-bakinskie-3017019	nn	Нижний Новгород, площадь Минина и Пожарского, 2	299,99 ₽/кг
-Томаты розовые Азербайджан	https://www.perekrestok.ru/cat/150/p/tomaty-rozovye-azerbajdzan-3695580	nn	Нижний Новгород, площадь Минина и Пожарского, 2	214,99 ₽/кг
-Томаты черри отечественные, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-otecestvennye-250g-3634714	nn	Нижний Новгород, площадь Минина и Пожарского, 2	149,99 ₽/шт
-Томаты черри красные, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-krasnye-250g-11971	nn	Нижний Новгород, площадь Минина и Пожарского, 2	129,99 ₽/шт
-Томаты Бакинские, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-bakinskie-350g-4327843	nn	Нижний Новгород, площадь Минина и Пожарского, 2	169,99 ₽/шт
-Томаты жёлтые сливовидные, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-zeltye-slivovidnye-350g-3657325	nn	Нижний Новгород, площадь Минина и Пожарского, 2	179,99 ₽/шт
-Томаты Эко-Культура Черри Ароматто сливовидные на ветке, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-aromatto-slivovidnye-na-vetke-500g-4281278	nn	Нижний Новгород, площадь Минина и Пожарского, 2	369,99 ₽/шт
-Томаты Дагестан, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-dagestan-500g-4255159	nn	Нижний Новгород, площадь Минина и Пожарского, 2	199,99 ₽/шт
-Томаты коктейльные розовые, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-koktejlnye-rozovye-350g-2138220	nn	Нижний Новгород, площадь Минина и Пожарского, 2	189,99 ₽/шт
-Томаты Сладкая Ягода Черри красные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-sladkaa-agoda-cerri-krasnye-200g-4217379	nn	Нижний Новгород, площадь Минина и Пожарского, 2	159,99 ₽/шт
-Томаты Эко-Культура Черри слатто коралловые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-korallovye-200g-4323260	nn	Нижний Новгород, площадь Минина и Пожарского, 2	169,99 ₽/шт
-Томаты коктейль сливовидные, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-koktejl-slivovidnye-350g-82521	nn	Нижний Новгород, площадь Минина и Пожарского, 2	189,99 ₽/шт
-Томаты Бычье сердце	https://www.perekrestok.ru/cat/150/p/tomaty-byce-serdce-3383460	nn	Нижний Новгород, площадь Минина и Пожарского, 2	459,99 ₽/кг
-Томаты Кумато	https://www.perekrestok.ru/cat/150/p/tomaty-kumato-42138	nn	Нижний Новгород, площадь Минина и Пожарского, 2	249,99 ₽/кг
-Томаты Эко-культура Черри Слатто сливовидные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-slivovidnye-200g-4281279	nn	Нижний Новгород, площадь Минина и Пожарского, 2	159,99 ₽/шт
-Томаты Пинк парадайз	https://www.perekrestok.ru/cat/150/p/tomaty-pink-paradajz-3217281	nn	Нижний Новгород, площадь Минина и Пожарского, 2	599,99 ₽/кг
-Томаты черри жёлтые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-zeltye-200g-4175639	nn	Нижний Новгород, площадь Минина и Пожарского, 2	159,99 ₽/шт
-Картофель в сетке	https://www.perekrestok.ru/cat/150/p/kartofel-v-setke-3987	nn	Нижний Новгород, площадь Минина и Пожарского, 2	49,99 ₽/кг
-Картофель мытый	https://www.perekrestok.ru/cat/150/p/kartofel-mytyj-2099571	nn	Нижний Новгород, площадь Минина и Пожарского, 2	79,99 ₽/кг
-Картофель для варки, 3кг	https://www.perekrestok.ru/cat/150/p/kartofel-dla-varki-3kg-3142878	nn	Нижний Новгород, площадь Минина и Пожарского, 2	249,99 ₽/шт
-Картофель Кримм Классический Шарики пастеризованный, 500г	https://www.perekrestok.ru/cat/150/p/kartofel-krimm-klassiceskij-sariki-pasterizovannyj-500g-4011560	nn	Нижний Новгород, площадь Минина и Пожарского, 2	79,99 ₽/шт
-Картофель варёный очищенный, 500г	https://www.perekrestok.ru/cat/150/p/kartofel-varenyj-ocisennyj-500g-59403	nn	Нижний Новгород, площадь Минина и Пожарского, 2	84,99 ₽/шт
-Огурцы гладкие среднеплодные	https://www.perekrestok.ru/cat/150/p/ogurcy-gladkie-sredneplodnye-2098997	nn	Нижний Новгород, площадь Минина и Пожарского, 2	129,99 ₽/кг
-Огурцы короткоплодные	https://www.perekrestok.ru/cat/150/p/ogurcy-korotkoplodnye-4072	nn	Нижний Новгород, площадь Минина и Пожарского, 2	199,99 ₽/кг
-Огурцы Фасованные, 450г	https://www.perekrestok.ru/cat/150/p/ogurcy-fasovannye-450g-44569	nn	Нижний Новгород, площадь Минина и Пожарского, 2	119,99 ₽/шт
-Огурцы Хрустящие, 450г	https://www.perekrestok.ru/cat/150/p/ogurcy-hrustasie-450g-3682401	nn	Нижний Новгород, площадь Минина и Пожарского, 2	99,99 ₽/шт
-Огурцы, 600г	https://www.perekrestok.ru/cat/150/p/ogurcy-600g-2131726	nn	Нижний Новгород, площадь Минина и Пожарского, 2	54,99 ₽/шт
-Огурцы корнишоны, 300г	https://www.perekrestok.ru/cat/150/p/ogurcy-kornisony-300g-3368258	nn	Нижний Новгород, площадь Минина и Пожарского, 2	149,99 ₽/шт
-Морковь отечественная	https://www.perekrestok.ru/cat/150/p/morkov-otecestvennaa-60529	nn	Нижний Новгород, площадь Минина и Пожарского, 2	69,99 ₽/кг
-Морковь мытая Маркет Fresh, 1кг	https://www.perekrestok.ru/cat/150/p/morkov-mytaa-market-fresh-1kg-19345	nn	Нижний Новгород, площадь Минина и Пожарского, 2	119,99 ₽/шт
-Морковь на подложке, 600г	https://www.perekrestok.ru/cat/150/p/morkov-na-podlozke-600g-3368256	nn	Нижний Новгород, площадь Минина и Пожарского, 2	69,99 ₽/шт
-Лук репчатый	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-45463	nn	Нижний Новгород, площадь Минина и Пожарского, 2	44,99 ₽/кг
-Лук репчатый в сетке	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-v-setke-3969	nn	Нижний Новгород, площадь Минина и Пожарского, 2	39,99 ₽/кг
-Лук репчатый красный	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-krasnyj-79012	nn	Нижний Новгород, площадь Минина и Пожарского, 2	129,99 ₽/кг
-Лук репчатый, 600г	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-600g-3368253	nn	Нижний Новгород, площадь Минина и Пожарского, 2	49,99 ₽/шт
-Лук Ялтинский	https://www.perekrestok.ru/cat/150/p/luk-altinskij-3368252	nn	Нижний Новгород, площадь Минина и Пожарского, 2	199,99 ₽/кг
-Лук репчатый красный, 500г	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-krasnyj-500g-3016771	nn	Нижний Новгород, площадь Минина и Пожарского, 2	99,99 ₽/шт
-Редис микс свежий	https://www.perekrestok.ru/cat/150/p/redis-miks-svezij-3277108	nn	Нижний Новгород, площадь Минина и Пожарского, 2	399,90 ₽/кг
-Перец Ласточка	https://www.perekrestok.ru/cat/150/p/perec-lastocka-3231963	nn	Нижний Новгород, площадь Минина и Пожарского, 2	99,99 ₽/кг
-Перец красный сладкий	https://www.perekrestok.ru/cat/150/p/perec-krasnyj-sladkij-6177	nn	Нижний Новгород, площадь Минина и Пожарского, 2	299,99 ₽/кг
-Перец в ассортименте, 2шт	https://www.perekrestok.ru/cat/150/p/perec-v-assortimente-2st-4228843	nn	Нижний Новгород, площадь Минина и Пожарского, 2	199,99 ₽/шт
-Перец чили красный мини, 50г	https://www.perekrestok.ru/cat/150/p/perec-cili-krasnyj-mini-50g-4040980	nn	Нижний Новгород, площадь Минина и Пожарского, 2	69,99 ₽/шт
-Перец Палермо высшего сорта, 300г	https://www.perekrestok.ru/cat/150/p/perec-palermo-vyssego-sorta-300g-3929715	nn	Нижний Новгород, площадь Минина и Пожарского, 2	169,99 ₽/шт
-Перец жгучий смешанный, 100г	https://www.perekrestok.ru/cat/150/p/perec-zgucij-smesannyj-100g-2143028	nn	Нижний Новгород, площадь Минина и Пожарского, 2	119,99 ₽/шт
-Авокадо	https://www.perekrestok.ru/cat/150/p/avokado-49622	nn	Нижний Новгород, площадь Минина и Пожарского, 2	499,90 ₽/кг
-Авокадо Хасс	https://www.perekrestok.ru/cat/150/p/avokado-hass-3954359	nn	Нижний Новгород, площадь Минина и Пожарского, 2	599,90 ₽/кг
-Кабачки	https://www.perekrestok.ru/cat/150/p/kabacki-44110	nn	Нижний Новгород, площадь Минина и Пожарского, 2	139,99 ₽/кг
-Баклажаны	https://www.perekrestok.ru/cat/150/p/baklazany-4414	nn	Нижний Новгород, площадь Минина и Пожарского, 2	199,99 ₽/кг
-Баклажаны Граффити	https://www.perekrestok.ru/cat/150/p/baklazany-graffiti-81775	nn	Нижний Новгород, площадь Минина и Пожарского, 2	299,99 ₽/кг
-Свекла	https://www.perekrestok.ru/cat/150/p/svekla-45532	nn	Нижний Новгород, площадь Минина и Пожарского, 2	69,99 ₽/кг
-Свекла варёная очищенная целая, 500г	https://www.perekrestok.ru/cat/150/p/svekla-varenaa-ocisennaa-celaa-500g-3635805	nn	Нижний Новгород, площадь Минина и Пожарского, 2	84,99 ₽/шт
-Свекла варёная нарезанная соломкой, 500г	https://www.perekrestok.ru/cat/150/p/svekla-varenaa-narezannaa-solomkoj-500g-3635807	nn	Нижний Новгород, площадь Минина и Пожарского, 2	99,99 ₽/шт
-Капуста	https://www.perekrestok.ru/cat/150/p/kapusta-45661	nn	Нижний Новгород, площадь Минина и Пожарского, 2	39,99 ₽/кг
-Капуста брокколи	https://www.perekrestok.ru/cat/150/p/kapusta-brokkoli-1557	nn	Нижний Новгород, площадь Минина и Пожарского, 2	299,99 ₽/кг
-Капуста цветная	https://www.perekrestok.ru/cat/150/p/kapusta-cvetnaa-79224	nn	Нижний Новгород, площадь Минина и Пожарского, 2	224,99 ₽/кг
-Тыква Оранжевое солнце	https://www.perekrestok.ru/cat/150/p/tykva-oranzevoe-solnce-4088824	nn	Нижний Новгород, площадь Минина и Пожарского, 2	119,99 ₽/кг
-Чеснок	https://www.perekrestok.ru/cat/150/p/cesnok-17662	nn	Нижний Новгород, площадь Минина и Пожарского, 2	54,99 ₽/шт
-Чеснок	https://www.perekrestok.ru/cat/150/p/cesnok-45692	nn	Нижний Новгород, площадь Минина и Пожарского, 2	349,99 ₽/кг
-Кукуруза сладкая в початках варёная Маркет Fresh	https://www.perekrestok.ru/cat/150/p/kukuruza-sladkaa-v-pocatkah-varenaa-market-fresh-78000169	nn	Нижний Новгород, площадь Минина и Пожарского, 2	199,99 ₽/шт
-Кукуруза	https://www.perekrestok.ru/cat/150/p/kukuruza-53477	nn	Нижний Новгород, площадь Минина и Пожарского, 2	249,99 ₽/кг
-Кукуруза сладкая варёная, 240г	https://www.perekrestok.ru/cat/150/p/kukuruza-sladkaa-varenaa-240g-4119172	nn	Нижний Новгород, площадь Минина и Пожарского, 2	199,99 ₽/шт
-Имбирь	https://www.perekrestok.ru/cat/150/p/imbir-3218215	nn	Нижний Новгород, площадь Минина и Пожарского, 2	439,90 ₽/кг
-Картофель ранний	https://www.perekrestok.ru/cat/150/p/kartofel-rannij-45505	pg	Пятигорск, улица Малыгина, 5	59,99 ₽/кг
-Редис красный, 500г	https://www.perekrestok.ru/cat/150/p/redis-krasnyj-500g-25180	pg	Пятигорск, улица Малыгина, 5	99,99 ₽/шт
-Авокадо Хасс спелое, 2шт	https://www.perekrestok.ru/cat/150/p/avokado-hass-speloe-2st-3356275	pg	Пятигорск, улица Малыгина, 5	199,99 ₽/шт
-Сельдерей черешковый, 1шт	https://www.perekrestok.ru/cat/150/p/selderej-cereskovyj-1st-2065179	pg	Пятигорск, улица Малыгина, 5	119,99 ₽/шт
-Редис красный	https://www.perekrestok.ru/cat/150/p/redis-krasnyj-2083434	pg	Пятигорск, улица Малыгина, 5	119,99 ₽/кг
-Чеснок ранний	https://www.perekrestok.ru/cat/150/p/cesnok-rannij-77278	pg	Пятигорск, улица Малыгина, 5	449,99 ₽/кг
-Лук порей	https://www.perekrestok.ru/cat/150/p/luk-porej-1561	pg	Пятигорск, улица Малыгина, 5	599,99 ₽/кг
-Томаты черри чёрный шоколад Маркет Collection, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-cernyj-sokolad-market-collection-250g-4323486	pg	Пятигорск, улица Малыгина, 5	199,99 ₽/шт
-Томаты черри на ветке, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-na-vetke-250g-3673307	pg	Пятигорск, улица Малыгина, 5	129,99 ₽/шт
-Томаты Медовые черри красные круглые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-medovye-cerri-krasnye-kruglye-200g-3676649	pg	Пятигорск, улица Малыгина, 5	199,99 ₽/шт
-Томаты Рост Фламенко красные сливовидные	https://www.perekrestok.ru/cat/150/p/tomaty-rost-flamenko-krasnye-slivovidnye-4214021	pg	Пятигорск, улица Малыгина, 5	259,99 ₽/кг
-Томаты Flamenco сливовидные красные, 450г	https://www.perekrestok.ru/cat/150/p/tomaty-flamenco-slivovidnye-krasnye-450g-4217380	pg	Пятигорск, улица Малыгина, 5	129,99 ₽/шт
-Томаты красные круглые	https://www.perekrestok.ru/cat/150/p/tomaty-krasnye-kruglye-2166	pg	Пятигорск, улица Малыгина, 5	139,99 ₽/кг
-Томаты Черри Медовые оранжевые круглые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-medovye-oranzevye-kruglye-200g-4188460	pg	Пятигорск, улица Малыгина, 5	199,99 ₽/шт
-Томаты черри отечественные, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-otecestvennye-250g-3634714	pg	Пятигорск, улица Малыгина, 5	119,99 ₽/шт
-Томаты Бакинские, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-bakinskie-350g-4327843	pg	Пятигорск, улица Малыгина, 5	169,99 ₽/шт
-Томаты жёлтые сливовидные, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-zeltye-slivovidnye-350g-3657325	pg	Пятигорск, улица Малыгина, 5	169,99 ₽/шт
-Томаты жёлтые сливовидные	https://www.perekrestok.ru/cat/150/p/tomaty-zeltye-slivovidnye-14809	pg	Пятигорск, улица Малыгина, 5	249,99 ₽/кг
-Томаты Эко-Культура Черри Ароматто сливовидные на ветке, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-aromatto-slivovidnye-na-vetke-500g-4281278	pg	Пятигорск, улица Малыгина, 5	399,99 ₽/шт
-Томаты розовые	https://www.perekrestok.ru/cat/150/p/tomaty-rozovye-21292	pg	Пятигорск, улица Малыгина, 5	369,99 ₽/кг
-Томаты Дагестан, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-dagestan-500g-4255159	pg	Пятигорск, улица Малыгина, 5	169,99 ₽/шт
-Томаты коктейльные розовые, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-koktejlnye-rozovye-350g-2138220	pg	Пятигорск, улица Малыгина, 5	209,99 ₽/шт
-Томаты Сладкая Ягода Черри красные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-sladkaa-agoda-cerri-krasnye-200g-4217379	pg	Пятигорск, улица Малыгина, 5	129,99 ₽/шт
-Томаты Эко-Культура Черри слатто коралловые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-korallovye-200g-4323260	pg	Пятигорск, улица Малыгина, 5	149,99 ₽/шт
-Томаты коктейль сливовидные, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-koktejl-slivovidnye-350g-82521	pg	Пятигорск, улица Малыгина, 5	199,99 ₽/шт
-Томаты Эко-культура Черри Слатто сливовидные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-slivovidnye-200g-4281279	pg	Пятигорск, улица Малыгина, 5	119,99 ₽/шт
-Томаты Эко-Культура черри зеленые сливовидные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-zelenye-slivovidnye-200g-4323266	pg	Пятигорск, улица Малыгина, 5	119,99 ₽/шт
-Томаты Кумато черри мини, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-kumato-cerri-mini-250g-3373662	pg	Пятигорск, улица Малыгина, 5	239,99 ₽/шт
-Томаты Пинк парадайз	https://www.perekrestok.ru/cat/150/p/tomaty-pink-paradajz-3217281	pg	Пятигорск, улица Малыгина, 5	599,99 ₽/кг
-Томаты Эко-Культура черри слатто желтые, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-zeltye-250g-4281276	pg	Пятигорск, улица Малыгина, 5	149,99 ₽/шт
-Томат Кривянский	https://www.perekrestok.ru/cat/150/p/tomat-krivanskij-12572	pg	Пятигорск, улица Малыгина, 5	179,99 ₽/кг
-Томаты розовые фасованные, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-rozovye-fasovannye-500g-3383465	pg	Пятигорск, улица Малыгина, 5	169,99 ₽/шт
-Картофель мытый	https://www.perekrestok.ru/cat/150/p/kartofel-mytyj-2099571	pg	Пятигорск, улица Малыгина, 5	89,99 ₽/кг
-Картофель для варки, 3кг	https://www.perekrestok.ru/cat/150/p/kartofel-dla-varki-3kg-3142878	pg	Пятигорск, улица Малыгина, 5	299,99 ₽/шт
-Картофель для жарки, 3кг	https://www.perekrestok.ru/cat/150/p/kartofel-dla-zarki-3kg-3142879	pg	Пятигорск, улица Малыгина, 5	299,99 ₽/шт
-Картофель Кримм Классический Шарики пастеризованный, 500г	https://www.perekrestok.ru/cat/150/p/kartofel-krimm-klassiceskij-sariki-pasterizovannyj-500g-4011560	pg	Пятигорск, улица Малыгина, 5	79,99 ₽/шт
-Картофель варёный очищенный, 500г	https://www.perekrestok.ru/cat/150/p/kartofel-varenyj-ocisennyj-500g-59403	pg	Пятигорск, улица Малыгина, 5	89,99 ₽/шт
-Огурцы короткоплодные	https://www.perekrestok.ru/cat/150/p/ogurcy-korotkoplodnye-4072	pg	Пятигорск, улица Малыгина, 5	139,99 ₽/кг
-Огурцы Фасованные, 450г	https://www.perekrestok.ru/cat/150/p/ogurcy-fasovannye-450g-44569	pg	Пятигорск, улица Малыгина, 5	89,99 ₽/шт
-Огурцы корнишоны, 300г	https://www.perekrestok.ru/cat/150/p/ogurcy-kornisony-300g-3368258	pg	Пятигорск, улица Малыгина, 5	129,99 ₽/шт
-Морковь отечественная	https://www.perekrestok.ru/cat/150/p/morkov-otecestvennaa-60529	pg	Пятигорск, улица Малыгина, 5	58,99 ₽/кг
-Морковь на подложке, 600г	https://www.perekrestok.ru/cat/150/p/morkov-na-podlozke-600g-3368256	pg	Пятигорск, улица Малыгина, 5	59,99 ₽/шт
-Морковь Дмитровские Овощи целая вареная очищенная, 500г	https://www.perekrestok.ru/cat/150/p/morkov-dmitrovskie-ovosi-celaa-varenaa-ocisennaa-500g-3444579	pg	Пятигорск, улица Малыгина, 5	79,99 ₽/шт
-Лук репчатый	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-45463	pg	Пятигорск, улица Малыгина, 5	57,99 ₽/кг
-Лук репчатый в сетке	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-v-setke-3969	pg	Пятигорск, улица Малыгина, 5	49,99 ₽/кг
-Лук репчатый красный	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-krasnyj-79012	pg	Пятигорск, улица Малыгина, 5	139,99 ₽/кг
-Лук репчатый, 600г	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-600g-3368253	pg	Пятигорск, улица Малыгина, 5	59,99 ₽/шт
-Лук Ялтинский	https://www.perekrestok.ru/cat/150/p/luk-altinskij-3368252	pg	Пятигорск, улица Малыгина, 5	229,99 ₽/кг
-Лук репчатый красный, 500г	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-krasnyj-500g-3016771	pg	Пятигорск, улица Малыгина, 5	109,99 ₽/шт
-Перец красный сладкий	https://www.perekrestok.ru/cat/150/p/perec-krasnyj-sladkij-6177	pg	Пятигорск, улица Малыгина, 5	299,99 ₽/кг
-Перец чили красный мини, 50г	https://www.perekrestok.ru/cat/150/p/perec-cili-krasnyj-mini-50g-4040980	pg	Пятигорск, улица Малыгина, 5	129,99 ₽/шт
-Перец жгучий смешанный, 100г	https://www.perekrestok.ru/cat/150/p/perec-zgucij-smesannyj-100g-2143028	pg	Пятигорск, улица Малыгина, 5	129,99 ₽/шт
-Авокадо	https://www.perekrestok.ru/cat/150/p/avokado-49622	pg	Пятигорск, улица Малыгина, 5	499,99 ₽/кг
-Авокадо Хасс Маркет fresh, 700г	https://www.perekrestok.ru/cat/150/p/avokado-hass-market-fresh-700g-3948371	pg	Пятигорск, улица Малыгина, 5	499,99 ₽/шт
-Авокадо Хасс	https://www.perekrestok.ru/cat/150/p/avokado-hass-3954359	pg	Пятигорск, улица Малыгина, 5	659,99 ₽/кг
-Кабачки	https://www.perekrestok.ru/cat/150/p/kabacki-44110	pg	Пятигорск, улица Малыгина, 5	99,99 ₽/кг
-Кабачки цуккини зелёные	https://www.perekrestok.ru/cat/150/p/kabacki-cukkini-zelenye-48632	pg	Пятигорск, улица Малыгина, 5	149,99 ₽/кг
-Кабачки Цуккини зелёные, 600г	https://www.perekrestok.ru/cat/150/p/kabacki-cukkini-zelenye-600g-4131555	pg	Пятигорск, улица Малыгина, 5	149,99 ₽/шт
-Свекла	https://www.perekrestok.ru/cat/150/p/svekla-45532	pg	Пятигорск, улица Малыгина, 5	53,99 ₽/кг
-Свекла мытая фасованная, 1кг	https://www.perekrestok.ru/cat/150/p/svekla-mytaa-fasovannaa-1kg-19768	pg	Пятигорск, улица Малыгина, 5	89,99 ₽/шт
-Свекла варёная нарезанная соломкой, 500г	https://www.perekrestok.ru/cat/150/p/svekla-varenaa-narezannaa-solomkoj-500g-3635807	pg	Пятигорск, улица Малыгина, 5	99,99 ₽/шт
-Капуста брокколи	https://www.perekrestok.ru/cat/150/p/kapusta-brokkoli-1557	pg	Пятигорск, улица Малыгина, 5	349,99 ₽/кг
-Капуста краснокочанная	https://www.perekrestok.ru/cat/150/p/kapusta-krasnokocannaa-73917	pg	Пятигорск, улица Малыгина, 5	99,99 ₽/кг
-Чеснок	https://www.perekrestok.ru/cat/150/p/cesnok-45692	pg	Пятигорск, улица Малыгина, 5	399,99 ₽/кг
-Чеснок Фермерский Чеснок тёртый, 80г	https://www.perekrestok.ru/cat/150/p/cesnok-fermerskij-cesnok-tertyj-80g-3677358	pg	Пятигорск, улица Малыгина, 5	119,99 ₽/шт
-Кукуруза сладкая в початках варёная Маркет Fresh	https://www.perekrestok.ru/cat/150/p/kukuruza-sladkaa-v-pocatkah-varenaa-market-fresh-78000169	pg	Пятигорск, улица Малыгина, 5	169,99 ₽/шт
-Кукуруза мини импортная, 125г	https://www.perekrestok.ru/cat/150/p/kukuruza-mini-importnaa-125g-50591	pg	Пятигорск, улица Малыгина, 5	229,99 ₽/шт
-Имбирь	https://www.perekrestok.ru/cat/150/p/imbir-3218215	pg	Пятигорск, улица Малыгина, 5	549,90 ₽/кг
-Картофель ранний	https://www.perekrestok.ru/cat/150/p/kartofel-rannij-45505	rnd	Ростов-на-Дону, Будённовский проспект, 45	59,99 ₽/кг
-Редис красный, 500г	https://www.perekrestok.ru/cat/150/p/redis-krasnyj-500g-25180	rnd	Ростов-на-Дону, Будённовский проспект, 45	129,99 ₽/шт
-Авокадо Хасс спелое, 2шт	https://www.perekrestok.ru/cat/150/p/avokado-hass-speloe-2st-3356275	rnd	Ростов-на-Дону, Будённовский проспект, 45	199,99 ₽/шт
-Сельдерей черешковый, 1шт	https://www.perekrestok.ru/cat/150/p/selderej-cereskovyj-1st-2065179	rnd	Ростов-на-Дону, Будённовский проспект, 45	119,99 ₽/шт
-Чеснок ранний	https://www.perekrestok.ru/cat/150/p/cesnok-rannij-77278	rnd	Ростов-на-Дону, Будённовский проспект, 45	449,99 ₽/кг
-Томат Биф розовый	https://www.perekrestok.ru/cat/150/p/tomat-bif-rozovyj-4132395	rnd	Ростов-на-Дону, Будённовский проспект, 45	349,99 ₽/кг
-Томаты черри чёрный шоколад Маркет Collection, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-cernyj-sokolad-market-collection-250g-4323486	rnd	Ростов-на-Дону, Будённовский проспект, 45	199,99 ₽/шт
-Томаты черри на ветке, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-na-vetke-250g-3673307	rnd	Ростов-на-Дону, Будённовский проспект, 45	109,99 ₽/шт
-Томаты Медовые черри красные круглые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-medovye-cerri-krasnye-kruglye-200g-3676649	rnd	Ростов-на-Дону, Будённовский проспект, 45	199,99 ₽/шт
-Томаты Рост Фламенко красные сливовидные	https://www.perekrestok.ru/cat/150/p/tomaty-rost-flamenko-krasnye-slivovidnye-4214021	rnd	Ростов-на-Дону, Будённовский проспект, 45	259,99 ₽/кг
-Томаты Flamenco сливовидные красные, 450г	https://www.perekrestok.ru/cat/150/p/tomaty-flamenco-slivovidnye-krasnye-450g-4217380	rnd	Ростов-на-Дону, Будённовский проспект, 45	129,99 ₽/шт
-Томаты красные круглые	https://www.perekrestok.ru/cat/150/p/tomaty-krasnye-kruglye-2166	rnd	Ростов-на-Дону, Будённовский проспект, 45	139,99 ₽/кг
-Томаты Черри Медовые оранжевые круглые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-medovye-oranzevye-kruglye-200g-4188460	rnd	Ростов-на-Дону, Будённовский проспект, 45	199,99 ₽/шт
-Томаты Бакинские	https://www.perekrestok.ru/cat/150/p/tomaty-bakinskie-3017019	rnd	Ростов-на-Дону, Будённовский проспект, 45	249,99 ₽/кг
-Томаты черри отечественные, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-otecestvennye-250g-3634714	rnd	Ростов-на-Дону, Будённовский проспект, 45	119,99 ₽/шт
-Томаты жёлтые сливовидные, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-zeltye-slivovidnye-350g-3657325	rnd	Ростов-на-Дону, Будённовский проспект, 45	169,99 ₽/шт
-Томаты жёлтые сливовидные	https://www.perekrestok.ru/cat/150/p/tomaty-zeltye-slivovidnye-14809	rnd	Ростов-на-Дону, Будённовский проспект, 45	329,99 ₽/кг
-Томаты Эко-Культура Черри Ароматто сливовидные на ветке, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-aromatto-slivovidnye-na-vetke-500g-4281278	rnd	Ростов-на-Дону, Будённовский проспект, 45	399,99 ₽/шт
-Томаты розовые	https://www.perekrestok.ru/cat/150/p/tomaty-rozovye-21292	rnd	Ростов-на-Дону, Будённовский проспект, 45	269,99 ₽/кг
-Томаты коктейльные розовые, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-koktejlnye-rozovye-350g-2138220	rnd	Ростов-на-Дону, Будённовский проспект, 45	179,99 ₽/шт
-Томаты Сладкая Ягода Черри красные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-sladkaa-agoda-cerri-krasnye-200g-4217379	rnd	Ростов-на-Дону, Будённовский проспект, 45	149,99 ₽/шт
-Томаты коктейль сливовидные, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-koktejl-slivovidnye-350g-82521	rnd	Ростов-на-Дону, Будённовский проспект, 45	99,99 ₽/шт
-Томаты Кумато	https://www.perekrestok.ru/cat/150/p/tomaty-kumato-42138	rnd	Ростов-на-Дону, Будённовский проспект, 45	419,99 ₽/кг
-Томаты Эко-культура Черри Слатто сливовидные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-slivovidnye-200g-4281279	rnd	Ростов-на-Дону, Будённовский проспект, 45	59,99 ₽/шт
-Томаты Эко-Культура черри зеленые сливовидные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-zelenye-slivovidnye-200g-4323266	rnd	Ростов-на-Дону, Будённовский проспект, 45	149,99 ₽/шт
-Томаты Кумато черри мини, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-kumato-cerri-mini-250g-3373662	rnd	Ростов-на-Дону, Будённовский проспект, 45	179,99 ₽/шт
-Томаты Пинк парадайз	https://www.perekrestok.ru/cat/150/p/tomaty-pink-paradajz-3217281	rnd	Ростов-на-Дону, Будённовский проспект, 45	659,99 ₽/кг
-Томаты Эко-Культура черри слатто желтые, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-zeltye-250g-4281276	rnd	Ростов-на-Дону, Будённовский проспект, 45	189,99 ₽/шт
-Томаты Эко-Культура Черри Слатто круглые красные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-kruglye-krasnye-200g-4290888	rnd	Ростов-на-Дону, Будённовский проспект, 45	169,99 ₽/шт
-Томат Кривянский	https://www.perekrestok.ru/cat/150/p/tomat-krivanskij-12572	rnd	Ростов-на-Дону, Будённовский проспект, 45	189,99 ₽/кг
-Томаты розовые фасованные, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-rozovye-fasovannye-500g-3383465	rnd	Ростов-на-Дону, Будённовский проспект, 45	169,99 ₽/шт
-Картофель в сетке	https://www.perekrestok.ru/cat/150/p/kartofel-v-setke-3987	rnd	Ростов-на-Дону, Будённовский проспект, 45	58,99 ₽/кг
-Картофель мытый	https://www.perekrestok.ru/cat/150/p/kartofel-mytyj-2099571	rnd	Ростов-на-Дону, Будённовский проспект, 45	89,99 ₽/кг
-Картофель для варки, 3кг	https://www.perekrestok.ru/cat/150/p/kartofel-dla-varki-3kg-3142878	rnd	Ростов-на-Дону, Будённовский проспект, 45	299,99 ₽/шт
-Картофель для жарки, 3кг	https://www.perekrestok.ru/cat/150/p/kartofel-dla-zarki-3kg-3142879	rnd	Ростов-на-Дону, Будённовский проспект, 45	299,99 ₽/шт
-Огурцы гладкие среднеплодные	https://www.perekrestok.ru/cat/150/p/ogurcy-gladkie-sredneplodnye-2098997	rnd	Ростов-на-Дону, Будённовский проспект, 45	109,99 ₽/кг
-Огурцы короткоплодные	https://www.perekrestok.ru/cat/150/p/ogurcy-korotkoplodnye-4072	rnd	Ростов-на-Дону, Будённовский проспект, 45	139,99 ₽/кг
-Огурцы Фасованные, 450г	https://www.perekrestok.ru/cat/150/p/ogurcy-fasovannye-450g-44569	rnd	Ростов-на-Дону, Будённовский проспект, 45	89,99 ₽/шт
-Огурцы, 600г	https://www.perekrestok.ru/cat/150/p/ogurcy-600g-2131726	rnd	Ростов-на-Дону, Будённовский проспект, 45	129,99 ₽/шт
-Огурцы корнишоны, 300г	https://www.perekrestok.ru/cat/150/p/ogurcy-kornisony-300g-3368258	rnd	Ростов-на-Дону, Будённовский проспект, 45	129,99 ₽/шт
-Огурцы колючие среднеплодные	https://www.perekrestok.ru/cat/150/p/ogurcy-kolucie-sredneplodnye-3255111	rnd	Ростов-на-Дону, Будённовский проспект, 45	169,99 ₽/кг
-Морковь отечественная	https://www.perekrestok.ru/cat/150/p/morkov-otecestvennaa-60529	rnd	Ростов-на-Дону, Будённовский проспект, 45	58,99 ₽/кг
-Морковь мытая Маркет Fresh, 1кг	https://www.perekrestok.ru/cat/150/p/morkov-mytaa-market-fresh-1kg-19345	rnd	Ростов-на-Дону, Будённовский проспект, 45	99,99 ₽/шт
-Морковь свежая Маркет Fresh, 200г	https://www.perekrestok.ru/cat/150/p/morkov-svezaa-market-fresh-200g-4299784	rnd	Ростов-на-Дону, Будённовский проспект, 45	83,99 ₽/шт
-Морковь Дмитровские Овощи целая вареная очищенная, 500г	https://www.perekrestok.ru/cat/150/p/morkov-dmitrovskie-ovosi-celaa-varenaa-ocisennaa-500g-3444579	rnd	Ростов-на-Дону, Будённовский проспект, 45	83,99 ₽/шт
-Лук репчатый	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-45463	rnd	Ростов-на-Дону, Будённовский проспект, 45	57,99 ₽/кг
-Лук репчатый в сетке	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-v-setke-3969	rnd	Ростов-на-Дону, Будённовский проспект, 45	44,99 ₽/кг
-Лук репчатый, 600г	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-600g-3368253	rnd	Ростов-на-Дону, Будённовский проспект, 45	59,99 ₽/шт
-Лук Ялтинский	https://www.perekrestok.ru/cat/150/p/luk-altinskij-3368252	rnd	Ростов-на-Дону, Будённовский проспект, 45	219,99 ₽/кг
-Лук репчатый красный, 500г	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-krasnyj-500g-3016771	rnd	Ростов-на-Дону, Будённовский проспект, 45	109,99 ₽/шт
-Перец Ласточка	https://www.perekrestok.ru/cat/150/p/perec-lastocka-3231963	rnd	Ростов-на-Дону, Будённовский проспект, 45	229,99 ₽/кг
-Перец красный сладкий	https://www.perekrestok.ru/cat/150/p/perec-krasnyj-sladkij-6177	rnd	Ростов-на-Дону, Будённовский проспект, 45	299,99 ₽/кг
-Перец чили красный мини, 50г	https://www.perekrestok.ru/cat/150/p/perec-cili-krasnyj-mini-50g-4040980	rnd	Ростов-на-Дону, Будённовский проспект, 45	169,99 ₽/шт
-Перец Палермо высшего сорта, 300г	https://www.perekrestok.ru/cat/150/p/perec-palermo-vyssego-sorta-300g-3929715	rnd	Ростов-на-Дону, Будённовский проспект, 45	239,99 ₽/шт
-Перец жгучий смешанный, 100г	https://www.perekrestok.ru/cat/150/p/perec-zgucij-smesannyj-100g-2143028	rnd	Ростов-на-Дону, Будённовский проспект, 45	129,99 ₽/шт
-Авокадо	https://www.perekrestok.ru/cat/150/p/avokado-49622	rnd	Ростов-на-Дону, Будённовский проспект, 45	499,99 ₽/кг
-Авокадо Хасс Маркет fresh, 700г	https://www.perekrestok.ru/cat/150/p/avokado-hass-market-fresh-700g-3948371	rnd	Ростов-на-Дону, Будённовский проспект, 45	379,99 ₽/шт
-Авокадо Хасс	https://www.perekrestok.ru/cat/150/p/avokado-hass-3954359	rnd	Ростов-на-Дону, Будённовский проспект, 45	599,99 ₽/кг
-Кабачки	https://www.perekrestok.ru/cat/150/p/kabacki-44110	rnd	Ростов-на-Дону, Будённовский проспект, 45	99,99 ₽/кг
-Баклажаны	https://www.perekrestok.ru/cat/150/p/baklazany-4414	rnd	Ростов-на-Дону, Будённовский проспект, 45	129,99 ₽/кг
-Кабачки фасованные, 600г	https://www.perekrestok.ru/cat/150/p/kabacki-fasovannye-600g-4195054	rnd	Ростов-на-Дону, Будённовский проспект, 45	149,99 ₽/шт
-Кабачки цуккини зелёные	https://www.perekrestok.ru/cat/150/p/kabacki-cukkini-zelenye-48632	rnd	Ростов-на-Дону, Будённовский проспект, 45	189,99 ₽/кг
-Кабачки Цуккини зелёные, 600г	https://www.perekrestok.ru/cat/150/p/kabacki-cukkini-zelenye-600g-4131555	rnd	Ростов-на-Дону, Будённовский проспект, 45	149,99 ₽/шт
-Свекла	https://www.perekrestok.ru/cat/150/p/svekla-45532	rnd	Ростов-на-Дону, Будённовский проспект, 45	53,99 ₽/кг
-Свекла мытая фасованная, 1кг	https://www.perekrestok.ru/cat/150/p/svekla-mytaa-fasovannaa-1kg-19768	rnd	Ростов-на-Дону, Будённовский проспект, 45	89,99 ₽/шт
-Свекла варёная нарезанная соломкой, 500г	https://www.perekrestok.ru/cat/150/p/svekla-varenaa-narezannaa-solomkoj-500g-3635807	rnd	Ростов-на-Дону, Будённовский проспект, 45	109,99 ₽/шт
-Свекла молодая	https://www.perekrestok.ru/cat/150/p/svekla-molodaa-13998	rnd	Ростов-на-Дону, Будённовский проспект, 45	109,99 ₽/кг
-Капуста	https://www.perekrestok.ru/cat/150/p/kapusta-45661	rnd	Ростов-на-Дону, Будённовский проспект, 45	39,99 ₽/кг
-Капуста брокколи	https://www.perekrestok.ru/cat/150/p/kapusta-brokkoli-1557	rnd	Ростов-на-Дону, Будённовский проспект, 45	349,99 ₽/кг
-Капуста краснокочанная	https://www.perekrestok.ru/cat/150/p/kapusta-krasnokocannaa-73917	rnd	Ростов-на-Дону, Будённовский проспект, 45	99,99 ₽/кг
-Тыква Баттернат	https://www.perekrestok.ru/cat/150/p/tykva-batternat-82036	rnd	Ростов-на-Дону, Будённовский проспект, 45	129,99 ₽/кг
-Тыква Оранжевое солнце	https://www.perekrestok.ru/cat/150/p/tykva-oranzevoe-solnce-4088824	rnd	Ростов-на-Дону, Будённовский проспект, 45	99,99 ₽/кг
-Чеснок	https://www.perekrestok.ru/cat/150/p/cesnok-17662	rnd	Ростов-на-Дону, Будённовский проспект, 45	69,99 ₽/шт
-Чеснок	https://www.perekrestok.ru/cat/150/p/cesnok-45692	rnd	Ростов-на-Дону, Будённовский проспект, 45	399,99 ₽/кг
-Кукуруза сладкая в початках варёная Маркет Fresh	https://www.perekrestok.ru/cat/150/p/kukuruza-sladkaa-v-pocatkah-varenaa-market-fresh-78000169	rnd	Ростов-на-Дону, Будённовский проспект, 45	179,99 ₽/шт
-Имбирь	https://www.perekrestok.ru/cat/150/p/imbir-3218215	rnd	Ростов-на-Дону, Будённовский проспект, 45	549,90 ₽/кг
+name	url	locale	address	price	time
+Огурцы Хрустящие	https://www.perekrestok.ru/cat/150/p/ogurcy-hrustasie-3632205	msk	Москва, Большой Патриарший переулок, 5	149,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Перец сладкий	https://www.perekrestok.ru/cat/150/p/perec-sladkij-53484	msk	Москва, Большой Патриарший переулок, 5	199,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель ранний	https://www.perekrestok.ru/cat/150/p/kartofel-rannij-45505	msk	Москва, Большой Патриарший переулок, 5	59,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Редис красный, 500г	https://www.perekrestok.ru/cat/150/p/redis-krasnyj-500g-25180	msk	Москва, Большой Патриарший переулок, 5	99,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Сельдерей черешковый, 1шт	https://www.perekrestok.ru/cat/150/p/selderej-cereskovyj-1st-2065179	msk	Москва, Большой Патриарший переулок, 5	99,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Чеснок ранний	https://www.perekrestok.ru/cat/150/p/cesnok-rannij-77278	msk	Москва, Большой Патриарший переулок, 5	389,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Махитос чёрные	https://www.perekrestok.ru/cat/150/p/tomaty-mahitos-cernye-3255521	msk	Москва, Большой Патриарший переулок, 5	399,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Мадрид	https://www.perekrestok.ru/cat/150/p/tomaty-madrid-4335745	msk	Москва, Большой Патриарший переулок, 5	429,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук порей	https://www.perekrestok.ru/cat/150/p/luk-porej-1561	msk	Москва, Большой Патриарший переулок, 5	999,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты розовые отборные	https://www.perekrestok.ru/cat/150/p/tomaty-rozovye-otbornye-4087773	msk	Москва, Большой Патриарший переулок, 5	289,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты черри на ветке, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-na-vetke-250g-3673307	msk	Москва, Большой Патриарший переулок, 5	119,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Медовые черри красные круглые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-medovye-cerri-krasnye-kruglye-200g-3676649	msk	Москва, Большой Патриарший переулок, 5	209,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Рост Фламенко красные сливовидные	https://www.perekrestok.ru/cat/150/p/tomaty-rost-flamenko-krasnye-slivovidnye-4214021	msk	Москва, Большой Патриарший переулок, 5	269,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Flamenco сливовидные красные, 450г	https://www.perekrestok.ru/cat/150/p/tomaty-flamenco-slivovidnye-krasnye-450g-4217380	msk	Москва, Большой Патриарший переулок, 5	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Черри Медовые оранжевые круглые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-medovye-oranzevye-kruglye-200g-4188460	msk	Москва, Большой Патриарший переулок, 5	139,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Бакинские	https://www.perekrestok.ru/cat/150/p/tomaty-bakinskie-3017019	msk	Москва, Большой Патриарший переулок, 5	299,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты розовые Азербайджан	https://www.perekrestok.ru/cat/150/p/tomaty-rozovye-azerbajdzan-3695580	msk	Москва, Большой Патриарший переулок, 5	229,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты черри отечественные, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-otecestvennye-250g-3634714	msk	Москва, Большой Патриарший переулок, 5	159,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты азербайджанские, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-azerbajdzanskie-500g-4125409	msk	Москва, Большой Патриарший переулок, 5	179,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты черри красные, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-krasnye-250g-11971	msk	Москва, Большой Патриарший переулок, 5	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты жёлтые сливовидные, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-zeltye-slivovidnye-350g-3657325	msk	Москва, Большой Патриарший переулок, 5	149,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты жёлтые сливовидные	https://www.perekrestok.ru/cat/150/p/tomaty-zeltye-slivovidnye-14809	msk	Москва, Большой Патриарший переулок, 5	299,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Эко-Культура Черри Ароматто сливовидные на ветке, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-aromatto-slivovidnye-na-vetke-500g-4281278	msk	Москва, Большой Патриарший переулок, 5	429,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Дагестан, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-dagestan-500g-4255159	msk	Москва, Большой Патриарший переулок, 5	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты коктейльные розовые, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-koktejlnye-rozovye-350g-2138220	msk	Москва, Большой Патриарший переулок, 5	189,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Сладкая Ягода Черри красные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-sladkaa-agoda-cerri-krasnye-200g-4217379	msk	Москва, Большой Патриарший переулок, 5	209,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Эко-Культура Черри слатто коралловые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-korallovye-200g-4323260	msk	Москва, Большой Патриарший переулок, 5	164,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты коктейль сливовидные, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-koktejl-slivovidnye-350g-82521	msk	Москва, Большой Патриарший переулок, 5	179,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Конфетто черри, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-konfetto-cerri-250g-4022853	msk	Москва, Большой Патриарший переулок, 5	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Бычье сердце	https://www.perekrestok.ru/cat/150/p/tomaty-byce-serdce-3383460	msk	Москва, Большой Патриарший переулок, 5	499,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Кумато	https://www.perekrestok.ru/cat/150/p/tomaty-kumato-42138	msk	Москва, Большой Патриарший переулок, 5	329,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Эко-культура Черри Слатто сливовидные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-slivovidnye-200g-4281279	msk	Москва, Большой Патриарший переулок, 5	169,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Пинк парадайз, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-pink-paradajz-350g-4052764	msk	Москва, Большой Патриарший переулок, 5	259,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты коктейльные на ветке	https://www.perekrestok.ru/cat/150/p/tomaty-koktejlnye-na-vetke-4349904	msk	Москва, Большой Патриарший переулок, 5	429,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель молодой Азербайджан	https://www.perekrestok.ru/cat/150/p/kartofel-molodoj-azerbajdzan-4278509	msk	Москва, Большой Патриарший переулок, 5	69,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель в сетке	https://www.perekrestok.ru/cat/150/p/kartofel-v-setke-3987	msk	Москва, Большой Патриарший переулок, 5	52,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель мытый	https://www.perekrestok.ru/cat/150/p/kartofel-mytyj-2099571	msk	Москва, Большой Патриарший переулок, 5	95,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель для варки, 3кг	https://www.perekrestok.ru/cat/150/p/kartofel-dla-varki-3kg-3142878	msk	Москва, Большой Патриарший переулок, 5	289,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Картофель красный ранний	https://www.perekrestok.ru/cat/150/p/kartofel-krasnyj-rannij-4273508	msk	Москва, Большой Патриарший переулок, 5	89,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель для жарки, 3кг	https://www.perekrestok.ru/cat/150/p/kartofel-dla-zarki-3kg-3142879	msk	Москва, Большой Патриарший переулок, 5	339,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Картофель Кримм Классический Шарики пастеризованный, 500г	https://www.perekrestok.ru/cat/150/p/kartofel-krimm-klassiceskij-sariki-pasterizovannyj-500g-4011560	msk	Москва, Большой Патриарший переулок, 5	79,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Картофель варёный очищенный, 500г	https://www.perekrestok.ru/cat/150/p/kartofel-varenyj-ocisennyj-500g-59403	msk	Москва, Большой Патриарший переулок, 5	89,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Огурцы гладкие среднеплодные	https://www.perekrestok.ru/cat/150/p/ogurcy-gladkie-sredneplodnye-2098997	msk	Москва, Большой Патриарший переулок, 5	139,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Огурцы короткоплодные	https://www.perekrestok.ru/cat/150/p/ogurcy-korotkoplodnye-4072	msk	Москва, Большой Патриарший переулок, 5	159,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Огурцы Фасованные, 450г	https://www.perekrestok.ru/cat/150/p/ogurcy-fasovannye-450g-44569	msk	Москва, Большой Патриарший переулок, 5	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Огурцы Хрустящие, 450г	https://www.perekrestok.ru/cat/150/p/ogurcy-hrustasie-450g-3682401	msk	Москва, Большой Патриарший переулок, 5	89,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Огурцы, 600г	https://www.perekrestok.ru/cat/150/p/ogurcy-600g-2131726	msk	Москва, Большой Патриарший переулок, 5	99,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Огурцы корнишоны, 300г	https://www.perekrestok.ru/cat/150/p/ogurcy-kornisony-300g-3368258	msk	Москва, Большой Патриарший переулок, 5	159,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Огурцы длинные, 1шт	https://www.perekrestok.ru/cat/150/p/ogurcy-dlinnye-1st-3301324	msk	Москва, Большой Патриарший переулок, 5	59,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Морковь отечественная	https://www.perekrestok.ru/cat/150/p/morkov-otecestvennaa-60529	msk	Москва, Большой Патриарший переулок, 5	54,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Морковь мытая Маркет Fresh, 1кг	https://www.perekrestok.ru/cat/150/p/morkov-mytaa-market-fresh-1kg-19345	msk	Москва, Большой Патриарший переулок, 5	99,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Морковь Дмитровские Овощи целая вареная очищенная, 500г	https://www.perekrestok.ru/cat/150/p/morkov-dmitrovskie-ovosi-celaa-varenaa-ocisennaa-500g-3444579	msk	Москва, Большой Патриарший переулок, 5	89,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Лук репчатый	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-45463	msk	Москва, Большой Патриарший переулок, 5	49,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук репчатый в сетке	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-v-setke-3969	msk	Москва, Большой Патриарший переулок, 5	36,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук репчатый красный	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-krasnyj-79012	msk	Москва, Большой Патриарший переулок, 5	119,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук репчатый, 600г	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-600g-3368253	msk	Москва, Большой Патриарший переулок, 5	79,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Лук Ялтинский	https://www.perekrestok.ru/cat/150/p/luk-altinskij-3368252	msk	Москва, Большой Патриарший переулок, 5	229,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук репчатый красный, 500г	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-krasnyj-500g-3016771	msk	Москва, Большой Патриарший переулок, 5	89,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Лук репчатый, 500г	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-500g-3016772	msk	Москва, Большой Патриарший переулок, 5	159,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Перец Ласточка	https://www.perekrestok.ru/cat/150/p/perec-lastocka-3231963	msk	Москва, Большой Патриарший переулок, 5	179,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Перец красный сладкий	https://www.perekrestok.ru/cat/150/p/perec-krasnyj-sladkij-6177	msk	Москва, Большой Патриарший переулок, 5	369,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Перец в ассортименте, 2шт	https://www.perekrestok.ru/cat/150/p/perec-v-assortimente-2st-4228843	msk	Москва, Большой Патриарший переулок, 5	179,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Перец чили красный мини, 50г	https://www.perekrestok.ru/cat/150/p/perec-cili-krasnyj-mini-50g-4040980	msk	Москва, Большой Патриарший переулок, 5	149,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Перец жгучий смешанный, 100г	https://www.perekrestok.ru/cat/150/p/perec-zgucij-smesannyj-100g-2143028	msk	Москва, Большой Патриарший переулок, 5	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Авокадо	https://www.perekrestok.ru/cat/150/p/avokado-49622	msk	Москва, Большой Патриарший переулок, 5	499,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Кабачки	https://www.perekrestok.ru/cat/150/p/kabacki-44110	msk	Москва, Большой Патриарший переулок, 5	149,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Кабачки фасованные, 600г	https://www.perekrestok.ru/cat/150/p/kabacki-fasovannye-600g-4195054	msk	Москва, Большой Патриарший переулок, 5	119,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Кабачки цуккини зелёные	https://www.perekrestok.ru/cat/150/p/kabacki-cukkini-zelenye-48632	msk	Москва, Большой Патриарший переулок, 5	169,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Кабачки Цуккини зелёные, 600г	https://www.perekrestok.ru/cat/150/p/kabacki-cukkini-zelenye-600g-4131555	msk	Москва, Большой Патриарший переулок, 5	149,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Свекла	https://www.perekrestok.ru/cat/150/p/svekla-45532	msk	Москва, Большой Патриарший переулок, 5	59,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Свекла варёная нарезанная соломкой, 500г	https://www.perekrestok.ru/cat/150/p/svekla-varenaa-narezannaa-solomkoj-500g-3635807	msk	Москва, Большой Патриарший переулок, 5	89,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Капуста	https://www.perekrestok.ru/cat/150/p/kapusta-45661	msk	Москва, Большой Патриарший переулок, 5	39,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Капуста китайская	https://www.perekrestok.ru/cat/150/p/kapusta-kitajskaa-78682	msk	Москва, Большой Патриарший переулок, 5	139,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Капуста цветная + броколли, 300г	https://www.perekrestok.ru/cat/150/p/kapusta-cvetnaa-brokolli-300g-3698689	msk	Москва, Большой Патриарший переулок, 5	169,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Капуста цветная, 300г	https://www.perekrestok.ru/cat/150/p/kapusta-cvetnaa-300g-3698688	msk	Москва, Большой Патриарший переулок, 5	139,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Капуста брюссельская, 300г	https://www.perekrestok.ru/cat/150/p/kapusta-brusselskaa-300g-4037034	msk	Москва, Большой Патриарший переулок, 5	239,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Чеснок	https://www.perekrestok.ru/cat/150/p/cesnok-17662	msk	Москва, Большой Патриарший переулок, 5	69,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Чеснок	https://www.perekrestok.ru/cat/150/p/cesnok-45692	msk	Москва, Большой Патриарший переулок, 5	399,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Чеснок Фермерский Чеснок отборный 1 сорта, 1шт	https://www.perekrestok.ru/cat/150/p/cesnok-fermerskij-cesnok-otbornyj-1-sorta-1st-4018137	msk	Москва, Большой Патриарший переулок, 5	59,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Кукуруза сладкая в початках варёная Маркет Fresh	https://www.perekrestok.ru/cat/150/p/kukuruza-sladkaa-v-pocatkah-varenaa-market-fresh-78000169	msk	Москва, Большой Патриарший переулок, 5	189,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Кукуруза мини импортная, 125г	https://www.perekrestok.ru/cat/150/p/kukuruza-mini-importnaa-125g-50591	msk	Москва, Большой Патриарший переулок, 5	239,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Имбирь	https://www.perekrestok.ru/cat/150/p/imbir-3218215	msk	Москва, Большой Патриарший переулок, 5	549,90 ₽/кг	Sun Jul  7 23:20:00 2024
+Горошек сладкий, 100г	https://www.perekrestok.ru/cat/150/p/gorosek-sladkij-100g-4339649	msk	Москва, Большой Патриарший переулок, 5	159,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Махитос красные	https://www.perekrestok.ru/cat/150/p/tomaty-mahitos-krasnye-1566	spb	Санкт-Петербург, Биржевая площадь, 4	199,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Огурцы Хрустящие	https://www.perekrestok.ru/cat/150/p/ogurcy-hrustasie-3632205	spb	Санкт-Петербург, Биржевая площадь, 4	179,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Авокадо Хасс спелое, 2шт	https://www.perekrestok.ru/cat/150/p/avokado-hass-speloe-2st-3356275	spb	Санкт-Петербург, Биржевая площадь, 4	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Картофель ранний	https://www.perekrestok.ru/cat/150/p/kartofel-rannij-45505	spb	Санкт-Петербург, Биржевая площадь, 4	59,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Редис красный, 500г	https://www.perekrestok.ru/cat/150/p/redis-krasnyj-500g-25180	spb	Санкт-Петербург, Биржевая площадь, 4	99,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Сельдерей черешковый, 1шт	https://www.perekrestok.ru/cat/150/p/selderej-cereskovyj-1st-2065179	spb	Санкт-Петербург, Биржевая площадь, 4	119,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Чеснок ранний	https://www.perekrestok.ru/cat/150/p/cesnok-rannij-77278	spb	Санкт-Петербург, Биржевая площадь, 4	369,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Махитос чёрные	https://www.perekrestok.ru/cat/150/p/tomaty-mahitos-cernye-3255521	spb	Санкт-Петербург, Биржевая площадь, 4	399,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Мадрид	https://www.perekrestok.ru/cat/150/p/tomaty-madrid-4335745	spb	Санкт-Петербург, Биржевая площадь, 4	479,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты черри чёрный шоколад Маркет Collection, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-cernyj-sokolad-market-collection-250g-4323486	spb	Санкт-Петербург, Биржевая площадь, 4	179,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Помидоры черри	https://www.perekrestok.ru/cat/150/p/pomidory-cerri-2092921	spb	Санкт-Петербург, Биржевая площадь, 4	499,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты розовые отборные	https://www.perekrestok.ru/cat/150/p/tomaty-rozovye-otbornye-4087773	spb	Санкт-Петербург, Биржевая площадь, 4	249,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты черри красные, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-krasnye-250g-11971	spb	Санкт-Петербург, Биржевая площадь, 4	139,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты розовые	https://www.perekrestok.ru/cat/150/p/tomaty-rozovye-21292	spb	Санкт-Петербург, Биржевая площадь, 4	199,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Рост Фламенко красные сливовидные	https://www.perekrestok.ru/cat/150/p/tomaty-rost-flamenko-krasnye-slivovidnye-4214021	spb	Санкт-Петербург, Биржевая площадь, 4	249,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Медовые черри красные круглые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-medovye-cerri-krasnye-kruglye-200g-3676649	spb	Санкт-Петербург, Биржевая площадь, 4	134,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Flamenco сливовидные красные, 450г	https://www.perekrestok.ru/cat/150/p/tomaty-flamenco-slivovidnye-krasnye-450g-4217380	spb	Санкт-Петербург, Биржевая площадь, 4	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты черри на ветке, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-na-vetke-250g-3673307	spb	Санкт-Петербург, Биржевая площадь, 4	119,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Черри Медовые оранжевые круглые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-medovye-oranzevye-kruglye-200g-4188460	spb	Санкт-Петербург, Биржевая площадь, 4	179,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты черри отечественные, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-otecestvennye-250g-3634714	spb	Санкт-Петербург, Биржевая площадь, 4	99,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты коктейльные розовые, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-koktejlnye-rozovye-350g-2138220	spb	Санкт-Петербург, Биржевая площадь, 4	179,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Эко-Культура Черри Ароматто сливовидные на ветке, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-aromatto-slivovidnye-na-vetke-500g-4281278	spb	Санкт-Петербург, Биржевая площадь, 4	429,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты жёлтые сливовидные, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-zeltye-slivovidnye-350g-3657325	spb	Санкт-Петербург, Биржевая площадь, 4	149,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Эко-культура Черри Слатто сливовидные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-slivovidnye-200g-4281279	spb	Санкт-Петербург, Биржевая площадь, 4	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Конфетто черри, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-konfetto-cerri-250g-4022853	spb	Санкт-Петербург, Биржевая площадь, 4	159,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Сладкая Ягода Черри красные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-sladkaa-agoda-cerri-krasnye-200g-4217379	spb	Санкт-Петербург, Биржевая площадь, 4	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты сливовидные, 600г	https://www.perekrestok.ru/cat/150/p/tomaty-slivovidnye-600g-2100224	spb	Санкт-Петербург, Биржевая площадь, 4	169,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты жёлтые сливовидные	https://www.perekrestok.ru/cat/150/p/tomaty-zeltye-slivovidnye-14809	spb	Санкт-Петербург, Биржевая площадь, 4	359,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Эко-Культура Черри слатто коралловые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-korallovye-200g-4323260	spb	Санкт-Петербург, Биржевая площадь, 4	169,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты коктейль сливовидные, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-koktejl-slivovidnye-350g-82521	spb	Санкт-Петербург, Биржевая площадь, 4	179,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Эко-Культура черри зеленые сливовидные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-zelenye-slivovidnye-200g-4323266	spb	Санкт-Петербург, Биржевая площадь, 4	149,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Медовые Узбекистан, 300г	https://www.perekrestok.ru/cat/150/p/tomaty-medovye-uzbekistan-300g-4280825	spb	Санкт-Петербург, Биржевая площадь, 4	319,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты коктейльные на ветке	https://www.perekrestok.ru/cat/150/p/tomaty-koktejlnye-na-vetke-4349904	spb	Санкт-Петербург, Биржевая площадь, 4	399,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель молодой Азербайджан	https://www.perekrestok.ru/cat/150/p/kartofel-molodoj-azerbajdzan-4278509	spb	Санкт-Петербург, Биржевая площадь, 4	109,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель Кримм Дольки с соусом Нежный пастеризованный, 500г	https://www.perekrestok.ru/cat/150/p/kartofel-krimm-dolki-s-sousom-neznyj-pasterizovannyj-500g-4286757	spb	Санкт-Петербург, Биржевая площадь, 4	79,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Картофель мытый	https://www.perekrestok.ru/cat/150/p/kartofel-mytyj-2099571	spb	Санкт-Петербург, Биржевая площадь, 4	109,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель в сетке	https://www.perekrestok.ru/cat/150/p/kartofel-v-setke-3987	spb	Санкт-Петербург, Биржевая площадь, 4	49,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель для варки, 3кг	https://www.perekrestok.ru/cat/150/p/kartofel-dla-varki-3kg-3142878	spb	Санкт-Петербург, Биржевая площадь, 4	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Картофель красный мытый	https://www.perekrestok.ru/cat/150/p/kartofel-krasnyj-mytyj-3646068	spb	Санкт-Петербург, Биржевая площадь, 4	99,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель Бэби, 2кг	https://www.perekrestok.ru/cat/150/p/kartofel-bebi-2kg-2083095	spb	Санкт-Петербург, Биржевая площадь, 4	189,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Картофель отборный, 2.5кг	https://www.perekrestok.ru/cat/150/p/kartofel-otbornyj-2-5kg-3092450	spb	Санкт-Петербург, Биржевая площадь, 4	124,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Картофель для жарки, 3кг	https://www.perekrestok.ru/cat/150/p/kartofel-dla-zarki-3kg-3142879	spb	Санкт-Петербург, Биржевая площадь, 4	339,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Картофель Сладкий батат	https://www.perekrestok.ru/cat/150/p/kartofel-sladkij-batat-81796	spb	Санкт-Петербург, Биржевая площадь, 4	299,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель красный	https://www.perekrestok.ru/cat/150/p/kartofel-krasnyj-3074469	spb	Санкт-Петербург, Биржевая площадь, 4	99,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель Кримм Классический Шарики пастеризованный, 500г	https://www.perekrestok.ru/cat/150/p/kartofel-krimm-klassiceskij-sariki-pasterizovannyj-500g-4011560	spb	Санкт-Петербург, Биржевая площадь, 4	79,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Огурцы гладкие среднеплодные	https://www.perekrestok.ru/cat/150/p/ogurcy-gladkie-sredneplodnye-2098997	spb	Санкт-Петербург, Биржевая площадь, 4	179,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Огурцы Фасованные, 450г	https://www.perekrestok.ru/cat/150/p/ogurcy-fasovannye-450g-44569	spb	Санкт-Петербург, Биржевая площадь, 4	119,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Огурцы корнишоны, 300г	https://www.perekrestok.ru/cat/150/p/ogurcy-kornisony-300g-3368258	spb	Санкт-Петербург, Биржевая площадь, 4	149,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Огурцы короткоплодные	https://www.perekrestok.ru/cat/150/p/ogurcy-korotkoplodnye-4072	spb	Санкт-Петербург, Биржевая площадь, 4	189,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Огурцы, 600г	https://www.perekrestok.ru/cat/150/p/ogurcy-600g-2131726	spb	Санкт-Петербург, Биржевая площадь, 4	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Огурцы длинные, 1шт	https://www.perekrestok.ru/cat/150/p/ogurcy-dlinnye-1st-3301324	spb	Санкт-Петербург, Биржевая площадь, 4	69,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Морковь отечественная	https://www.perekrestok.ru/cat/150/p/morkov-otecestvennaa-60529	spb	Санкт-Петербург, Биржевая площадь, 4	69,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Морковь мытая Маркет Fresh, 1кг	https://www.perekrestok.ru/cat/150/p/morkov-mytaa-market-fresh-1kg-19345	spb	Санкт-Петербург, Биржевая площадь, 4	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Лук репчатый	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-45463	spb	Санкт-Петербург, Биржевая площадь, 4	69,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук репчатый красный	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-krasnyj-79012	spb	Санкт-Петербург, Биржевая площадь, 4	129,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук Ялтинский	https://www.perekrestok.ru/cat/150/p/luk-altinskij-3368252	spb	Санкт-Петербург, Биржевая площадь, 4	299,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук репчатый, 600г	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-600g-3368253	spb	Санкт-Петербург, Биржевая площадь, 4	69,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Лук репчатый в сетке	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-v-setke-3969	spb	Санкт-Петербург, Биржевая площадь, 4	45,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук репчатый красный, 500г	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-krasnyj-500g-3016771	spb	Санкт-Петербург, Биржевая площадь, 4	109,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Редис Дайкон белый	https://www.perekrestok.ru/cat/150/p/redis-dajkon-belyj-5565	spb	Санкт-Петербург, Биржевая площадь, 4	249,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Перец Ласточка	https://www.perekrestok.ru/cat/150/p/perec-lastocka-3231963	spb	Санкт-Петербург, Биржевая площадь, 4	179,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Перец красный сладкий	https://www.perekrestok.ru/cat/150/p/perec-krasnyj-sladkij-6177	spb	Санкт-Петербург, Биржевая площадь, 4	349,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Перец в ассортименте, 2шт	https://www.perekrestok.ru/cat/150/p/perec-v-assortimente-2st-4228843	spb	Санкт-Петербург, Биржевая площадь, 4	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Авокадо Хасс Маркет fresh, 700г	https://www.perekrestok.ru/cat/150/p/avokado-hass-market-fresh-700g-3948371	spb	Санкт-Петербург, Биржевая площадь, 4	499,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Авокадо	https://www.perekrestok.ru/cat/150/p/avokado-49622	spb	Санкт-Петербург, Биржевая площадь, 4	499,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Авокадо Хасс	https://www.perekrestok.ru/cat/150/p/avokado-hass-3954359	spb	Санкт-Петербург, Биржевая площадь, 4	629,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Кабачки	https://www.perekrestok.ru/cat/150/p/kabacki-44110	spb	Санкт-Петербург, Биржевая площадь, 4	149,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Баклажаны	https://www.perekrestok.ru/cat/150/p/baklazany-4414	spb	Санкт-Петербург, Биржевая площадь, 4	249,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Кабачки фасованные, 600г	https://www.perekrestok.ru/cat/150/p/kabacki-fasovannye-600g-4195054	spb	Санкт-Петербург, Биржевая площадь, 4	139,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Кабачки цуккини зелёные	https://www.perekrestok.ru/cat/150/p/kabacki-cukkini-zelenye-48632	spb	Санкт-Петербург, Биржевая площадь, 4	249,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Баклажаны Граффити	https://www.perekrestok.ru/cat/150/p/baklazany-graffiti-81775	spb	Санкт-Петербург, Биржевая площадь, 4	264,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Свекла молодая	https://www.perekrestok.ru/cat/150/p/svekla-molodaa-13998	spb	Санкт-Петербург, Биржевая площадь, 4	79,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Свекла варёная очищенная целая, 500г	https://www.perekrestok.ru/cat/150/p/svekla-varenaa-ocisennaa-celaa-500g-3635805	spb	Санкт-Петербург, Биржевая площадь, 4	71,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Свекла варёная нарезанная соломкой, 500г	https://www.perekrestok.ru/cat/150/p/svekla-varenaa-narezannaa-solomkoj-500g-3635807	spb	Санкт-Петербург, Биржевая площадь, 4	89,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Свекла варёная нарезанная кубиком, 500г	https://www.perekrestok.ru/cat/150/p/svekla-varenaa-narezannaa-kubikom-500g-3635806	spb	Санкт-Петербург, Биржевая площадь, 4	89,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Свекла	https://www.perekrestok.ru/cat/150/p/svekla-45532	spb	Санкт-Петербург, Биржевая площадь, 4	69,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Свекла мытая фасованная, 1кг	https://www.perekrestok.ru/cat/150/p/svekla-mytaa-fasovannaa-1kg-19768	spb	Санкт-Петербург, Биржевая площадь, 4	89,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Капуста брокколи	https://www.perekrestok.ru/cat/150/p/kapusta-brokkoli-1557	spb	Санкт-Петербург, Биржевая площадь, 4	449,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Капуста	https://www.perekrestok.ru/cat/150/p/kapusta-45661	spb	Санкт-Петербург, Биржевая площадь, 4	46,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Капуста цветная + броколли, 300г	https://www.perekrestok.ru/cat/150/p/kapusta-cvetnaa-brokolli-300g-3698689	spb	Санкт-Петербург, Биржевая площадь, 4	179,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Капуста цветная, 300г	https://www.perekrestok.ru/cat/150/p/kapusta-cvetnaa-300g-3698688	spb	Санкт-Петербург, Биржевая площадь, 4	149,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Капуста кольраби	https://www.perekrestok.ru/cat/150/p/kapusta-kolrabi-1558	spb	Санкт-Петербург, Биржевая площадь, 4	299,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Тыква Оранжевое солнце	https://www.perekrestok.ru/cat/150/p/tykva-oranzevoe-solnce-4088824	spb	Санкт-Петербург, Биржевая площадь, 4	149,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Тыква Баттернат	https://www.perekrestok.ru/cat/150/p/tykva-batternat-82036	spb	Санкт-Петербург, Биржевая площадь, 4	149,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Чеснок	https://www.perekrestok.ru/cat/150/p/cesnok-17662	spb	Санкт-Петербург, Биржевая площадь, 4	49,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Чеснок	https://www.perekrestok.ru/cat/150/p/cesnok-45692	spb	Санкт-Петербург, Биржевая площадь, 4	199,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Чеснок Фермерский, 150г	https://www.perekrestok.ru/cat/150/p/cesnok-fermerskij-150g-51157	spb	Санкт-Петербург, Биржевая площадь, 4	189,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Чеснок Фермерский Чеснок отборный 1 сорта, 1шт	https://www.perekrestok.ru/cat/150/p/cesnok-fermerskij-cesnok-otbornyj-1-sorta-1st-4018137	spb	Санкт-Петербург, Биржевая площадь, 4	69,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Кукуруза сладкая в початках варёная Маркет Fresh	https://www.perekrestok.ru/cat/150/p/kukuruza-sladkaa-v-pocatkah-varenaa-market-fresh-78000169	spb	Санкт-Петербург, Биржевая площадь, 4	189,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Кукуруза	https://www.perekrestok.ru/cat/150/p/kukuruza-53477	spb	Санкт-Петербург, Биржевая площадь, 4	249,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Кукуруза сладкая варёная, 240г	https://www.perekrestok.ru/cat/150/p/kukuruza-sladkaa-varenaa-240g-4119172	spb	Санкт-Петербург, Биржевая площадь, 4	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Имбирь	https://www.perekrestok.ru/cat/150/p/imbir-3218215	spb	Санкт-Петербург, Биржевая площадь, 4	549,90 ₽/кг	Sun Jul  7 23:20:00 2024
+Сельдерей черешковый стакан, 200г	https://www.perekrestok.ru/cat/150/p/selderej-cereskovyj-stakan-200g-4264573	spb	Санкт-Петербург, Биржевая площадь, 4	89,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Фенхель	https://www.perekrestok.ru/cat/150/p/fenhel-4702	spb	Санкт-Петербург, Биржевая площадь, 4	759,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Махитос красные	https://www.perekrestok.ru/cat/150/p/tomaty-mahitos-krasnye-1566	ekb	Екатеринбург, ул. Бориса Ельцина, 3	199,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель ранний	https://www.perekrestok.ru/cat/150/p/kartofel-rannij-45505	ekb	Екатеринбург, ул. Бориса Ельцина, 3	59,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Редис красный, 500г	https://www.perekrestok.ru/cat/150/p/redis-krasnyj-500g-25180	ekb	Екатеринбург, ул. Бориса Ельцина, 3	109,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Сельдерей черешковый, 1шт	https://www.perekrestok.ru/cat/150/p/selderej-cereskovyj-1st-2065179	ekb	Екатеринбург, ул. Бориса Ельцина, 3	99,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Редис красный	https://www.perekrestok.ru/cat/150/p/redis-krasnyj-2083434	ekb	Екатеринбург, ул. Бориса Ельцина, 3	199,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Авокадо Хасс, 2 шт.	https://www.perekrestok.ru/cat/150/p/avokado-hass-2-st-3445047	ekb	Екатеринбург, ул. Бориса Ельцина, 3	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Чеснок ранний	https://www.perekrestok.ru/cat/150/p/cesnok-rannij-77278	ekb	Екатеринбург, ул. Бориса Ельцина, 3	429,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Махитос чёрные	https://www.perekrestok.ru/cat/150/p/tomaty-mahitos-cernye-3255521	ekb	Екатеринбург, ул. Бориса Ельцина, 3	349,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Мадрид	https://www.perekrestok.ru/cat/150/p/tomaty-madrid-4335745	ekb	Екатеринбург, ул. Бориса Ельцина, 3	399,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты черри чёрный шоколад Маркет Collection, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-cernyj-sokolad-market-collection-250g-4323486	ekb	Екатеринбург, ул. Бориса Ельцина, 3	149,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты черри на ветке, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-na-vetke-250g-3673307	ekb	Екатеринбург, ул. Бориса Ельцина, 3	139,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Медовые черри красные круглые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-medovye-cerri-krasnye-kruglye-200g-3676649	ekb	Екатеринбург, ул. Бориса Ельцина, 3	179,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Рост Фламенко красные сливовидные	https://www.perekrestok.ru/cat/150/p/tomaty-rost-flamenko-krasnye-slivovidnye-4214021	ekb	Екатеринбург, ул. Бориса Ельцина, 3	279,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Flamenco сливовидные красные, 450г	https://www.perekrestok.ru/cat/150/p/tomaty-flamenco-slivovidnye-krasnye-450g-4217380	ekb	Екатеринбург, ул. Бориса Ельцина, 3	139,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты красные круглые	https://www.perekrestok.ru/cat/150/p/tomaty-krasnye-kruglye-2166	ekb	Екатеринбург, ул. Бориса Ельцина, 3	169,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Черри Медовые оранжевые круглые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-medovye-oranzevye-kruglye-200g-4188460	ekb	Екатеринбург, ул. Бориса Ельцина, 3	189,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Бакинские	https://www.perekrestok.ru/cat/150/p/tomaty-bakinskie-3017019	ekb	Екатеринбург, ул. Бориса Ельцина, 3	249,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты черри отечественные, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-otecestvennye-250g-3634714	ekb	Екатеринбург, ул. Бориса Ельцина, 3	139,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты черри красные, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-krasnye-250g-11971	ekb	Екатеринбург, ул. Бориса Ельцина, 3	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты жёлтые сливовидные, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-zeltye-slivovidnye-350g-3657325	ekb	Екатеринбург, ул. Бориса Ельцина, 3	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Эко-Культура Черри Ароматто сливовидные на ветке, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-aromatto-slivovidnye-na-vetke-500g-4281278	ekb	Екатеринбург, ул. Бориса Ельцина, 3	349,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты розовые	https://www.perekrestok.ru/cat/150/p/tomaty-rozovye-21292	ekb	Екатеринбург, ул. Бориса Ельцина, 3	189,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Дагестан, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-dagestan-500g-4255159	ekb	Екатеринбург, ул. Бориса Ельцина, 3	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Сладкая Ягода Черри красные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-sladkaa-agoda-cerri-krasnye-200g-4217379	ekb	Екатеринбург, ул. Бориса Ельцина, 3	179,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Эко-Культура Черри слатто коралловые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-korallovye-200g-4323260	ekb	Екатеринбург, ул. Бориса Ельцина, 3	179,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Кумато	https://www.perekrestok.ru/cat/150/p/tomaty-kumato-42138	ekb	Екатеринбург, ул. Бориса Ельцина, 3	249,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Пинк парадайз, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-pink-paradajz-350g-4052764	ekb	Екатеринбург, ул. Бориса Ельцина, 3	239,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Картофель молодой Азербайджан	https://www.perekrestok.ru/cat/150/p/kartofel-molodoj-azerbajdzan-4278509	ekb	Екатеринбург, ул. Бориса Ельцина, 3	69,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель в сетке	https://www.perekrestok.ru/cat/150/p/kartofel-v-setke-3987	ekb	Екатеринбург, ул. Бориса Ельцина, 3	49,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель мытый	https://www.perekrestok.ru/cat/150/p/kartofel-mytyj-2099571	ekb	Екатеринбург, ул. Бориса Ельцина, 3	99,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель для варки, 3кг	https://www.perekrestok.ru/cat/150/p/kartofel-dla-varki-3kg-3142878	ekb	Екатеринбург, ул. Бориса Ельцина, 3	269,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Картофель для жарки, 3кг	https://www.perekrestok.ru/cat/150/p/kartofel-dla-zarki-3kg-3142879	ekb	Екатеринбург, ул. Бориса Ельцина, 3	279,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Огурцы гладкие среднеплодные	https://www.perekrestok.ru/cat/150/p/ogurcy-gladkie-sredneplodnye-2098997	ekb	Екатеринбург, ул. Бориса Ельцина, 3	119,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Огурцы короткоплодные	https://www.perekrestok.ru/cat/150/p/ogurcy-korotkoplodnye-4072	ekb	Екатеринбург, ул. Бориса Ельцина, 3	159,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Огурцы Фасованные, 450г	https://www.perekrestok.ru/cat/150/p/ogurcy-fasovannye-450g-44569	ekb	Екатеринбург, ул. Бориса Ельцина, 3	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Огурцы, 600г	https://www.perekrestok.ru/cat/150/p/ogurcy-600g-2131726	ekb	Екатеринбург, ул. Бориса Ельцина, 3	89,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Огурцы длинные, 1шт	https://www.perekrestok.ru/cat/150/p/ogurcy-dlinnye-1st-3301324	ekb	Екатеринбург, ул. Бориса Ельцина, 3	59,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Морковь отечественная	https://www.perekrestok.ru/cat/150/p/morkov-otecestvennaa-60529	ekb	Екатеринбург, ул. Бориса Ельцина, 3	69,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Морковь мытая Маркет Fresh, 1кг	https://www.perekrestok.ru/cat/150/p/morkov-mytaa-market-fresh-1kg-19345	ekb	Екатеринбург, ул. Бориса Ельцина, 3	104,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Лук репчатый	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-45463	ekb	Екатеринбург, ул. Бориса Ельцина, 3	49,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук репчатый в сетке	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-v-setke-3969	ekb	Екатеринбург, ул. Бориса Ельцина, 3	45,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук репчатый красный	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-krasnyj-79012	ekb	Екатеринбург, ул. Бориса Ельцина, 3	139,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук Ялтинский	https://www.perekrestok.ru/cat/150/p/luk-altinskij-3368252	ekb	Екатеринбург, ул. Бориса Ельцина, 3	249,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук репчатый, 500г	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-500g-3016772	ekb	Екатеринбург, ул. Бориса Ельцина, 3	159,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Перец Ласточка	https://www.perekrestok.ru/cat/150/p/perec-lastocka-3231963	ekb	Екатеринбург, ул. Бориса Ельцина, 3	149,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Авокадо	https://www.perekrestok.ru/cat/150/p/avokado-49622	ekb	Екатеринбург, ул. Бориса Ельцина, 3	429,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Авокадо Хасс	https://www.perekrestok.ru/cat/150/p/avokado-hass-81751	ekb	Екатеринбург, ул. Бориса Ельцина, 3	639,90 ₽/кг	Sun Jul  7 23:20:00 2024
+Кабачки	https://www.perekrestok.ru/cat/150/p/kabacki-44110	ekb	Екатеринбург, ул. Бориса Ельцина, 3	109,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Баклажаны	https://www.perekrestok.ru/cat/150/p/baklazany-4414	ekb	Екатеринбург, ул. Бориса Ельцина, 3	259,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Кабачки фасованные, 600г	https://www.perekrestok.ru/cat/150/p/kabacki-fasovannye-600g-4195054	ekb	Екатеринбург, ул. Бориса Ельцина, 3	89,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Кабачки цуккини зелёные	https://www.perekrestok.ru/cat/150/p/kabacki-cukkini-zelenye-48632	ekb	Екатеринбург, ул. Бориса Ельцина, 3	199,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Свекла	https://www.perekrestok.ru/cat/150/p/svekla-45532	ekb	Екатеринбург, ул. Бориса Ельцина, 3	63,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Свекла варёная очищенная целая, 500г	https://www.perekrestok.ru/cat/150/p/svekla-varenaa-ocisennaa-celaa-500g-3635805	ekb	Екатеринбург, ул. Бориса Ельцина, 3	95,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Свекла мытая фасованная, 1кг	https://www.perekrestok.ru/cat/150/p/svekla-mytaa-fasovannaa-1kg-19768	ekb	Екатеринбург, ул. Бориса Ельцина, 3	79,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Свекла варёная нарезанная соломкой, 500г	https://www.perekrestok.ru/cat/150/p/svekla-varenaa-narezannaa-solomkoj-500g-3635807	ekb	Екатеринбург, ул. Бориса Ельцина, 3	104,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Капуста	https://www.perekrestok.ru/cat/150/p/kapusta-45661	ekb	Екатеринбург, ул. Бориса Ельцина, 3	37,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Капуста брокколи	https://www.perekrestok.ru/cat/150/p/kapusta-brokkoli-1557	ekb	Екатеринбург, ул. Бориса Ельцина, 3	299,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Капуста китайская	https://www.perekrestok.ru/cat/150/p/kapusta-kitajskaa-78682	ekb	Екатеринбург, ул. Бориса Ельцина, 3	169,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Капуста брокколи, 300г	https://www.perekrestok.ru/cat/150/p/kapusta-brokkoli-300g-3698687	ekb	Екатеринбург, ул. Бориса Ельцина, 3	149,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Капуста кольраби	https://www.perekrestok.ru/cat/150/p/kapusta-kolrabi-1558	ekb	Екатеринбург, ул. Бориса Ельцина, 3	169,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Тыква Баттернат	https://www.perekrestok.ru/cat/150/p/tykva-batternat-82036	ekb	Екатеринбург, ул. Бориса Ельцина, 3	119,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Чеснок	https://www.perekrestok.ru/cat/150/p/cesnok-17662	ekb	Екатеринбург, ул. Бориса Ельцина, 3	65,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Чеснок	https://www.perekrestok.ru/cat/150/p/cesnok-45692	ekb	Екатеринбург, ул. Бориса Ельцина, 3	379,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Чеснок Фермерский Чеснок тёртый, 80г	https://www.perekrestok.ru/cat/150/p/cesnok-fermerskij-cesnok-tertyj-80g-3677358	ekb	Екатеринбург, ул. Бориса Ельцина, 3	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Кукуруза сладкая в початках варёная Маркет Fresh	https://www.perekrestok.ru/cat/150/p/kukuruza-sladkaa-v-pocatkah-varenaa-market-fresh-78000169	ekb	Екатеринбург, ул. Бориса Ельцина, 3	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Имбирь	https://www.perekrestok.ru/cat/150/p/imbir-3218215	ekb	Екатеринбург, ул. Бориса Ельцина, 3	399,90 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Махитос красные	https://www.perekrestok.ru/cat/150/p/tomaty-mahitos-krasnye-1566	nn	Нижний Новгород, площадь Минина и Пожарского, 2	179,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Перец сладкий	https://www.perekrestok.ru/cat/150/p/perec-sladkij-53484	nn	Нижний Новгород, площадь Минина и Пожарского, 2	169,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель ранний	https://www.perekrestok.ru/cat/150/p/kartofel-rannij-45505	nn	Нижний Новгород, площадь Минина и Пожарского, 2	59,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Сельдерей черешковый, 1шт	https://www.perekrestok.ru/cat/150/p/selderej-cereskovyj-1st-2065179	nn	Нижний Новгород, площадь Минина и Пожарского, 2	89,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Редис красный	https://www.perekrestok.ru/cat/150/p/redis-krasnyj-2083434	nn	Нижний Новгород, площадь Минина и Пожарского, 2	229,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Авокадо Хасс, 2 шт.	https://www.perekrestok.ru/cat/150/p/avokado-hass-2-st-3445047	nn	Нижний Новгород, площадь Минина и Пожарского, 2	219,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Чеснок ранний	https://www.perekrestok.ru/cat/150/p/cesnok-rannij-77278	nn	Нижний Новгород, площадь Минина и Пожарского, 2	399,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Махитос чёрные	https://www.perekrestok.ru/cat/150/p/tomaty-mahitos-cernye-3255521	nn	Нижний Новгород, площадь Минина и Пожарского, 2	349,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук порей	https://www.perekrestok.ru/cat/150/p/luk-porej-1561	nn	Нижний Новгород, площадь Минина и Пожарского, 2	599,90 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты черри на ветке, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-na-vetke-250g-3673307	nn	Нижний Новгород, площадь Минина и Пожарского, 2	139,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Медовые черри красные круглые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-medovye-cerri-krasnye-kruglye-200g-3676649	nn	Нижний Новгород, площадь Минина и Пожарского, 2	189,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Рост Фламенко красные сливовидные	https://www.perekrestok.ru/cat/150/p/tomaty-rost-flamenko-krasnye-slivovidnye-4214021	nn	Нижний Новгород, площадь Минина и Пожарского, 2	249,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Flamenco сливовидные красные, 450г	https://www.perekrestok.ru/cat/150/p/tomaty-flamenco-slivovidnye-krasnye-450g-4217380	nn	Нижний Новгород, площадь Минина и Пожарского, 2	119,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты красные круглые	https://www.perekrestok.ru/cat/150/p/tomaty-krasnye-kruglye-2166	nn	Нижний Новгород, площадь Минина и Пожарского, 2	169,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Черри Медовые оранжевые круглые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-medovye-oranzevye-kruglye-200g-4188460	nn	Нижний Новгород, площадь Минина и Пожарского, 2	149,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Бакинские	https://www.perekrestok.ru/cat/150/p/tomaty-bakinskie-3017019	nn	Нижний Новгород, площадь Минина и Пожарского, 2	299,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты розовые Азербайджан	https://www.perekrestok.ru/cat/150/p/tomaty-rozovye-azerbajdzan-3695580	nn	Нижний Новгород, площадь Минина и Пожарского, 2	214,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты черри отечественные, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-otecestvennye-250g-3634714	nn	Нижний Новгород, площадь Минина и Пожарского, 2	149,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты черри красные, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-krasnye-250g-11971	nn	Нижний Новгород, площадь Минина и Пожарского, 2	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Бакинские, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-bakinskie-350g-4327843	nn	Нижний Новгород, площадь Минина и Пожарского, 2	169,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты жёлтые сливовидные, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-zeltye-slivovidnye-350g-3657325	nn	Нижний Новгород, площадь Минина и Пожарского, 2	179,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Эко-Культура Черри Ароматто сливовидные на ветке, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-aromatto-slivovidnye-na-vetke-500g-4281278	nn	Нижний Новгород, площадь Минина и Пожарского, 2	369,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Дагестан, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-dagestan-500g-4255159	nn	Нижний Новгород, площадь Минина и Пожарского, 2	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты коктейльные розовые, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-koktejlnye-rozovye-350g-2138220	nn	Нижний Новгород, площадь Минина и Пожарского, 2	189,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Сладкая Ягода Черри красные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-sladkaa-agoda-cerri-krasnye-200g-4217379	nn	Нижний Новгород, площадь Минина и Пожарского, 2	159,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Эко-Культура Черри слатто коралловые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-korallovye-200g-4323260	nn	Нижний Новгород, площадь Минина и Пожарского, 2	169,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты коктейль сливовидные, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-koktejl-slivovidnye-350g-82521	nn	Нижний Новгород, площадь Минина и Пожарского, 2	189,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Бычье сердце	https://www.perekrestok.ru/cat/150/p/tomaty-byce-serdce-3383460	nn	Нижний Новгород, площадь Минина и Пожарского, 2	459,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Кумато	https://www.perekrestok.ru/cat/150/p/tomaty-kumato-42138	nn	Нижний Новгород, площадь Минина и Пожарского, 2	249,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Эко-культура Черри Слатто сливовидные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-slivovidnye-200g-4281279	nn	Нижний Новгород, площадь Минина и Пожарского, 2	159,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Пинк парадайз	https://www.perekrestok.ru/cat/150/p/tomaty-pink-paradajz-3217281	nn	Нижний Новгород, площадь Минина и Пожарского, 2	599,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты черри жёлтые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-zeltye-200g-4175639	nn	Нижний Новгород, площадь Минина и Пожарского, 2	159,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Картофель в сетке	https://www.perekrestok.ru/cat/150/p/kartofel-v-setke-3987	nn	Нижний Новгород, площадь Минина и Пожарского, 2	49,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель мытый	https://www.perekrestok.ru/cat/150/p/kartofel-mytyj-2099571	nn	Нижний Новгород, площадь Минина и Пожарского, 2	79,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель для варки, 3кг	https://www.perekrestok.ru/cat/150/p/kartofel-dla-varki-3kg-3142878	nn	Нижний Новгород, площадь Минина и Пожарского, 2	249,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Картофель Кримм Классический Шарики пастеризованный, 500г	https://www.perekrestok.ru/cat/150/p/kartofel-krimm-klassiceskij-sariki-pasterizovannyj-500g-4011560	nn	Нижний Новгород, площадь Минина и Пожарского, 2	79,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Картофель варёный очищенный, 500г	https://www.perekrestok.ru/cat/150/p/kartofel-varenyj-ocisennyj-500g-59403	nn	Нижний Новгород, площадь Минина и Пожарского, 2	84,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Огурцы гладкие среднеплодные	https://www.perekrestok.ru/cat/150/p/ogurcy-gladkie-sredneplodnye-2098997	nn	Нижний Новгород, площадь Минина и Пожарского, 2	129,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Огурцы короткоплодные	https://www.perekrestok.ru/cat/150/p/ogurcy-korotkoplodnye-4072	nn	Нижний Новгород, площадь Минина и Пожарского, 2	199,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Огурцы Фасованные, 450г	https://www.perekrestok.ru/cat/150/p/ogurcy-fasovannye-450g-44569	nn	Нижний Новгород, площадь Минина и Пожарского, 2	119,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Огурцы Хрустящие, 450г	https://www.perekrestok.ru/cat/150/p/ogurcy-hrustasie-450g-3682401	nn	Нижний Новгород, площадь Минина и Пожарского, 2	99,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Огурцы, 600г	https://www.perekrestok.ru/cat/150/p/ogurcy-600g-2131726	nn	Нижний Новгород, площадь Минина и Пожарского, 2	54,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Огурцы корнишоны, 300г	https://www.perekrestok.ru/cat/150/p/ogurcy-kornisony-300g-3368258	nn	Нижний Новгород, площадь Минина и Пожарского, 2	149,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Морковь отечественная	https://www.perekrestok.ru/cat/150/p/morkov-otecestvennaa-60529	nn	Нижний Новгород, площадь Минина и Пожарского, 2	69,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Морковь мытая Маркет Fresh, 1кг	https://www.perekrestok.ru/cat/150/p/morkov-mytaa-market-fresh-1kg-19345	nn	Нижний Новгород, площадь Минина и Пожарского, 2	119,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Морковь на подложке, 600г	https://www.perekrestok.ru/cat/150/p/morkov-na-podlozke-600g-3368256	nn	Нижний Новгород, площадь Минина и Пожарского, 2	69,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Лук репчатый	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-45463	nn	Нижний Новгород, площадь Минина и Пожарского, 2	44,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук репчатый в сетке	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-v-setke-3969	nn	Нижний Новгород, площадь Минина и Пожарского, 2	39,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук репчатый красный	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-krasnyj-79012	nn	Нижний Новгород, площадь Минина и Пожарского, 2	129,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук репчатый, 600г	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-600g-3368253	nn	Нижний Новгород, площадь Минина и Пожарского, 2	49,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Лук Ялтинский	https://www.perekrestok.ru/cat/150/p/luk-altinskij-3368252	nn	Нижний Новгород, площадь Минина и Пожарского, 2	199,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук репчатый красный, 500г	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-krasnyj-500g-3016771	nn	Нижний Новгород, площадь Минина и Пожарского, 2	99,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Редис микс свежий	https://www.perekrestok.ru/cat/150/p/redis-miks-svezij-3277108	nn	Нижний Новгород, площадь Минина и Пожарского, 2	399,90 ₽/кг	Sun Jul  7 23:20:00 2024
+Перец Ласточка	https://www.perekrestok.ru/cat/150/p/perec-lastocka-3231963	nn	Нижний Новгород, площадь Минина и Пожарского, 2	99,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Перец красный сладкий	https://www.perekrestok.ru/cat/150/p/perec-krasnyj-sladkij-6177	nn	Нижний Новгород, площадь Минина и Пожарского, 2	299,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Перец в ассортименте, 2шт	https://www.perekrestok.ru/cat/150/p/perec-v-assortimente-2st-4228843	nn	Нижний Новгород, площадь Минина и Пожарского, 2	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Перец чили красный мини, 50г	https://www.perekrestok.ru/cat/150/p/perec-cili-krasnyj-mini-50g-4040980	nn	Нижний Новгород, площадь Минина и Пожарского, 2	69,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Перец Палермо высшего сорта, 300г	https://www.perekrestok.ru/cat/150/p/perec-palermo-vyssego-sorta-300g-3929715	nn	Нижний Новгород, площадь Минина и Пожарского, 2	169,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Перец жгучий смешанный, 100г	https://www.perekrestok.ru/cat/150/p/perec-zgucij-smesannyj-100g-2143028	nn	Нижний Новгород, площадь Минина и Пожарского, 2	119,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Авокадо	https://www.perekrestok.ru/cat/150/p/avokado-49622	nn	Нижний Новгород, площадь Минина и Пожарского, 2	499,90 ₽/кг	Sun Jul  7 23:20:00 2024
+Авокадо Хасс	https://www.perekrestok.ru/cat/150/p/avokado-hass-3954359	nn	Нижний Новгород, площадь Минина и Пожарского, 2	599,90 ₽/кг	Sun Jul  7 23:20:00 2024
+Кабачки	https://www.perekrestok.ru/cat/150/p/kabacki-44110	nn	Нижний Новгород, площадь Минина и Пожарского, 2	139,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Баклажаны	https://www.perekrestok.ru/cat/150/p/baklazany-4414	nn	Нижний Новгород, площадь Минина и Пожарского, 2	199,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Баклажаны Граффити	https://www.perekrestok.ru/cat/150/p/baklazany-graffiti-81775	nn	Нижний Новгород, площадь Минина и Пожарского, 2	299,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Свекла	https://www.perekrestok.ru/cat/150/p/svekla-45532	nn	Нижний Новгород, площадь Минина и Пожарского, 2	69,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Свекла варёная очищенная целая, 500г	https://www.perekrestok.ru/cat/150/p/svekla-varenaa-ocisennaa-celaa-500g-3635805	nn	Нижний Новгород, площадь Минина и Пожарского, 2	84,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Свекла варёная нарезанная соломкой, 500г	https://www.perekrestok.ru/cat/150/p/svekla-varenaa-narezannaa-solomkoj-500g-3635807	nn	Нижний Новгород, площадь Минина и Пожарского, 2	99,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Капуста	https://www.perekrestok.ru/cat/150/p/kapusta-45661	nn	Нижний Новгород, площадь Минина и Пожарского, 2	39,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Капуста брокколи	https://www.perekrestok.ru/cat/150/p/kapusta-brokkoli-1557	nn	Нижний Новгород, площадь Минина и Пожарского, 2	299,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Капуста цветная	https://www.perekrestok.ru/cat/150/p/kapusta-cvetnaa-79224	nn	Нижний Новгород, площадь Минина и Пожарского, 2	224,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Тыква Оранжевое солнце	https://www.perekrestok.ru/cat/150/p/tykva-oranzevoe-solnce-4088824	nn	Нижний Новгород, площадь Минина и Пожарского, 2	119,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Чеснок	https://www.perekrestok.ru/cat/150/p/cesnok-17662	nn	Нижний Новгород, площадь Минина и Пожарского, 2	54,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Чеснок	https://www.perekrestok.ru/cat/150/p/cesnok-45692	nn	Нижний Новгород, площадь Минина и Пожарского, 2	349,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Кукуруза сладкая в початках варёная Маркет Fresh	https://www.perekrestok.ru/cat/150/p/kukuruza-sladkaa-v-pocatkah-varenaa-market-fresh-78000169	nn	Нижний Новгород, площадь Минина и Пожарского, 2	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Кукуруза	https://www.perekrestok.ru/cat/150/p/kukuruza-53477	nn	Нижний Новгород, площадь Минина и Пожарского, 2	249,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Кукуруза сладкая варёная, 240г	https://www.perekrestok.ru/cat/150/p/kukuruza-sladkaa-varenaa-240g-4119172	nn	Нижний Новгород, площадь Минина и Пожарского, 2	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Имбирь	https://www.perekrestok.ru/cat/150/p/imbir-3218215	nn	Нижний Новгород, площадь Минина и Пожарского, 2	439,90 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель ранний	https://www.perekrestok.ru/cat/150/p/kartofel-rannij-45505	pg	Пятигорск, улица Малыгина, 5	59,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Редис красный, 500г	https://www.perekrestok.ru/cat/150/p/redis-krasnyj-500g-25180	pg	Пятигорск, улица Малыгина, 5	99,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Авокадо Хасс спелое, 2шт	https://www.perekrestok.ru/cat/150/p/avokado-hass-speloe-2st-3356275	pg	Пятигорск, улица Малыгина, 5	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Сельдерей черешковый, 1шт	https://www.perekrestok.ru/cat/150/p/selderej-cereskovyj-1st-2065179	pg	Пятигорск, улица Малыгина, 5	119,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Редис красный	https://www.perekrestok.ru/cat/150/p/redis-krasnyj-2083434	pg	Пятигорск, улица Малыгина, 5	119,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Чеснок ранний	https://www.perekrestok.ru/cat/150/p/cesnok-rannij-77278	pg	Пятигорск, улица Малыгина, 5	449,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук порей	https://www.perekrestok.ru/cat/150/p/luk-porej-1561	pg	Пятигорск, улица Малыгина, 5	599,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты черри чёрный шоколад Маркет Collection, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-cernyj-sokolad-market-collection-250g-4323486	pg	Пятигорск, улица Малыгина, 5	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты черри на ветке, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-na-vetke-250g-3673307	pg	Пятигорск, улица Малыгина, 5	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Медовые черри красные круглые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-medovye-cerri-krasnye-kruglye-200g-3676649	pg	Пятигорск, улица Малыгина, 5	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Рост Фламенко красные сливовидные	https://www.perekrestok.ru/cat/150/p/tomaty-rost-flamenko-krasnye-slivovidnye-4214021	pg	Пятигорск, улица Малыгина, 5	259,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Flamenco сливовидные красные, 450г	https://www.perekrestok.ru/cat/150/p/tomaty-flamenco-slivovidnye-krasnye-450g-4217380	pg	Пятигорск, улица Малыгина, 5	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты красные круглые	https://www.perekrestok.ru/cat/150/p/tomaty-krasnye-kruglye-2166	pg	Пятигорск, улица Малыгина, 5	139,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Черри Медовые оранжевые круглые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-medovye-oranzevye-kruglye-200g-4188460	pg	Пятигорск, улица Малыгина, 5	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты черри отечественные, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-otecestvennye-250g-3634714	pg	Пятигорск, улица Малыгина, 5	119,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Бакинские, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-bakinskie-350g-4327843	pg	Пятигорск, улица Малыгина, 5	169,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты жёлтые сливовидные, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-zeltye-slivovidnye-350g-3657325	pg	Пятигорск, улица Малыгина, 5	169,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты жёлтые сливовидные	https://www.perekrestok.ru/cat/150/p/tomaty-zeltye-slivovidnye-14809	pg	Пятигорск, улица Малыгина, 5	249,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Эко-Культура Черри Ароматто сливовидные на ветке, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-aromatto-slivovidnye-na-vetke-500g-4281278	pg	Пятигорск, улица Малыгина, 5	399,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты розовые	https://www.perekrestok.ru/cat/150/p/tomaty-rozovye-21292	pg	Пятигорск, улица Малыгина, 5	369,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Дагестан, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-dagestan-500g-4255159	pg	Пятигорск, улица Малыгина, 5	169,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты коктейльные розовые, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-koktejlnye-rozovye-350g-2138220	pg	Пятигорск, улица Малыгина, 5	209,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Сладкая Ягода Черри красные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-sladkaa-agoda-cerri-krasnye-200g-4217379	pg	Пятигорск, улица Малыгина, 5	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Эко-Культура Черри слатто коралловые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-korallovye-200g-4323260	pg	Пятигорск, улица Малыгина, 5	149,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты коктейль сливовидные, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-koktejl-slivovidnye-350g-82521	pg	Пятигорск, улица Малыгина, 5	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Эко-культура Черри Слатто сливовидные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-slivovidnye-200g-4281279	pg	Пятигорск, улица Малыгина, 5	119,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Эко-Культура черри зеленые сливовидные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-zelenye-slivovidnye-200g-4323266	pg	Пятигорск, улица Малыгина, 5	119,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Кумато черри мини, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-kumato-cerri-mini-250g-3373662	pg	Пятигорск, улица Малыгина, 5	239,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Пинк парадайз	https://www.perekrestok.ru/cat/150/p/tomaty-pink-paradajz-3217281	pg	Пятигорск, улица Малыгина, 5	599,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Эко-Культура черри слатто желтые, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-zeltye-250g-4281276	pg	Пятигорск, улица Малыгина, 5	149,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томат Кривянский	https://www.perekrestok.ru/cat/150/p/tomat-krivanskij-12572	pg	Пятигорск, улица Малыгина, 5	179,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты розовые фасованные, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-rozovye-fasovannye-500g-3383465	pg	Пятигорск, улица Малыгина, 5	169,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Картофель мытый	https://www.perekrestok.ru/cat/150/p/kartofel-mytyj-2099571	pg	Пятигорск, улица Малыгина, 5	89,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель для варки, 3кг	https://www.perekrestok.ru/cat/150/p/kartofel-dla-varki-3kg-3142878	pg	Пятигорск, улица Малыгина, 5	299,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Картофель для жарки, 3кг	https://www.perekrestok.ru/cat/150/p/kartofel-dla-zarki-3kg-3142879	pg	Пятигорск, улица Малыгина, 5	299,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Картофель Кримм Классический Шарики пастеризованный, 500г	https://www.perekrestok.ru/cat/150/p/kartofel-krimm-klassiceskij-sariki-pasterizovannyj-500g-4011560	pg	Пятигорск, улица Малыгина, 5	79,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Картофель варёный очищенный, 500г	https://www.perekrestok.ru/cat/150/p/kartofel-varenyj-ocisennyj-500g-59403	pg	Пятигорск, улица Малыгина, 5	89,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Огурцы короткоплодные	https://www.perekrestok.ru/cat/150/p/ogurcy-korotkoplodnye-4072	pg	Пятигорск, улица Малыгина, 5	139,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Огурцы Фасованные, 450г	https://www.perekrestok.ru/cat/150/p/ogurcy-fasovannye-450g-44569	pg	Пятигорск, улица Малыгина, 5	89,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Огурцы корнишоны, 300г	https://www.perekrestok.ru/cat/150/p/ogurcy-kornisony-300g-3368258	pg	Пятигорск, улица Малыгина, 5	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Морковь отечественная	https://www.perekrestok.ru/cat/150/p/morkov-otecestvennaa-60529	pg	Пятигорск, улица Малыгина, 5	58,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Морковь на подложке, 600г	https://www.perekrestok.ru/cat/150/p/morkov-na-podlozke-600g-3368256	pg	Пятигорск, улица Малыгина, 5	59,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Морковь Дмитровские Овощи целая вареная очищенная, 500г	https://www.perekrestok.ru/cat/150/p/morkov-dmitrovskie-ovosi-celaa-varenaa-ocisennaa-500g-3444579	pg	Пятигорск, улица Малыгина, 5	79,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Лук репчатый	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-45463	pg	Пятигорск, улица Малыгина, 5	57,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук репчатый в сетке	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-v-setke-3969	pg	Пятигорск, улица Малыгина, 5	49,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук репчатый красный	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-krasnyj-79012	pg	Пятигорск, улица Малыгина, 5	139,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук репчатый, 600г	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-600g-3368253	pg	Пятигорск, улица Малыгина, 5	59,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Лук Ялтинский	https://www.perekrestok.ru/cat/150/p/luk-altinskij-3368252	pg	Пятигорск, улица Малыгина, 5	229,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук репчатый красный, 500г	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-krasnyj-500g-3016771	pg	Пятигорск, улица Малыгина, 5	109,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Перец красный сладкий	https://www.perekrestok.ru/cat/150/p/perec-krasnyj-sladkij-6177	pg	Пятигорск, улица Малыгина, 5	299,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Перец чили красный мини, 50г	https://www.perekrestok.ru/cat/150/p/perec-cili-krasnyj-mini-50g-4040980	pg	Пятигорск, улица Малыгина, 5	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Перец жгучий смешанный, 100г	https://www.perekrestok.ru/cat/150/p/perec-zgucij-smesannyj-100g-2143028	pg	Пятигорск, улица Малыгина, 5	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Авокадо	https://www.perekrestok.ru/cat/150/p/avokado-49622	pg	Пятигорск, улица Малыгина, 5	499,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Авокадо Хасс Маркет fresh, 700г	https://www.perekrestok.ru/cat/150/p/avokado-hass-market-fresh-700g-3948371	pg	Пятигорск, улица Малыгина, 5	499,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Авокадо Хасс	https://www.perekrestok.ru/cat/150/p/avokado-hass-3954359	pg	Пятигорск, улица Малыгина, 5	659,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Кабачки	https://www.perekrestok.ru/cat/150/p/kabacki-44110	pg	Пятигорск, улица Малыгина, 5	99,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Кабачки цуккини зелёные	https://www.perekrestok.ru/cat/150/p/kabacki-cukkini-zelenye-48632	pg	Пятигорск, улица Малыгина, 5	149,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Кабачки Цуккини зелёные, 600г	https://www.perekrestok.ru/cat/150/p/kabacki-cukkini-zelenye-600g-4131555	pg	Пятигорск, улица Малыгина, 5	149,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Свекла	https://www.perekrestok.ru/cat/150/p/svekla-45532	pg	Пятигорск, улица Малыгина, 5	53,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Свекла мытая фасованная, 1кг	https://www.perekrestok.ru/cat/150/p/svekla-mytaa-fasovannaa-1kg-19768	pg	Пятигорск, улица Малыгина, 5	89,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Свекла варёная нарезанная соломкой, 500г	https://www.perekrestok.ru/cat/150/p/svekla-varenaa-narezannaa-solomkoj-500g-3635807	pg	Пятигорск, улица Малыгина, 5	99,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Капуста брокколи	https://www.perekrestok.ru/cat/150/p/kapusta-brokkoli-1557	pg	Пятигорск, улица Малыгина, 5	349,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Капуста краснокочанная	https://www.perekrestok.ru/cat/150/p/kapusta-krasnokocannaa-73917	pg	Пятигорск, улица Малыгина, 5	99,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Чеснок	https://www.perekrestok.ru/cat/150/p/cesnok-45692	pg	Пятигорск, улица Малыгина, 5	399,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Чеснок Фермерский Чеснок тёртый, 80г	https://www.perekrestok.ru/cat/150/p/cesnok-fermerskij-cesnok-tertyj-80g-3677358	pg	Пятигорск, улица Малыгина, 5	119,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Кукуруза сладкая в початках варёная Маркет Fresh	https://www.perekrestok.ru/cat/150/p/kukuruza-sladkaa-v-pocatkah-varenaa-market-fresh-78000169	pg	Пятигорск, улица Малыгина, 5	169,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Кукуруза мини импортная, 125г	https://www.perekrestok.ru/cat/150/p/kukuruza-mini-importnaa-125g-50591	pg	Пятигорск, улица Малыгина, 5	229,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Имбирь	https://www.perekrestok.ru/cat/150/p/imbir-3218215	pg	Пятигорск, улица Малыгина, 5	549,90 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель ранний	https://www.perekrestok.ru/cat/150/p/kartofel-rannij-45505	rnd	Ростов-на-Дону, Будённовский проспект, 45	59,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Редис красный, 500г	https://www.perekrestok.ru/cat/150/p/redis-krasnyj-500g-25180	rnd	Ростов-на-Дону, Будённовский проспект, 45	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Авокадо Хасс спелое, 2шт	https://www.perekrestok.ru/cat/150/p/avokado-hass-speloe-2st-3356275	rnd	Ростов-на-Дону, Будённовский проспект, 45	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Сельдерей черешковый, 1шт	https://www.perekrestok.ru/cat/150/p/selderej-cereskovyj-1st-2065179	rnd	Ростов-на-Дону, Будённовский проспект, 45	119,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Чеснок ранний	https://www.perekrestok.ru/cat/150/p/cesnok-rannij-77278	rnd	Ростов-на-Дону, Будённовский проспект, 45	449,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томат Биф розовый	https://www.perekrestok.ru/cat/150/p/tomat-bif-rozovyj-4132395	rnd	Ростов-на-Дону, Будённовский проспект, 45	349,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты черри чёрный шоколад Маркет Collection, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-cernyj-sokolad-market-collection-250g-4323486	rnd	Ростов-на-Дону, Будённовский проспект, 45	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты черри на ветке, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-na-vetke-250g-3673307	rnd	Ростов-на-Дону, Будённовский проспект, 45	109,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Медовые черри красные круглые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-medovye-cerri-krasnye-kruglye-200g-3676649	rnd	Ростов-на-Дону, Будённовский проспект, 45	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Рост Фламенко красные сливовидные	https://www.perekrestok.ru/cat/150/p/tomaty-rost-flamenko-krasnye-slivovidnye-4214021	rnd	Ростов-на-Дону, Будённовский проспект, 45	259,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Flamenco сливовидные красные, 450г	https://www.perekrestok.ru/cat/150/p/tomaty-flamenco-slivovidnye-krasnye-450g-4217380	rnd	Ростов-на-Дону, Будённовский проспект, 45	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты красные круглые	https://www.perekrestok.ru/cat/150/p/tomaty-krasnye-kruglye-2166	rnd	Ростов-на-Дону, Будённовский проспект, 45	139,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Черри Медовые оранжевые круглые, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-medovye-oranzevye-kruglye-200g-4188460	rnd	Ростов-на-Дону, Будённовский проспект, 45	199,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Бакинские	https://www.perekrestok.ru/cat/150/p/tomaty-bakinskie-3017019	rnd	Ростов-на-Дону, Будённовский проспект, 45	249,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты черри отечественные, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-cerri-otecestvennye-250g-3634714	rnd	Ростов-на-Дону, Будённовский проспект, 45	119,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты жёлтые сливовидные, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-zeltye-slivovidnye-350g-3657325	rnd	Ростов-на-Дону, Будённовский проспект, 45	169,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты жёлтые сливовидные	https://www.perekrestok.ru/cat/150/p/tomaty-zeltye-slivovidnye-14809	rnd	Ростов-на-Дону, Будённовский проспект, 45	329,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Эко-Культура Черри Ароматто сливовидные на ветке, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-aromatto-slivovidnye-na-vetke-500g-4281278	rnd	Ростов-на-Дону, Будённовский проспект, 45	399,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты розовые	https://www.perekrestok.ru/cat/150/p/tomaty-rozovye-21292	rnd	Ростов-на-Дону, Будённовский проспект, 45	269,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты коктейльные розовые, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-koktejlnye-rozovye-350g-2138220	rnd	Ростов-на-Дону, Будённовский проспект, 45	179,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Сладкая Ягода Черри красные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-sladkaa-agoda-cerri-krasnye-200g-4217379	rnd	Ростов-на-Дону, Будённовский проспект, 45	149,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты коктейль сливовидные, 350г	https://www.perekrestok.ru/cat/150/p/tomaty-koktejl-slivovidnye-350g-82521	rnd	Ростов-на-Дону, Будённовский проспект, 45	99,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Кумато	https://www.perekrestok.ru/cat/150/p/tomaty-kumato-42138	rnd	Ростов-на-Дону, Будённовский проспект, 45	419,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Эко-культура Черри Слатто сливовидные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-slivovidnye-200g-4281279	rnd	Ростов-на-Дону, Будённовский проспект, 45	59,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Эко-Культура черри зеленые сливовидные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-zelenye-slivovidnye-200g-4323266	rnd	Ростов-на-Дону, Будённовский проспект, 45	149,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Кумато черри мини, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-kumato-cerri-mini-250g-3373662	rnd	Ростов-на-Дону, Будённовский проспект, 45	179,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Пинк парадайз	https://www.perekrestok.ru/cat/150/p/tomaty-pink-paradajz-3217281	rnd	Ростов-на-Дону, Будённовский проспект, 45	659,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты Эко-Культура черри слатто желтые, 250г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-zeltye-250g-4281276	rnd	Ростов-на-Дону, Будённовский проспект, 45	189,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томаты Эко-Культура Черри Слатто круглые красные, 200г	https://www.perekrestok.ru/cat/150/p/tomaty-eko-kultura-cerri-slatto-kruglye-krasnye-200g-4290888	rnd	Ростов-на-Дону, Будённовский проспект, 45	169,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Томат Кривянский	https://www.perekrestok.ru/cat/150/p/tomat-krivanskij-12572	rnd	Ростов-на-Дону, Будённовский проспект, 45	189,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Томаты розовые фасованные, 500г	https://www.perekrestok.ru/cat/150/p/tomaty-rozovye-fasovannye-500g-3383465	rnd	Ростов-на-Дону, Будённовский проспект, 45	169,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Картофель в сетке	https://www.perekrestok.ru/cat/150/p/kartofel-v-setke-3987	rnd	Ростов-на-Дону, Будённовский проспект, 45	58,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель мытый	https://www.perekrestok.ru/cat/150/p/kartofel-mytyj-2099571	rnd	Ростов-на-Дону, Будённовский проспект, 45	89,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Картофель для варки, 3кг	https://www.perekrestok.ru/cat/150/p/kartofel-dla-varki-3kg-3142878	rnd	Ростов-на-Дону, Будённовский проспект, 45	299,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Картофель для жарки, 3кг	https://www.perekrestok.ru/cat/150/p/kartofel-dla-zarki-3kg-3142879	rnd	Ростов-на-Дону, Будённовский проспект, 45	299,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Огурцы гладкие среднеплодные	https://www.perekrestok.ru/cat/150/p/ogurcy-gladkie-sredneplodnye-2098997	rnd	Ростов-на-Дону, Будённовский проспект, 45	109,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Огурцы короткоплодные	https://www.perekrestok.ru/cat/150/p/ogurcy-korotkoplodnye-4072	rnd	Ростов-на-Дону, Будённовский проспект, 45	139,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Огурцы Фасованные, 450г	https://www.perekrestok.ru/cat/150/p/ogurcy-fasovannye-450g-44569	rnd	Ростов-на-Дону, Будённовский проспект, 45	89,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Огурцы, 600г	https://www.perekrestok.ru/cat/150/p/ogurcy-600g-2131726	rnd	Ростов-на-Дону, Будённовский проспект, 45	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Огурцы корнишоны, 300г	https://www.perekrestok.ru/cat/150/p/ogurcy-kornisony-300g-3368258	rnd	Ростов-на-Дону, Будённовский проспект, 45	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Огурцы колючие среднеплодные	https://www.perekrestok.ru/cat/150/p/ogurcy-kolucie-sredneplodnye-3255111	rnd	Ростов-на-Дону, Будённовский проспект, 45	169,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Морковь отечественная	https://www.perekrestok.ru/cat/150/p/morkov-otecestvennaa-60529	rnd	Ростов-на-Дону, Будённовский проспект, 45	58,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Морковь мытая Маркет Fresh, 1кг	https://www.perekrestok.ru/cat/150/p/morkov-mytaa-market-fresh-1kg-19345	rnd	Ростов-на-Дону, Будённовский проспект, 45	99,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Морковь свежая Маркет Fresh, 200г	https://www.perekrestok.ru/cat/150/p/morkov-svezaa-market-fresh-200g-4299784	rnd	Ростов-на-Дону, Будённовский проспект, 45	83,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Морковь Дмитровские Овощи целая вареная очищенная, 500г	https://www.perekrestok.ru/cat/150/p/morkov-dmitrovskie-ovosi-celaa-varenaa-ocisennaa-500g-3444579	rnd	Ростов-на-Дону, Будённовский проспект, 45	83,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Лук репчатый	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-45463	rnd	Ростов-на-Дону, Будённовский проспект, 45	57,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук репчатый в сетке	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-v-setke-3969	rnd	Ростов-на-Дону, Будённовский проспект, 45	44,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук репчатый, 600г	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-600g-3368253	rnd	Ростов-на-Дону, Будённовский проспект, 45	59,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Лук Ялтинский	https://www.perekrestok.ru/cat/150/p/luk-altinskij-3368252	rnd	Ростов-на-Дону, Будённовский проспект, 45	219,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Лук репчатый красный, 500г	https://www.perekrestok.ru/cat/150/p/luk-repcatyj-krasnyj-500g-3016771	rnd	Ростов-на-Дону, Будённовский проспект, 45	109,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Перец Ласточка	https://www.perekrestok.ru/cat/150/p/perec-lastocka-3231963	rnd	Ростов-на-Дону, Будённовский проспект, 45	229,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Перец красный сладкий	https://www.perekrestok.ru/cat/150/p/perec-krasnyj-sladkij-6177	rnd	Ростов-на-Дону, Будённовский проспект, 45	299,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Перец чили красный мини, 50г	https://www.perekrestok.ru/cat/150/p/perec-cili-krasnyj-mini-50g-4040980	rnd	Ростов-на-Дону, Будённовский проспект, 45	169,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Перец Палермо высшего сорта, 300г	https://www.perekrestok.ru/cat/150/p/perec-palermo-vyssego-sorta-300g-3929715	rnd	Ростов-на-Дону, Будённовский проспект, 45	239,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Перец жгучий смешанный, 100г	https://www.perekrestok.ru/cat/150/p/perec-zgucij-smesannyj-100g-2143028	rnd	Ростов-на-Дону, Будённовский проспект, 45	129,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Авокадо	https://www.perekrestok.ru/cat/150/p/avokado-49622	rnd	Ростов-на-Дону, Будённовский проспект, 45	499,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Авокадо Хасс Маркет fresh, 700г	https://www.perekrestok.ru/cat/150/p/avokado-hass-market-fresh-700g-3948371	rnd	Ростов-на-Дону, Будённовский проспект, 45	379,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Авокадо Хасс	https://www.perekrestok.ru/cat/150/p/avokado-hass-3954359	rnd	Ростов-на-Дону, Будённовский проспект, 45	599,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Кабачки	https://www.perekrestok.ru/cat/150/p/kabacki-44110	rnd	Ростов-на-Дону, Будённовский проспект, 45	99,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Баклажаны	https://www.perekrestok.ru/cat/150/p/baklazany-4414	rnd	Ростов-на-Дону, Будённовский проспект, 45	129,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Кабачки фасованные, 600г	https://www.perekrestok.ru/cat/150/p/kabacki-fasovannye-600g-4195054	rnd	Ростов-на-Дону, Будённовский проспект, 45	149,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Кабачки цуккини зелёные	https://www.perekrestok.ru/cat/150/p/kabacki-cukkini-zelenye-48632	rnd	Ростов-на-Дону, Будённовский проспект, 45	189,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Кабачки Цуккини зелёные, 600г	https://www.perekrestok.ru/cat/150/p/kabacki-cukkini-zelenye-600g-4131555	rnd	Ростов-на-Дону, Будённовский проспект, 45	149,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Свекла	https://www.perekrestok.ru/cat/150/p/svekla-45532	rnd	Ростов-на-Дону, Будённовский проспект, 45	53,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Свекла мытая фасованная, 1кг	https://www.perekrestok.ru/cat/150/p/svekla-mytaa-fasovannaa-1kg-19768	rnd	Ростов-на-Дону, Будённовский проспект, 45	89,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Свекла варёная нарезанная соломкой, 500г	https://www.perekrestok.ru/cat/150/p/svekla-varenaa-narezannaa-solomkoj-500g-3635807	rnd	Ростов-на-Дону, Будённовский проспект, 45	109,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Свекла молодая	https://www.perekrestok.ru/cat/150/p/svekla-molodaa-13998	rnd	Ростов-на-Дону, Будённовский проспект, 45	109,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Капуста	https://www.perekrestok.ru/cat/150/p/kapusta-45661	rnd	Ростов-на-Дону, Будённовский проспект, 45	39,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Капуста брокколи	https://www.perekrestok.ru/cat/150/p/kapusta-brokkoli-1557	rnd	Ростов-на-Дону, Будённовский проспект, 45	349,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Капуста краснокочанная	https://www.perekrestok.ru/cat/150/p/kapusta-krasnokocannaa-73917	rnd	Ростов-на-Дону, Будённовский проспект, 45	99,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Тыква Баттернат	https://www.perekrestok.ru/cat/150/p/tykva-batternat-82036	rnd	Ростов-на-Дону, Будённовский проспект, 45	129,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Тыква Оранжевое солнце	https://www.perekrestok.ru/cat/150/p/tykva-oranzevoe-solnce-4088824	rnd	Ростов-на-Дону, Будённовский проспект, 45	99,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Чеснок	https://www.perekrestok.ru/cat/150/p/cesnok-17662	rnd	Ростов-на-Дону, Будённовский проспект, 45	69,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Чеснок	https://www.perekrestok.ru/cat/150/p/cesnok-45692	rnd	Ростов-на-Дону, Будённовский проспект, 45	399,99 ₽/кг	Sun Jul  7 23:20:00 2024
+Кукуруза сладкая в початках варёная Маркет Fresh	https://www.perekrestok.ru/cat/150/p/kukuruza-sladkaa-v-pocatkah-varenaa-market-fresh-78000169	rnd	Ростов-на-Дону, Будённовский проспект, 45	179,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Имбирь	https://www.perekrestok.ru/cat/150/p/imbir-3218215	rnd	Ростов-на-Дону, Будённовский проспект, 45	549,90 ₽/кг	Sun Jul  7 23:20:00 2024

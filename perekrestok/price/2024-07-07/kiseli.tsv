@@ -1,12 +1,12 @@
-name	url	locale	address	price
-Кисель вишнёвый Пр!ст, 500мл	https://www.perekrestok.ru/cat/742/p/kisel-visnevyj-pr-st-500ml-4272271	msk	Москва, Большой Патриарший переулок, 5	53,99 ₽/шт
-Кисель черничный Пр!ст, 500мл	https://www.perekrestok.ru/cat/742/p/kisel-cernicnyj-pr-st-500ml-4272272	msk	Москва, Большой Патриарший переулок, 5	53,99 ₽/шт
-Кисель черничный Пр!ст, 500мл	https://www.perekrestok.ru/cat/742/p/kisel-cernicnyj-pr-st-500ml-4272272	spb	Санкт-Петербург, Биржевая площадь, 4	39,99 ₽/шт
-Кисель вишнёвый Пр!ст, 500мл	https://www.perekrestok.ru/cat/742/p/kisel-visnevyj-pr-st-500ml-4272271	spb	Санкт-Петербург, Биржевая площадь, 4	45,99 ₽/шт
-Кисель вишнёвый Пр!ст, 500мл	https://www.perekrestok.ru/cat/742/p/kisel-visnevyj-pr-st-500ml-4272271	ekb	Екатеринбург, ул. Бориса Ельцина, 3	53,99 ₽/шт
-Кисель черничный Пр!ст, 500мл	https://www.perekrestok.ru/cat/742/p/kisel-cernicnyj-pr-st-500ml-4272272	ekb	Екатеринбург, ул. Бориса Ельцина, 3	53,99 ₽/шт
-Кисель вишнёвый Пр!ст, 500мл	https://www.perekrestok.ru/cat/742/p/kisel-visnevyj-pr-st-500ml-4272271	nn	Нижний Новгород, площадь Минина и Пожарского, 2	39,99 ₽/шт
-Кисель вишнёвый Пр!ст, 500мл	https://www.perekrestok.ru/cat/742/p/kisel-visnevyj-pr-st-500ml-4272271	pg	Пятигорск, улица Малыгина, 5	41,99 ₽/шт
-Кисель черничный Пр!ст, 500мл	https://www.perekrestok.ru/cat/742/p/kisel-cernicnyj-pr-st-500ml-4272272	pg	Пятигорск, улица Малыгина, 5	41,99 ₽/шт
-Кисель вишнёвый Пр!ст, 500мл	https://www.perekrestok.ru/cat/742/p/kisel-visnevyj-pr-st-500ml-4272271	rnd	Ростов-на-Дону, Будённовский проспект, 45	41,99 ₽/шт
-Кисель черничный Пр!ст, 500мл	https://www.perekrestok.ru/cat/742/p/kisel-cernicnyj-pr-st-500ml-4272272	rnd	Ростов-на-Дону, Будённовский проспект, 45	41,99 ₽/шт
+name	url	locale	address	price	time
+Кисель вишнёвый Пр!ст, 500мл	https://www.perekrestok.ru/cat/742/p/kisel-visnevyj-pr-st-500ml-4272271	msk	Москва, Большой Патриарший переулок, 5	53,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Кисель черничный Пр!ст, 500мл	https://www.perekrestok.ru/cat/742/p/kisel-cernicnyj-pr-st-500ml-4272272	msk	Москва, Большой Патриарший переулок, 5	53,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Кисель черничный Пр!ст, 500мл	https://www.perekrestok.ru/cat/742/p/kisel-cernicnyj-pr-st-500ml-4272272	spb	Санкт-Петербург, Биржевая площадь, 4	39,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Кисель вишнёвый Пр!ст, 500мл	https://www.perekrestok.ru/cat/742/p/kisel-visnevyj-pr-st-500ml-4272271	spb	Санкт-Петербург, Биржевая площадь, 4	45,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Кисель вишнёвый Пр!ст, 500мл	https://www.perekrestok.ru/cat/742/p/kisel-visnevyj-pr-st-500ml-4272271	ekb	Екатеринбург, ул. Бориса Ельцина, 3	53,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Кисель черничный Пр!ст, 500мл	https://www.perekrestok.ru/cat/742/p/kisel-cernicnyj-pr-st-500ml-4272272	ekb	Екатеринбург, ул. Бориса Ельцина, 3	53,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Кисель вишнёвый Пр!ст, 500мл	https://www.perekrestok.ru/cat/742/p/kisel-visnevyj-pr-st-500ml-4272271	nn	Нижний Новгород, площадь Минина и Пожарского, 2	39,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Кисель вишнёвый Пр!ст, 500мл	https://www.perekrestok.ru/cat/742/p/kisel-visnevyj-pr-st-500ml-4272271	pg	Пятигорск, улица Малыгина, 5	41,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Кисель черничный Пр!ст, 500мл	https://www.perekrestok.ru/cat/742/p/kisel-cernicnyj-pr-st-500ml-4272272	pg	Пятигорск, улица Малыгина, 5	41,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Кисель вишнёвый Пр!ст, 500мл	https://www.perekrestok.ru/cat/742/p/kisel-visnevyj-pr-st-500ml-4272271	rnd	Ростов-на-Дону, Будённовский проспект, 45	41,99 ₽/шт	Sun Jul  7 23:20:00 2024
+Кисель черничный Пр!ст, 500мл	https://www.perekrestok.ru/cat/742/p/kisel-cernicnyj-pr-st-500ml-4272272	rnd	Ростов-на-Дону, Будённовский проспект, 45	41,99 ₽/шт	Sun Jul  7 23:20:00 2024
