@@ -1,0 +1,460 @@
+name	url	locale	address	price
+Кефир Простоквашино 2.5%, 930мл	https://www.perekrestok.ru/cat/120/p/kefir-prostokvasino-2-5-930ml-2093082	msk	Москва, Большой Патриарший переулок, 5	83,99 ₽/шт
+Биопродукт Bio Баланс кефирный 1%, 930мл	https://www.perekrestok.ru/cat/120/p/bioprodukt-bio-balans-kefirnyj-1-930ml-2085953	msk	Москва, Большой Патриарший переулок, 5	79,99 ₽/шт
+Кефир Домик в деревне 1%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-domik-v-derevne-1-900ml-3467794	msk	Москва, Большой Патриарший переулок, 5	79,99 ₽/шт
+Кефир 3.2% Молочный знак, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-3-2-molocnyj-znak-900ml-4198906	msk	Москва, Большой Патриарший переулок, 5	79,99 ₽/шт
+Кефир 2.5% ПЭТ Зелёная Линия, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-2-5-pet-zelenaa-linia-900ml-4137919	msk	Москва, Большой Патриарший переулок, 5	75,99 ₽/шт
+Кефир 1% Молочный Знак, 900г	https://www.perekrestok.ru/cat/120/p/kefir-1-molocnyj-znak-900g-4328084	msk	Москва, Большой Патриарший переулок, 5	69,99 ₽/шт
+Кефир 3.2% Молочный знак, 430мл	https://www.perekrestok.ru/cat/120/p/kefir-3-2-molocnyj-znak-430ml-4174038	msk	Москва, Большой Патриарший переулок, 5	47,99 ₽/шт
+Кефир 3.2% Зелёная Линия, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-3-2-zelenaa-linia-900ml-3668693	msk	Москва, Большой Патриарший переулок, 5	85,99 ₽/шт
+Кефир 3.2% Молочный Знак, 175мл	https://www.perekrestok.ru/cat/120/p/kefir-3-2-molocnyj-znak-175ml-4318914	msk	Москва, Большой Патриарший переулок, 5	19,75 ₽/шт
+Кефир Эконива 3.2%, 1л	https://www.perekrestok.ru/cat/120/p/kefir-ekoniva-3-2-1l-3922310	msk	Москва, Большой Патриарший переулок, 5	99,99 ₽/шт
+Коктейль Простоквашино кефирный обогащённый клубника обезжиренный, 900мл	https://www.perekrestok.ru/cat/120/p/koktejl-prostokvasino-kefirnyj-obogasennyj-klubnika-obezzirennyj-900ml-4000350	msk	Москва, Большой Патриарший переулок, 5	99,99 ₽/шт
+Кефир Асеньевская Ферма 3.2%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-asenevskaa-ferma-3-2-900ml-3433425	msk	Москва, Большой Патриарший переулок, 5	104,99 ₽/шт
+Кефир Асеньевская Ферма 3.2%, 330мл	https://www.perekrestok.ru/cat/120/p/kefir-asenevskaa-ferma-3-2-330ml-4252382	msk	Москва, Большой Патриарший переулок, 5	55,99 ₽/шт
+Кефир Залесский Фермер Фермерская 3.2%, 500мл	https://www.perekrestok.ru/cat/120/p/kefir-zalesskij-fermer-fermerskaa-3-2-500ml-3491262	msk	Москва, Большой Патриарший переулок, 5	59,99 ₽/шт
+Кефир Из молока Нашей дойки 3.2-4%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-iz-moloka-nasej-dojki-3-2-4-900ml-4302774	msk	Москва, Большой Патриарший переулок, 5	109,99 ₽/шт
+Кефир Простоквашино 1%, 930мл	https://www.perekrestok.ru/cat/120/p/kefir-prostokvasino-1-930ml-3352331	msk	Москва, Большой Патриарший переулок, 5	91,99 ₽/шт
+Кефир Кубанский Молочник 2.5%, 720мл	https://www.perekrestok.ru/cat/120/p/kefir-kubanskij-molocnik-2-5-720ml-3604726	msk	Москва, Большой Патриарший переулок, 5	85,99 ₽/шт
+Кефир Домик в деревне Bio-кефирный 2.5%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-domik-v-derevne-bio-kefirnyj-2-5-900ml-4250649	msk	Москва, Большой Патриарший переулок, 5	85,99 ₽/шт
+Кефир Залесский Фермер Фермерский натуральный 3.2%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-zalesskij-fermer-fermerskij-naturalnyj-3-2-900ml-4216799	msk	Москва, Большой Патриарший переулок, 5	79,99 ₽/шт
+Кефир Асеньевская Ферма 1%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-asenevskaa-ferma-1-900ml-3433426	msk	Москва, Большой Патриарший переулок, 5	104,99 ₽/шт
+Кефир Эконива 1%, 1л	https://www.perekrestok.ru/cat/120/p/kefir-ekoniva-1-1l-4120577	msk	Москва, Большой Патриарший переулок, 5	82,99 ₽/шт
+Кефир Рузское Молоко Рузский 3.2-4%, 1л	https://www.perekrestok.ru/cat/120/p/kefir-ruzskoe-moloko-ruzskij-3-2-4-1l-3177382	msk	Москва, Большой Патриарший переулок, 5	164,99 ₽/шт
+Кефир Рузское Молоко обогащён йодированным белком 2.5%, 500мл	https://www.perekrestok.ru/cat/120/p/kefir-ruzskoe-moloko-obogasen-jodirovannym-belkom-2-5-500ml-3177254	msk	Москва, Большой Патриарший переулок, 5	139,99 ₽/шт
+Кефир Рузское Молоко маложирный 2.5%, 1л	https://www.perekrestok.ru/cat/120/p/kefir-ruzskoe-moloko-malozirnyj-2-5-1l-3460015	msk	Москва, Большой Патриарший переулок, 5	159,99 ₽/шт
+Кефир Углече Поле 3.2%, 500мл	https://www.perekrestok.ru/cat/120/p/kefir-uglece-pole-3-2-500ml-3416069	msk	Москва, Большой Патриарший переулок, 5	99,99 ₽/шт
+Кефир Чабан 1%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-caban-1-900ml-3614690	msk	Москва, Большой Патриарший переулок, 5	134,99 ₽/шт
+Ряженка Простоквашино 3.2%, 930мл	https://www.perekrestok.ru/cat/120/p/razenka-prostokvasino-3-2-930ml-3605310	msk	Москва, Большой Патриарший переулок, 5	114,99 ₽/шт
+Ряженка Домик в деревне Для тебя Топленое молоко 2.5%, 270мл	https://www.perekrestok.ru/cat/120/p/razenka-domik-v-derevne-dla-teba-toplenoe-moloko-2-5-270ml-4208223	msk	Москва, Большой Патриарший переулок, 5	55,99 ₽/шт
+Ряженка термостатная 2.5% Зелёная Линия, 450мл	https://www.perekrestok.ru/cat/120/p/razenka-termostatnaa-2-5-zelenaa-linia-450ml-4162258	msk	Москва, Большой Патриарший переулок, 5	83,99 ₽/шт
+Ряженка 3.2% Молочный знак, 430мл	https://www.perekrestok.ru/cat/120/p/razenka-3-2-molocnyj-znak-430ml-4173940	msk	Москва, Большой Патриарший переулок, 5	57,90 ₽/шт
+Ряженка 3.2% Зелёная Линия, 900г	https://www.perekrestok.ru/cat/120/p/razenka-3-2-zelenaa-linia-900g-4322301	msk	Москва, Большой Патриарший переулок, 5	89,99 ₽/шт
+Ряженка Вологжанка 4%, 470мл	https://www.perekrestok.ru/cat/120/p/razenka-vologzanka-4-470ml-3062757	msk	Москва, Большой Патриарший переулок, 5	54,99 ₽/шт
+Ряженка Залесский Фермер Фермерская натуральная 3.5%, 900мл	https://www.perekrestok.ru/cat/120/p/razenka-zalesskij-fermer-fermerskaa-naturalnaa-3-5-900ml-4147583	msk	Москва, Большой Патриарший переулок, 5	109,99 ₽/шт
+Ряженка Асеньевская Ферма 3.2%, 330мл	https://www.perekrestok.ru/cat/120/p/razenka-asenevskaa-ferma-3-2-330ml-4235789	msk	Москва, Большой Патриарший переулок, 5	63,99 ₽/шт
+Ряженка Залесский Фермер Фермерская 3.5%, 450мл	https://www.perekrestok.ru/cat/120/p/razenka-zalesskij-fermer-fermerskaa-3-5-450ml-3491425	msk	Москва, Большой Патриарший переулок, 5	63,99 ₽/шт
+Ряженка Эконива 4%, 1л	https://www.perekrestok.ru/cat/120/p/razenka-ekoniva-4-1l-4146753	msk	Москва, Большой Патриарший переулок, 5	104,99 ₽/шт
+Ряженка банан-карамель 2% Зелёная Линия, 230мл	https://www.perekrestok.ru/cat/120/p/razenka-banan-karamel-2-zelenaa-linia-230ml-4250866	msk	Москва, Большой Патриарший переулок, 5	59,99 ₽/шт
+Ряженка печёное яблоко-корица 2% Зелёная Линия, 230мл	https://www.perekrestok.ru/cat/120/p/razenka-pecenoe-abloko-korica-2-zelenaa-linia-230ml-4250839	msk	Москва, Большой Патриарший переулок, 5	59,99 ₽/шт
+Ряженка курага-чернослив 2% Зелёная Линия, 230мл	https://www.perekrestok.ru/cat/120/p/razenka-kuraga-cernosliv-2-zelenaa-linia-230ml-4250861	msk	Москва, Большой Патриарший переулок, 5	59,99 ₽/шт
+Ряженка Из Молока Нашей Дойки 4%, 900мл	https://www.perekrestok.ru/cat/120/p/razenka-iz-moloka-nasej-dojki-4-900ml-4307523	msk	Москва, Большой Патриарший переулок, 5	114,99 ₽/шт
+Ряженка Рузское Молоко Рузский 2.5%, 330мл	https://www.perekrestok.ru/cat/120/p/razenka-ruzskoe-moloko-ruzskij-2-5-330ml-3293379	msk	Москва, Большой Патриарший переулок, 5	119,99 ₽/шт
+Тан Ростагроэкспорт 0.5%, 1л	https://www.perekrestok.ru/cat/120/p/tan-rostagroeksport-0-5-1l-3634618	msk	Москва, Большой Патриарший переулок, 5	95,99 ₽/шт
+Айран G-balance газированый 1%, 1л	https://www.perekrestok.ru/cat/120/p/ajran-g-balance-gazirovanyj-1-1l-4005466	msk	Москва, Большой Патриарший переулок, 5	104,99 ₽/шт
+Тан G-balance газированый 1%, 1л	https://www.perekrestok.ru/cat/120/p/tan-g-balance-gazirovanyj-1-1l-4005688	msk	Москва, Большой Патриарший переулок, 5	104,99 ₽/шт
+Мацони Ростагроэкспорт кисломолочный 3.2%, 300мл	https://www.perekrestok.ru/cat/120/p/maconi-rostagroeksport-kislomolocnyj-3-2-300ml-2058753	msk	Москва, Большой Патриарший переулок, 5	77,99 ₽/шт
+Айран Халамилк 1%, 500мл	https://www.perekrestok.ru/cat/120/p/ajran-halamilk-1-500ml-3677708	msk	Москва, Большой Патриарший переулок, 5	65,99 ₽/шт
+Айран Асеньевская Ферма 2%, 330мл	https://www.perekrestok.ru/cat/120/p/ajran-asenevskaa-ferma-2-330ml-4238869	msk	Москва, Большой Патриарший переулок, 5	39,99 ₽/шт
+Айран Долголетие 1.5-2%, 500мл	https://www.perekrestok.ru/cat/120/p/ajran-dolgoletie-1-5-2-500ml-3940947	msk	Москва, Большой Патриарший переулок, 5	83,99 ₽/шт
+Довга Долголетие с рисом и травами 1.7%, 300мл	https://www.perekrestok.ru/cat/120/p/dovga-dolgoletie-s-risom-i-travami-1-7-300ml-3946755	msk	Москва, Большой Патриарший переулок, 5	69,99 ₽/шт
+Мацони Долголетие 3.6-4.2%, 950мл	https://www.perekrestok.ru/cat/120/p/maconi-dolgoletie-3-6-4-2-950ml-4237433	msk	Москва, Большой Патриарший переулок, 5	219,99 ₽/шт
+Тан Халамилк 1%, 500мл	https://www.perekrestok.ru/cat/120/p/tan-halamilk-1-500ml-3677707	msk	Москва, Большой Патриарший переулок, 5	65,99 ₽/шт
+Мацони Халамилк 3.5%, 500мл	https://www.perekrestok.ru/cat/120/p/maconi-halamilk-3-5-500ml-3677709	msk	Москва, Большой Патриарший переулок, 5	164,99 ₽/шт
+Каймак Кавказский Долгожитель кисломолочный 20%, 300мл	https://www.perekrestok.ru/cat/120/p/kajmak-kavkazskij-dolgozitel-kislomolocnyj-20-300ml-4227820	msk	Москва, Большой Патриарший переулок, 5	154,99 ₽/шт
+Мацони G-Balance 1.5%, 500мл	https://www.perekrestok.ru/cat/120/p/maconi-g-balance-1-5-500ml-3250393	msk	Москва, Большой Патриарший переулок, 5	174,99 ₽/шт
+Катык Халалмилк 6%, 500мл	https://www.perekrestok.ru/cat/120/p/katyk-halalmilk-6-500ml-3978530	msk	Москва, Большой Патриарший переулок, 5	169,99 ₽/шт
+Напиток Actimuno Kids кисломолочный детский с клубникой и бананом 1.5%, 95мл	https://www.perekrestok.ru/cat/230/p/napitok-actimuno-kids-kislomolocnyj-detskij-s-klubnikoj-i-bananom-1-5-95ml-4311962	msk	Москва, Большой Патриарший переулок, 5	27,99 ₽/шт
+Напиток кисломолочный Имунеле Земляника 1.2%, 100мл	https://www.perekrestok.ru/cat/120/p/napitok-kislomolocnyj-imunele-zemlanika-1-2-100ml-3962	msk	Москва, Большой Патриарший переулок, 5	35,99 ₽/шт
+Напиток функциональный Имунеле лесные ягоды 1.2%, 100г	https://www.perekrestok.ru/cat/230/p/napitok-funkcionalnyj-imunele-lesnye-agody-1-2-100g-3326481	msk	Москва, Большой Патриарший переулок, 5	35,99 ₽/шт
+Напиток Actimuno кисломолочный с киви клубникой и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-kivi-klubnikoj-i-cinkom-1-5-95ml-4311971	msk	Москва, Большой Патриарший переулок, 5	33,99 ₽/шт
+Напиток кисломолочный Имунеле Черника 1.2%, 100мл	https://www.perekrestok.ru/cat/230/p/napitok-kislomolocnyj-imunele-cernika-1-2-100ml-4004	msk	Москва, Большой Патриарший переулок, 5	35,99 ₽/шт
+Напиток кисломолочный Exponenta Био-Скир 3в1 со вкусом ананас-кокос безлактозный, 500г	https://www.perekrestok.ru/cat/120/p/napitok-kislomolocnyj-exponenta-bio-skir-3v1-so-vkusom-ananas-kokos-bezlaktoznyj-500g-4334686	msk	Москва, Большой Патриарший переулок, 5	144,99 ₽/шт
+Биолакт Простоквашино 2.5%, 900мл	https://www.perekrestok.ru/cat/120/p/biolakt-prostokvasino-2-5-900ml-4120901	msk	Москва, Большой Патриарший переулок, 5	104,99 ₽/шт
+Простокваша Из Молока Нашей Дойки 4%, 300г	https://www.perekrestok.ru/cat/120/p/prostokvasa-iz-moloka-nasej-dojki-4-300g-4319575	msk	Москва, Большой Патриарший переулок, 5	44,99 ₽/шт
+Напиток кисломолочный Имунеле for Kids Малина-гранат 1.2% 100г	https://www.perekrestok.ru/cat/230/p/napitok-kislomolocnyj-imunele-for-kids-malina-granat-1-2-100g-4287769	msk	Москва, Большой Патриарший переулок, 5	35,99 ₽/шт
+Бифилайф Рузское Молоко Рузский 2.5%, 250мл	https://www.perekrestok.ru/cat/120/p/bifilajf-ruzskoe-moloko-ruzskij-2-5-250ml-3293396	msk	Москва, Большой Патриарший переулок, 5	99,99 ₽/шт
+Иммунолакт Село Зелёное питьевой со злаками 2.5%, 290мл	https://www.perekrestok.ru/cat/120/p/immunolakt-selo-zelenoe-pitevoj-so-zlakami-2-5-290ml-3695328	msk	Москва, Большой Патриарший переулок, 5	73,99 ₽/шт
+Иммунолакт Село Зелёное 2.5%, 290мл	https://www.perekrestok.ru/cat/120/p/immunolakt-selo-zelenoe-2-5-290ml-3695350	msk	Москва, Большой Патриарший переулок, 5	73,99 ₽/шт
+Снежок Домик в деревне сладкий 2.5%, 270мл	https://www.perekrestok.ru/cat/120/p/snezok-domik-v-derevne-sladkij-2-5-270ml-4208221	msk	Москва, Большой Патриарший переулок, 5	55,99 ₽/шт
+Снежок Залесский Фермер Фермерский 3.5%, 450мл	https://www.perekrestok.ru/cat/120/p/snezok-zalesskij-fermer-fermerskij-3-5-450ml-3491430	msk	Москва, Большой Патриарший переулок, 5	59,99 ₽/шт
+Напиток сывороточный Мажитэль Ананас-Манго 0.05%, 950мл	https://www.perekrestok.ru/cat/120/p/napitok-syvorotocnyj-mazitel-ananas-mango-0-05-950ml-3495187	msk	Москва, Большой Патриарший переулок, 5	129,99 ₽/шт
+Коктейль сыворотчный Мажитэль арбуз-дыня, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotcnyj-mazitel-arbuz-dyna-950g-3495185	msk	Москва, Большой Патриарший переулок, 5	124,99 ₽/шт
+Коктейль сыворотчный Мажитэль персик-маракуйя с витаминами, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotcnyj-mazitel-persik-marakuja-s-vitaminami-950g-23077	msk	Москва, Большой Патриарший переулок, 5	119,99 ₽/шт
+Коктейль сывороточный Мажитэль Пина Колада с витаминами, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotocnyj-mazitel-pina-kolada-s-vitaminami-950g-3379001	msk	Москва, Большой Патриарший переулок, 5	119,99 ₽/шт
+Коктейль сыворотчный Мажитэль клубника с витаминами, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotcnyj-mazitel-klubnika-s-vitaminami-950g-23035	msk	Москва, Большой Патриарший переулок, 5	119,99 ₽/шт
+Напиток сывороточный Актуаль с соками апельсина и манго 0.1%, 930мл	https://www.perekrestok.ru/cat/120/p/napitok-syvorotocnyj-aktual-s-sokami-apelsina-i-mango-0-1-930ml-3629005	msk	Москва, Большой Патриарший переулок, 5	134,99 ₽/шт
+Напиток сывороточный Актуаль с соками апельсина и манго 0.1%, 310мл	https://www.perekrestok.ru/cat/120/p/napitok-syvorotocnyj-aktual-s-sokami-apelsina-i-mango-0-1-310ml-3629004	msk	Москва, Большой Патриарший переулок, 5	53,99 ₽/шт
+Напиток Мажитель Ягодный пунш с соком стерилизованный, 950г	https://www.perekrestok.ru/cat/120/p/napitok-mazitel-agodnyj-puns-s-sokom-sterilizovannyj-950g-4344157	msk	Москва, Большой Патриарший переулок, 5	119,99 ₽/шт
+Коктейль сыворотчный Мажитэль мультифрукт с витаминами, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotcnyj-mazitel-multifrukt-s-vitaminami-950g-23076	msk	Москва, Большой Патриарший переулок, 5	119,99 ₽/шт
+Напиток сывороточный Село Зелёное с соком яблоко-груша 0%, 500мл	https://www.perekrestok.ru/cat/120/p/napitok-syvorotocnyj-selo-zelenoe-s-sokom-abloko-grusa-0-500ml-3608268	msk	Москва, Большой Патриарший переулок, 5	63,99 ₽/шт
+Напиток на сыворотке Актуаль с соком персика и маракуйи 0.1%, 930мл	https://www.perekrestok.ru/cat/120/p/napitok-na-syvorotke-aktual-s-sokom-persika-i-marakuji-0-1-930ml-3629006	msk	Москва, Большой Патриарший переулок, 5	129,99 ₽/шт
+Напиток Мажитель Клубничный мохито с яблочным соком пастеризованный, 950г	https://www.perekrestok.ru/cat/120/p/napitok-mazitel-klubnicnyj-mohito-s-ablocnym-sokom-pasterizovannyj-950g-4344158	msk	Москва, Большой Патриарший переулок, 5	134,99 ₽/шт
+Ацидофилин Молочная Культура 3.5-4.5%, 500мл	https://www.perekrestok.ru/cat/120/p/acidofilin-molocnaa-kultura-3-5-4-5-500ml-3432495	msk	Москва, Большой Патриарший переулок, 5	139,99 ₽/шт
+Кефир Простоквашино 2.5%, 930мл	https://www.perekrestok.ru/cat/120/p/kefir-prostokvasino-2-5-930ml-2093082	spb	Санкт-Петербург, Биржевая площадь, 4	89,99 ₽/шт
+Биопродукт Bio Баланс кефирный 1%, 930мл	https://www.perekrestok.ru/cat/120/p/bioprodukt-bio-balans-kefirnyj-1-930ml-2085953	spb	Санкт-Петербург, Биржевая площадь, 4	79,99 ₽/шт
+Биокефир Большая Кружка 1%, 500мл	https://www.perekrestok.ru/cat/120/p/biokefir-bolsaa-kruzka-1-500ml-4242643	spb	Санкт-Петербург, Биржевая площадь, 4	71,99 ₽/шт
+Кефир Простоквашино 3.2%, 930мл	https://www.perekrestok.ru/cat/120/p/kefir-prostokvasino-3-2-930ml-97452	spb	Санкт-Петербург, Биржевая площадь, 4	97,99 ₽/шт
+Кефир Северное Молоко Вологодский 2.5%, 500мл	https://www.perekrestok.ru/cat/120/p/kefir-severnoe-moloko-vologodskij-2-5-500ml-3429041	spb	Санкт-Петербург, Биржевая площадь, 4	43,99 ₽/шт
+Кефир Большая Кружка 2.5%, 500мл	https://www.perekrestok.ru/cat/120/p/kefir-bolsaa-kruzka-2-5-500ml-4255902	spb	Санкт-Петербург, Биржевая площадь, 4	67,99 ₽/шт
+Кефир Гармония низкокалорийный 1%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-garmonia-nizkokalorijnyj-1-900ml-3357728	spb	Санкт-Петербург, Биржевая площадь, 4	69,99 ₽/шт
+Кефир Большая Кружка 2.5%, 800мл	https://www.perekrestok.ru/cat/120/p/kefir-bolsaa-kruzka-2-5-800ml-4229630	spb	Санкт-Петербург, Биржевая площадь, 4	104,99 ₽/шт
+Коктейль Простоквашино кефирный обогащённый клубника обезжиренный, 900мл	https://www.perekrestok.ru/cat/120/p/koktejl-prostokvasino-kefirnyj-obogasennyj-klubnika-obezzirennyj-900ml-4000350	spb	Санкт-Петербург, Биржевая площадь, 4	99,99 ₽/шт
+Кефир Домик в деревне 1%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-domik-v-derevne-1-900ml-3467794	spb	Санкт-Петербург, Биржевая площадь, 4	73,99 ₽/шт
+Кефир Лосево 2.5%, 330мл	https://www.perekrestok.ru/cat/120/p/kefir-losevo-2-5-330ml-3663818	spb	Санкт-Петербург, Биржевая площадь, 4	77,99 ₽/шт
+Кефир Вологодское 1%, 970мл	https://www.perekrestok.ru/cat/120/p/kefir-vologodskoe-1-970ml-3636340	spb	Санкт-Петербург, Биржевая площадь, 4	73,99 ₽/шт
+Кефир Асеньевская Ферма 3.2%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-asenevskaa-ferma-3-2-900ml-3433425	spb	Санкт-Петербург, Биржевая площадь, 4	109,99 ₽/шт
+Кефир Пискаревский 2.5%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-piskarevskij-2-5-900ml-2173827	spb	Санкт-Петербург, Биржевая площадь, 4	57,99 ₽/шт
+Биокефир Большая Кружка 1%, 800мл	https://www.perekrestok.ru/cat/120/p/biokefir-bolsaa-kruzka-1-800ml-4255904	spb	Санкт-Петербург, Биржевая площадь, 4	79,99 ₽/шт
+Кефир Домик в деревне 3.2%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-domik-v-derevne-3-2-900ml-3467795	spb	Санкт-Петербург, Биржевая площадь, 4	97,99 ₽/шт
+Кефир Резной Палисад 2.5%, 930мл	https://www.perekrestok.ru/cat/120/p/kefir-reznoj-palisad-2-5-930ml-4202681	spb	Санкт-Петербург, Биржевая площадь, 4	85,99 ₽/шт
+Кефир Домик в деревне 2.5%, 270мл	https://www.perekrestok.ru/cat/120/p/kefir-domik-v-derevne-2-5-270ml-4302223	spb	Санкт-Петербург, Биржевая площадь, 4	53,99 ₽/шт
+Кефир Пискаревский 2.5%, 1л	https://www.perekrestok.ru/cat/120/p/kefir-piskarevskij-2-5-1l-2084559	spb	Санкт-Петербург, Биржевая площадь, 4	63,99 ₽/шт
+Кефир Вкуснотеево 3.2%, 1л	https://www.perekrestok.ru/cat/120/p/kefir-vkusnoteevo-3-2-1l-2083868	spb	Санкт-Петербург, Биржевая площадь, 4	114,99 ₽/шт
+Кефир Хозяйство Васильевой А.В. 2.5%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-hozajstvo-vasilevoj-a-v-2-5-900ml-3440677	spb	Санкт-Петербург, Биржевая площадь, 4	119,99 ₽/шт
+Кефир Большая Кружка со вкусом клубники 2.3%, 280мл	https://www.perekrestok.ru/cat/120/p/kefir-bolsaa-kruzka-so-vkusom-klubniki-2-3-280ml-4268482	spb	Санкт-Петербург, Биржевая площадь, 4	53,99 ₽/шт
+Кефир Простоквашино 1%, 930мл	https://www.perekrestok.ru/cat/120/p/kefir-prostokvasino-1-930ml-3352331	spb	Санкт-Петербург, Биржевая площадь, 4	79,99 ₽/шт
+Ряженка Простоквашино 3.2%, 930мл	https://www.perekrestok.ru/cat/120/p/razenka-prostokvasino-3-2-930ml-3605310	spb	Санкт-Петербург, Биржевая площадь, 4	124,99 ₽/шт
+Биоряженка Пискаревский Пискаревская 4%, 500мл	https://www.perekrestok.ru/cat/120/p/biorazenka-piskarevskij-piskarevskaa-4-500ml-3407755	spb	Санкт-Петербург, Биржевая площадь, 4	53,99 ₽/шт
+Ряженка Большая Кружка 4%, 500мл	https://www.perekrestok.ru/cat/120/p/razenka-bolsaa-kruzka-4-500ml-4242438	spb	Санкт-Петербург, Биржевая площадь, 4	73,99 ₽/шт
+Ряженка Большая кружка 4%, 800мл	https://www.perekrestok.ru/cat/120/p/razenka-bolsaa-kruzka-4-800ml-4229629	spb	Санкт-Петербург, Биржевая площадь, 4	89,99 ₽/шт
+Ряженка Свежее Завтра Большая кружка 2.5%, 500мл	https://www.perekrestok.ru/cat/120/p/razenka-svezee-zavtra-bolsaa-kruzka-2-5-500ml-3438012	spb	Санкт-Петербург, Биржевая площадь, 4	81,99 ₽/шт
+Ряженка Молочная Культура 3.5-4.5%, 500мл	https://www.perekrestok.ru/cat/120/p/razenka-molocnaa-kultura-3-5-4-5-500ml-3421963	spb	Санкт-Петербург, Биржевая площадь, 4	139,99 ₽/шт
+Ряженка Коровка из Кореновки термостатная 4%, 300мл	https://www.perekrestok.ru/cat/120/p/razenka-korovka-iz-korenovki-termostatnaa-4-300ml-4225820	spb	Санкт-Петербург, Биржевая площадь, 4	75,99 ₽/шт
+Ряженка Домик в деревне Для тебя Топленое молоко 2.5%, 270мл	https://www.perekrestok.ru/cat/120/p/razenka-domik-v-derevne-dla-teba-toplenoe-moloko-2-5-270ml-4208223	spb	Санкт-Петербург, Биржевая площадь, 4	42,99 ₽/шт
+Ряженка Брест-Литовск 3.6%, 415мл	https://www.perekrestok.ru/cat/120/p/razenka-brest-litovsk-3-6-415ml-4253807	spb	Санкт-Петербург, Биржевая площадь, 4	69,99 ₽/шт
+Ряженка Домик в деревне Клубника 2.1%, 270мл	https://www.perekrestok.ru/cat/120/p/razenka-domik-v-derevne-klubnika-2-1-270ml-4208224	spb	Санкт-Петербург, Биржевая площадь, 4	57,99 ₽/шт
+Ряженка 3.2% Молочный знак, 430мл	https://www.perekrestok.ru/cat/120/p/razenka-3-2-molocnyj-znak-430ml-4173940	spb	Санкт-Петербург, Биржевая площадь, 4	55,99 ₽/шт
+Ряженка 2.5% Молочный знак, 175мл	https://www.perekrestok.ru/cat/120/p/razenka-2-5-molocnyj-znak-175ml-4230794	spb	Санкт-Петербург, Биржевая площадь, 4	26,99 ₽/шт
+Ряженка Большая Кружка 4%, 260мл	https://www.perekrestok.ru/cat/120/p/razenka-bolsaa-kruzka-4-260ml-4324460	spb	Санкт-Петербург, Биржевая площадь, 4	49,99 ₽/шт
+Ряженка Большая кружка с грушей 3.5%, 260г	https://www.perekrestok.ru/cat/120/p/razenka-bolsaa-kruzka-s-grusej-3-5-260g-4345090	spb	Санкт-Петербург, Биржевая площадь, 4	59,99 ₽/шт
+Мацони Ростагроэкспорт кисломолочный 3.2%, 300мл	https://www.perekrestok.ru/cat/120/p/maconi-rostagroeksport-kislomolocnyj-3-2-300ml-2058753	spb	Санкт-Петербург, Биржевая площадь, 4	95,99 ₽/шт
+Айран Лесная Сказка Актив негазированный 1%, 1л	https://www.perekrestok.ru/cat/120/p/ajran-lesnaa-skazka-aktiv-negazirovannyj-1-1l-3341092	spb	Санкт-Петербург, Биржевая площадь, 4	85,99 ₽/шт
+Тан Ростагроэкспорт 0.5%, 1л	https://www.perekrestok.ru/cat/120/p/tan-rostagroeksport-0-5-1l-3634618	spb	Санкт-Петербург, Биржевая площадь, 4	104,99 ₽/шт
+Айран Лесная Сказка Актив 1%, 500мл	https://www.perekrestok.ru/cat/120/p/ajran-lesnaa-skazka-aktiv-1-500ml-85051	spb	Санкт-Петербург, Биржевая площадь, 4	63,99 ₽/шт
+Тан Лесная Сказка 1%, 500мл	https://www.perekrestok.ru/cat/120/p/tan-lesnaa-skazka-1-500ml-2043706	spb	Санкт-Петербург, Биржевая площадь, 4	55,99 ₽/шт
+Тан Кавказ негазированный 1%, 1л	https://www.perekrestok.ru/cat/120/p/tan-kavkaz-negazirovannyj-1-1l-3169064	spb	Санкт-Петербург, Биржевая площадь, 4	85,99 ₽/шт
+Айран Халамилк 1%, 500мл	https://www.perekrestok.ru/cat/120/p/ajran-halamilk-1-500ml-3677708	spb	Санкт-Петербург, Биржевая площадь, 4	51,99 ₽/шт
+Айран Долголетие турецкий кисломолочный 1.8%, 180мл	https://www.perekrestok.ru/cat/120/p/ajran-dolgoletie-tureckij-kislomolocnyj-1-8-180ml-4277160	spb	Санкт-Петербург, Биржевая площадь, 4	35,99 ₽/шт
+Тан G-balance огуречный 1%, 500мл	https://www.perekrestok.ru/cat/120/p/tan-g-balance-ogurecnyj-1-500ml-3250392	spb	Санкт-Петербург, Биржевая площадь, 4	59,99 ₽/шт
+Тан Халамилк 1%, 500мл	https://www.perekrestok.ru/cat/120/p/tan-halamilk-1-500ml-3677707	spb	Санкт-Петербург, Биржевая площадь, 4	51,99 ₽/шт
+Тан Elnatur с лимоном 0.1%, 500мл	https://www.perekrestok.ru/cat/120/p/tan-elnatur-s-limonom-0-1-500ml-4078177	spb	Санкт-Петербург, Биржевая площадь, 4	69,99 ₽/шт
+Айран Лесная Сказка 1%, 500мл	https://www.perekrestok.ru/cat/120/p/ajran-lesnaa-skazka-1-500ml-3192094	spb	Санкт-Петербург, Биржевая площадь, 4	49,99 ₽/шт
+Напиток кисломолочный Exponenta High-Pro черника-земляника обезжиренный, 250мл	https://www.perekrestok.ru/cat/120/p/napitok-kislomolocnyj-exponenta-high-pro-cernika-zemlanika-obezzirennyj-250ml-4089604	spb	Санкт-Петербург, Биржевая площадь, 4	129,99 ₽/шт
+Напиток Exponenta Био-Скир 3в1 Дыня Канталупа обезжиренный, 500г	https://www.perekrestok.ru/cat/120/p/napitok-exponenta-bio-skir-3v1-dyna-kantalupa-obezzirennyj-500g-4291005	spb	Санкт-Петербург, Биржевая площадь, 4	134,99 ₽/шт
+Напиток Exponenta bio-skyr 3в1 со вкусом страчателла пломбир обезжиренный, 500мл	https://www.perekrestok.ru/cat/120/p/napitok-exponenta-bio-skyr-3v1-so-vkusom-stracatella-plombir-obezzirennyj-500ml-4237066	spb	Санкт-Петербург, Биржевая площадь, 4	134,99 ₽/шт
+Напиток Actimuno кисломолочный с гранатом и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-granatom-i-cinkom-1-5-95ml-4311968	spb	Санкт-Петербург, Биржевая площадь, 4	35,99 ₽/шт
+Напиток кисломолочный Имунеле Земляника 1.2%, 100мл	https://www.perekrestok.ru/cat/120/p/napitok-kislomolocnyj-imunele-zemlanika-1-2-100ml-3962	spb	Санкт-Петербург, Биржевая площадь, 4	19,99 ₽/шт
+Напиток Actimuno кисломолочный с клубникой и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-klubnikoj-i-cinkom-1-5-95ml-4311970	spb	Санкт-Петербург, Биржевая площадь, 4	35,99 ₽/шт
+Напиток кисломолочный Имунеле Черника 1.2%, 100мл	https://www.perekrestok.ru/cat/230/p/napitok-kislomolocnyj-imunele-cernika-1-2-100ml-4004	spb	Санкт-Петербург, Биржевая площадь, 4	24,99 ₽/шт
+Напиток Actimuno кисломолочный с черникой ежевикой и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-cernikoj-ezevikoj-i-cinkom-1-5-95ml-4311963	spb	Санкт-Петербург, Биржевая площадь, 4	35,99 ₽/шт
+Напиток Actimuno кисломолочный Ягодный микс с цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-agodnyj-miks-s-cinkom-1-5-95ml-4311967	spb	Санкт-Петербург, Биржевая площадь, 4	35,99 ₽/шт
+Напиток Actimuno кисломолочный сладкий 1.6%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-sladkij-1-6-95ml-4311969	spb	Санкт-Петербург, Биржевая площадь, 4	37,99 ₽/шт
+Напиток функциональный Имунеле лесные ягоды 1.2%, 100г	https://www.perekrestok.ru/cat/230/p/napitok-funkcionalnyj-imunele-lesnye-agody-1-2-100g-3326481	spb	Санкт-Петербург, Биржевая площадь, 4	24,99 ₽/шт
+Напиток Actimuno кисломолочный с вишней черешней и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-visnej-ceresnej-i-cinkom-1-5-95ml-4311966	spb	Санкт-Петербург, Биржевая площадь, 4	37,99 ₽/шт
+Напиток Actimuno кисломолочный с киви клубникой и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-kivi-klubnikoj-i-cinkom-1-5-95ml-4311971	spb	Санкт-Петербург, Биржевая площадь, 4	33,99 ₽/шт
+Напиток Actimuno кисломолочный с земляникой шиповником и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-zemlanikoj-sipovnikom-i-cinkom-1-5-95ml-4311965	spb	Санкт-Петербург, Биржевая площадь, 4	33,99 ₽/шт
+Напиток Actimuno Kids кисломолочный детский с клубникой и бананом 1.5%, 95мл	https://www.perekrestok.ru/cat/230/p/napitok-actimuno-kids-kislomolocnyj-detskij-s-klubnikoj-i-bananom-1-5-95ml-4311962	spb	Санкт-Петербург, Биржевая площадь, 4	27,99 ₽/шт
+Напиток кисломолочный Имунеле Малина-Морошка 1.2%, 100мл	https://www.perekrestok.ru/cat/230/p/napitok-kislomolocnyj-imunele-malina-moroska-1-2-100ml-3501804	spb	Санкт-Петербург, Биржевая площадь, 4	24,99 ₽/шт
+Напиток кисломолочный Имунеле for Kids Земляничное Печенье 1.5%, 100г	https://www.perekrestok.ru/cat/230/p/napitok-kislomolocnyj-imunele-for-kids-zemlanicnoe-pecene-1-5-100g-4288762	spb	Санкт-Петербург, Биржевая площадь, 4	19,99 ₽/шт
+Биопродукт Лактомир кисломолочный Наринэ-Форте 3.2%, 300мл	https://www.perekrestok.ru/cat/120/p/bioprodukt-laktomir-kislomolocnyj-narine-forte-3-2-300ml-4064476	spb	Санкт-Петербург, Биржевая площадь, 4	569,99 ₽/шт
+Продукт кисломолочный Верховье Иммуно с клубникой и бананом обогащенный 2%, 90мл	https://www.perekrestok.ru/cat/120/p/produkt-kislomolocnyj-verhove-immuno-s-klubnikoj-i-bananom-obogasennyj-2-90ml-4305608	spb	Санкт-Петербург, Биржевая площадь, 4	26,99 ₽/шт
+Продукт кисломолочный Верховбе Иммуно с гранатом и малиной 2%, 90мл	https://www.perekrestok.ru/cat/120/p/produkt-kislomolocnyj-verhovbe-immuno-s-granatom-i-malinoj-2-90ml-4305605	spb	Санкт-Петербург, Биржевая площадь, 4	26,99 ₽/шт
+Продукт кисломолочный Верховье Иммуно с лимоном и имбирем 2%, 90мл	https://www.perekrestok.ru/cat/120/p/produkt-kislomolocnyj-verhove-immuno-s-limonom-i-imbirem-2-90ml-4305609	spb	Санкт-Петербург, Биржевая площадь, 4	26,99 ₽/шт
+Снежок Домик в деревне сладкий 2.5%, 270мл	https://www.perekrestok.ru/cat/120/p/snezok-domik-v-derevne-sladkij-2-5-270ml-4208221	spb	Санкт-Петербург, Биржевая площадь, 4	51,99 ₽/шт
+Ацидобифилин Пискаревский сладкий 2.2%, 500мл	https://www.perekrestok.ru/cat/120/p/acidobifilin-piskarevskij-sladkij-2-2-500ml-29880	spb	Санкт-Петербург, Биржевая площадь, 4	45,99 ₽/шт
+Ацидобифилин Пискаревский 2.5%, 500мл	https://www.perekrestok.ru/cat/120/p/acidobifilin-piskarevskij-2-5-500ml-29874	spb	Санкт-Петербург, Биржевая площадь, 4	45,99 ₽/шт
+Бифилайф 2.5% Зелёная Линия, 330г	https://www.perekrestok.ru/cat/120/p/bifilajf-2-5-zelenaa-linia-330g-4327459	spb	Санкт-Петербург, Биржевая площадь, 4	67,99 ₽/шт
+Напиток сывороточный Мажитэль Ананас-Манго 0.05%, 950мл	https://www.perekrestok.ru/cat/120/p/napitok-syvorotocnyj-mazitel-ananas-mango-0-05-950ml-3495187	spb	Санкт-Петербург, Биржевая площадь, 4	134,99 ₽/шт
+Напиток сывороточный Актуаль с соками апельсина и манго 0.1%, 930мл	https://www.perekrestok.ru/cat/120/p/napitok-syvorotocnyj-aktual-s-sokami-apelsina-i-mango-0-1-930ml-3629005	spb	Санкт-Петербург, Биржевая площадь, 4	134,99 ₽/шт
+Коктейль сыворотчный Мажитэль арбуз-дыня, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotcnyj-mazitel-arbuz-dyna-950g-3495185	spb	Санкт-Петербург, Биржевая площадь, 4	124,99 ₽/шт
+Напиток сывороточный Актуаль с соками апельсина и манго 0.1%, 310мл	https://www.perekrestok.ru/cat/120/p/napitok-syvorotocnyj-aktual-s-sokami-apelsina-i-mango-0-1-310ml-3629004	spb	Санкт-Петербург, Биржевая площадь, 4	49,99 ₽/шт
+Коктейль сыворотчный Мажитэль персик-маракуйя с витаминами, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotcnyj-mazitel-persik-marakuja-s-vitaminami-950g-23077	spb	Санкт-Петербург, Биржевая площадь, 4	119,99 ₽/шт
+Напиток сывороточный Актуаль с соками персика и маракуйи 0.1%, 310мл	https://www.perekrestok.ru/cat/120/p/napitok-syvorotocnyj-aktual-s-sokami-persika-i-marakuji-0-1-310ml-3629003	spb	Санкт-Петербург, Биржевая площадь, 4	49,99 ₽/шт
+Коктейль сывороточный Мажитэль Пина Колада с витаминами, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotocnyj-mazitel-pina-kolada-s-vitaminami-950g-3379001	spb	Санкт-Петербург, Биржевая площадь, 4	119,99 ₽/шт
+Коктейль сыворотчный Мажитэль клубника с витаминами, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotcnyj-mazitel-klubnika-s-vitaminami-950g-23035	spb	Санкт-Петербург, Биржевая площадь, 4	119,99 ₽/шт
+Коктейль сыворотчный Мажитэль мультифрукт с витаминами, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotcnyj-mazitel-multifrukt-s-vitaminami-950g-23076	spb	Санкт-Петербург, Биржевая площадь, 4	119,99 ₽/шт
+Коктейль сыворотчный Мажитэль киви-мангостин с витаминами, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotcnyj-mazitel-kivi-mangostin-s-vitaminami-950g-4123383	spb	Санкт-Петербург, Биржевая площадь, 4	119,99 ₽/шт
+Напиток сывороточный Вологодский МК Бодрость с соком яблока, 950мл	https://www.perekrestok.ru/cat/120/p/napitok-syvorotocnyj-vologodskij-mk-bodrost-s-sokom-abloka-950ml-4309024	spb	Санкт-Петербург, Биржевая площадь, 4	119,99 ₽/шт
+Напиток Мажитель Ягодный пунш с соком стерилизованный, 950г	https://www.perekrestok.ru/cat/120/p/napitok-mazitel-agodnyj-puns-s-sokom-sterilizovannyj-950g-4344157	spb	Санкт-Петербург, Биржевая площадь, 4	119,99 ₽/шт
+Напиток сывороточный Село Зелёное с соком яблоко-груша 0%, 500мл	https://www.perekrestok.ru/cat/120/p/napitok-syvorotocnyj-selo-zelenoe-s-sokom-abloko-grusa-0-500ml-3608268	spb	Санкт-Петербург, Биржевая площадь, 4	63,99 ₽/шт
+Напиток Мажитель Клубничный мохито с яблочным соком пастеризованный, 950г	https://www.perekrestok.ru/cat/120/p/napitok-mazitel-klubnicnyj-mohito-s-ablocnym-sokom-pasterizovannyj-950g-4344158	spb	Санкт-Петербург, Биржевая площадь, 4	129,99 ₽/шт
+Ацидофилин Молочная Культура 3.5-4.5%, 500мл	https://www.perekrestok.ru/cat/120/p/acidofilin-molocnaa-kultura-3-5-4-5-500ml-3432495	spb	Санкт-Петербург, Биржевая площадь, 4	134,99 ₽/шт
+Ацидофилин 3.2% Молочный знак, 175мл	https://www.perekrestok.ru/cat/120/p/acidofilin-3-2-molocnyj-znak-175ml-4230793	spb	Санкт-Петербург, Биржевая площадь, 4	26,99 ₽/шт
+Ряженка Большая Кружка с печеным яблоком, 260мл	https://www.perekrestok.ru/cat/120/p/razenka-bolsaa-kruzka-s-pecenym-ablokom-260ml-4323997	spb	Санкт-Петербург, Биржевая площадь, 4	63,99 ₽/шт
+Ряженка Большая Кружка с клубникой, 260мл	https://www.perekrestok.ru/cat/120/p/razenka-bolsaa-kruzka-s-klubnikoj-260ml-4324018	spb	Санкт-Петербург, Биржевая площадь, 4	63,99 ₽/шт
+Напиток Тан Лесная Сказка, 500мл	https://www.perekrestok.ru/cat/120/p/napitok-tan-lesnaa-skazka-500ml-3192096	spb	Санкт-Петербург, Биржевая площадь, 4	49,99 ₽/шт
+Кефир Простоквашино 2.5%, 930мл	https://www.perekrestok.ru/cat/120/p/kefir-prostokvasino-2-5-930ml-2093082	ekb	Екатеринбург, ул. Бориса Ельцина, 3	93,99 ₽/шт
+Биопродукт Bio Баланс кефирный 1%, 930мл	https://www.perekrestok.ru/cat/120/p/bioprodukt-bio-balans-kefirnyj-1-930ml-2085953	ekb	Екатеринбург, ул. Бориса Ельцина, 3	79,99 ₽/шт
+Коктейль Простоквашино кефирный обогащённый клубника обезжиренный, 900мл	https://www.perekrestok.ru/cat/120/p/koktejl-prostokvasino-kefirnyj-obogasennyj-klubnika-obezzirennyj-900ml-4000350	ekb	Екатеринбург, ул. Бориса Ельцина, 3	99,99 ₽/шт
+Кефир Лотос маложирный 2.5%, 500мл	https://www.perekrestok.ru/cat/120/p/kefir-lotos-malozirnyj-2-5-500ml-3166263	ekb	Екатеринбург, ул. Бориса Ельцина, 3	55,99 ₽/шт
+Кефир Ирбитский нежирный 1%, 500мл	https://www.perekrestok.ru/cat/120/p/kefir-irbitskij-nezirnyj-1-500ml-3166266	ekb	Екатеринбург, ул. Бориса Ельцина, 3	43,99 ₽/шт
+Кефир Из Талицы Деревенский 2.5%, 500мл	https://www.perekrestok.ru/cat/120/p/kefir-iz-talicy-derevenskij-2-5-500ml-3348162	ekb	Екатеринбург, ул. Бориса Ельцина, 3	73,99 ₽/шт
+Кефир Талицкий Традиционный 2.5%, 1л	https://www.perekrestok.ru/cat/120/p/kefir-talickij-tradicionnyj-2-5-1l-3901481	ekb	Екатеринбург, ул. Бориса Ельцина, 3	114,99 ₽/шт
+Кефир Кунгурское Кунгурский 2.5%, 800мл	https://www.perekrestok.ru/cat/120/p/kefir-kungurskoe-kungurskij-2-5-800ml-4070267	ekb	Екатеринбург, ул. Бориса Ельцина, 3	75,99 ₽/шт
+Кефир Белые Росы 3.2%, 500мл	https://www.perekrestok.ru/cat/120/p/kefir-belye-rosy-3-2-500ml-3414393	ekb	Екатеринбург, ул. Бориса Ельцина, 3	49,99 ₽/шт
+Кефир Талицкий термостатный 2.5%, 500мл	https://www.perekrestok.ru/cat/120/p/kefir-talickij-termostatnyj-2-5-500ml-3487523	ekb	Екатеринбург, ул. Бориса Ельцина, 3	73,99 ₽/шт
+Ряженка 2.5% Молочный знак, 175мл	https://www.perekrestok.ru/cat/120/p/razenka-2-5-molocnyj-znak-175ml-4230794	ekb	Екатеринбург, ул. Бориса Ельцина, 3	31,99 ₽/шт
+Ряженка термостатная 2.5% Зелёная Линия, 450мл	https://www.perekrestok.ru/cat/120/p/razenka-termostatnaa-2-5-zelenaa-linia-450ml-4162258	ekb	Екатеринбург, ул. Бориса Ельцина, 3	69,99 ₽/шт
+Ряженка банан-карамель 2% Зелёная Линия, 230мл	https://www.perekrestok.ru/cat/120/p/razenka-banan-karamel-2-zelenaa-linia-230ml-4250866	ekb	Екатеринбург, ул. Бориса Ельцина, 3	49,99 ₽/шт
+Ряженка курага-чернослив 2% Зелёная Линия, 230мл	https://www.perekrestok.ru/cat/120/p/razenka-kuraga-cernosliv-2-zelenaa-linia-230ml-4250861	ekb	Екатеринбург, ул. Бориса Ельцина, 3	49,99 ₽/шт
+Ряженка Деревенская из Талицы 3.5-4%, 500мл	https://www.perekrestok.ru/cat/120/p/razenka-derevenskaa-iz-talicy-3-5-4-500ml-4063224	ekb	Екатеринбург, ул. Бориса Ельцина, 3	73,99 ₽/шт
+Биоряженка Полевское Бифилайф 4%, 500мл	https://www.perekrestok.ru/cat/120/p/biorazenka-polevskoe-bifilajf-4-500ml-4293156	ekb	Екатеринбург, ул. Бориса Ельцина, 3	59,99 ₽/шт
+Айран Долголетие турецкий кисломолочный 1.8%, 180мл	https://www.perekrestok.ru/cat/120/p/ajran-dolgoletie-tureckij-kislomolocnyj-1-8-180ml-4277160	ekb	Екатеринбург, ул. Бориса Ельцина, 3	41,99 ₽/шт
+Довга Долголетие с рисом и травами 1.7%, 300мл	https://www.perekrestok.ru/cat/120/p/dovga-dolgoletie-s-risom-i-travami-1-7-300ml-3946755	ekb	Екатеринбург, ул. Бориса Ельцина, 3	69,99 ₽/шт
+Айран Рудненский Тан кисломолочный газированный 1.5%, 1л	https://www.perekrestok.ru/cat/120/p/ajran-rudnenskij-tan-kislomolocnyj-gazirovannyj-1-5-1l-3385532	ekb	Екатеринбург, ул. Бориса Ельцина, 3	75,99 ₽/шт
+Тан Долголетие 0.1%, 500мл	https://www.perekrestok.ru/cat/120/p/tan-dolgoletie-0-1-500ml-4127985	ekb	Екатеринбург, ул. Бориса Ельцина, 3	43,99 ₽/шт
+Тан Рудненский газированный 0.5%, 1л	https://www.perekrestok.ru/cat/120/p/tan-rudnenskij-gazirovannyj-0-5-1l-3385531	ekb	Екатеринбург, ул. Бориса Ельцина, 3	85,99 ₽/шт
+Мацони Халамилк 3.5%, 500мл	https://www.perekrestok.ru/cat/120/p/maconi-halamilk-3-5-500ml-3677709	ekb	Екатеринбург, ул. Бориса Ельцина, 3	164,99 ₽/шт
+Айран Долголетие 0.1%, 500мл	https://www.perekrestok.ru/cat/120/p/ajran-dolgoletie-0-1-500ml-4127987	ekb	Екатеринбург, ул. Бориса Ельцина, 3	47,99 ₽/шт
+Тан Долголетие 0.1%, 1л	https://www.perekrestok.ru/cat/120/p/tan-dolgoletie-0-1-1l-4127984	ekb	Екатеринбург, ул. Бориса Ельцина, 3	85,99 ₽/шт
+Айран G-balance Турецкий с огурцом и зеленью 1.8%, 500мл	https://www.perekrestok.ru/cat/120/p/ajran-g-balance-tureckij-s-ogurcom-i-zelenu-1-8-500ml-4185337	ekb	Екатеринбург, ул. Бориса Ельцина, 3	87,99 ₽/шт
+Тан El'natur газированный 1.7%, 500мл	https://www.perekrestok.ru/cat/120/p/tan-elnatur-gazirovannyj-1-7-500ml-3673603	ekb	Екатеринбург, ул. Бориса Ельцина, 3	63,99 ₽/шт
+Мацони Elnatur домашний 3.6%, 250мл	https://www.perekrestok.ru/cat/120/p/maconi-elnatur-domasnij-3-6-250ml-3673433	ekb	Екатеринбург, ул. Бориса Ельцина, 3	129,99 ₽/шт
+Тан El'natur негазированный 1.7%, 500мл	https://www.perekrestok.ru/cat/120/p/tan-elnatur-negazirovannyj-1-7-500ml-3673147	ekb	Екатеринбург, ул. Бориса Ельцина, 3	71,99 ₽/шт
+Напиток Actimuno Kids кисломолочный детский с клубникой и бананом 1.5%, 95мл	https://www.perekrestok.ru/cat/230/p/napitok-actimuno-kids-kislomolocnyj-detskij-s-klubnikoj-i-bananom-1-5-95ml-4311962	ekb	Екатеринбург, ул. Бориса Ельцина, 3	27,99 ₽/шт
+Напиток Actimuno кисломолочный с гранатом и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-granatom-i-cinkom-1-5-95ml-4311968	ekb	Екатеринбург, ул. Бориса Ельцина, 3	27,99 ₽/шт
+Напиток Actimuno кисломолочный с клубникой и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-klubnikoj-i-cinkom-1-5-95ml-4311970	ekb	Екатеринбург, ул. Бориса Ельцина, 3	27,99 ₽/шт
+Напиток Actimuno кисломолочный с черникой ежевикой и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-cernikoj-ezevikoj-i-cinkom-1-5-95ml-4311963	ekb	Екатеринбург, ул. Бориса Ельцина, 3	27,99 ₽/шт
+Напиток кисломолочный Имунеле Земляника 1.2%, 100мл	https://www.perekrestok.ru/cat/120/p/napitok-kislomolocnyj-imunele-zemlanika-1-2-100ml-3962	ekb	Екатеринбург, ул. Бориса Ельцина, 3	33,99 ₽/шт
+Напиток Actimuno кисломолочный Ягодный микс с цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-agodnyj-miks-s-cinkom-1-5-95ml-4311967	ekb	Екатеринбург, ул. Бориса Ельцина, 3	27,99 ₽/шт
+Напиток Actimuno кисломолочный сладкий 1.6%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-sladkij-1-6-95ml-4311969	ekb	Екатеринбург, ул. Бориса Ельцина, 3	37,99 ₽/шт
+Напиток Actimuno кисломолочный с киви клубникой и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-kivi-klubnikoj-i-cinkom-1-5-95ml-4311971	ekb	Екатеринбург, ул. Бориса Ельцина, 3	27,99 ₽/шт
+Напиток кисломолочный Имунеле Черника 1.2%, 100мл	https://www.perekrestok.ru/cat/230/p/napitok-kislomolocnyj-imunele-cernika-1-2-100ml-4004	ekb	Екатеринбург, ул. Бориса Ельцина, 3	33,99 ₽/шт
+Напиток Actimuno кисломолочный с земляникой шиповником и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-zemlanikoj-sipovnikom-i-cinkom-1-5-95ml-4311965	ekb	Екатеринбург, ул. Бориса Ельцина, 3	27,99 ₽/шт
+Напиток Actimuno Kids кисломолочный детский Тропический микс киви-манго-ананас 1.5%, 95мл	https://www.perekrestok.ru/cat/230/p/napitok-actimuno-kids-kislomolocnyj-detskij-tropiceskij-miks-kivi-mango-ananas-1-5-95ml-4311964	ekb	Екатеринбург, ул. Бориса Ельцина, 3	41,99 ₽/шт
+Напиток Actimuno Kids кисломолочный детский малиновое мороженое 1.5%, 95мл	https://www.perekrestok.ru/cat/230/p/napitok-actimuno-kids-kislomolocnyj-detskij-malinovoe-morozenoe-1-5-95ml-4311974	ekb	Екатеринбург, ул. Бориса Ельцина, 3	27,99 ₽/шт
+Напиток Actimuno Kids кисломолочный детский лесная земляничка 1.5%, 95мл	https://www.perekrestok.ru/cat/230/p/napitok-actimuno-kids-kislomolocnyj-detskij-lesnaa-zemlanicka-1-5-95ml-4311972	ekb	Екатеринбург, ул. Бориса Ельцина, 3	27,99 ₽/шт
+Напиток кисломолочный Actimuno с манго маракуйей и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-kislomolocnyj-actimuno-s-mango-marakujej-i-cinkom-1-5-95ml-4326199	ekb	Екатеринбург, ул. Бориса Ельцина, 3	41,99 ₽/шт
+Продукт кисломолочный варенец 2.5% Зелёная Линия, 500мл	https://www.perekrestok.ru/cat/120/p/produkt-kislomolocnyj-varenec-2-5-zelenaa-linia-500ml-4295019	ekb	Екатеринбург, ул. Бориса Ельцина, 3	69,99 ₽/шт
+Снежок Первый Вкус 2.5%, 500мл	https://www.perekrestok.ru/cat/120/p/snezok-pervyj-vkus-2-5-500ml-3218708	ekb	Екатеринбург, ул. Бориса Ельцина, 3	63,99 ₽/шт
+Напиток сывороточный Мажитэль Ананас-Манго 0.05%, 950мл	https://www.perekrestok.ru/cat/120/p/napitok-syvorotocnyj-mazitel-ananas-mango-0-05-950ml-3495187	ekb	Екатеринбург, ул. Бориса Ельцина, 3	114,99 ₽/шт
+Коктейль сыворотчный Мажитэль арбуз-дыня, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotcnyj-mazitel-arbuz-dyna-950g-3495185	ekb	Екатеринбург, ул. Бориса Ельцина, 3	104,99 ₽/шт
+Коктейль сыворотчный Мажитэль персик-маракуйя с витаминами, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotcnyj-mazitel-persik-marakuja-s-vitaminami-950g-23077	ekb	Екатеринбург, ул. Бориса Ельцина, 3	109,99 ₽/шт
+Коктейль сывороточный Мажитэль Пина Колада с витаминами, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotocnyj-mazitel-pina-kolada-s-vitaminami-950g-3379001	ekb	Екатеринбург, ул. Бориса Ельцина, 3	109,99 ₽/шт
+Коктейль сыворотчный Мажитэль клубника с витаминами, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotcnyj-mazitel-klubnika-s-vitaminami-950g-23035	ekb	Екатеринбург, ул. Бориса Ельцина, 3	109,99 ₽/шт
+Напиток сывороточный Актуаль с соками апельсина и манго 0.1%, 310мл	https://www.perekrestok.ru/cat/120/p/napitok-syvorotocnyj-aktual-s-sokami-apelsina-i-mango-0-1-310ml-3629004	ekb	Екатеринбург, ул. Бориса Ельцина, 3	47,99 ₽/шт
+Напиток на сыворотке Актуаль с соком персика и маракуйи 0.1%, 930мл	https://www.perekrestok.ru/cat/120/p/napitok-na-syvorotke-aktual-s-sokom-persika-i-marakuji-0-1-930ml-3629006	ekb	Екатеринбург, ул. Бориса Ельцина, 3	124,99 ₽/шт
+Напиток сывороточный Актуаль с соками персика и маракуйи 0.1%, 310мл	https://www.perekrestok.ru/cat/120/p/napitok-syvorotocnyj-aktual-s-sokami-persika-i-marakuji-0-1-310ml-3629003	ekb	Екатеринбург, ул. Бориса Ельцина, 3	49,99 ₽/шт
+Ацидофилин 3.2% Молочный знак, 175мл	https://www.perekrestok.ru/cat/120/p/acidofilin-3-2-molocnyj-znak-175ml-4230793	ekb	Екатеринбург, ул. Бориса Ельцина, 3	27,99 ₽/шт
+Кефир термостатный 3.2% Зелёная Линия, 450мл	https://www.perekrestok.ru/cat/120/p/kefir-termostatnyj-3-2-zelenaa-linia-450ml-4159752	nn	Нижний Новгород, площадь Минина и Пожарского, 2	95,99 ₽/шт
+Биопродукт Bio Баланс кефирный 1%, 930мл	https://www.perekrestok.ru/cat/120/p/bioprodukt-bio-balans-kefirnyj-1-930ml-2085953	nn	Нижний Новгород, площадь Минина и Пожарского, 2	79,99 ₽/шт
+Кефир 1% Молочный Знак, 900г	https://www.perekrestok.ru/cat/120/p/kefir-1-molocnyj-znak-900g-4328084	nn	Нижний Новгород, площадь Минина и Пожарского, 2	73,99 ₽/шт
+Кефир 3.2% Зелёная Линия, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-3-2-zelenaa-linia-900ml-3668693	nn	Нижний Новгород, площадь Минина и Пожарского, 2	85,99 ₽/шт
+Кефир Княгинино 2.5%, 930мл	https://www.perekrestok.ru/cat/120/p/kefir-knaginino-2-5-930ml-3385607	nn	Нижний Новгород, площадь Минина и Пожарского, 2	85,99 ₽/шт
+Кефир Городецкий 3.2%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-gorodeckij-3-2-900ml-4053686	nn	Нижний Новгород, площадь Минина и Пожарского, 2	79,99 ₽/шт
+Кефир Княгинино 2.5%, 430мл	https://www.perekrestok.ru/cat/120/p/kefir-knaginino-2-5-430ml-3389666	nn	Нижний Новгород, площадь Минина и Пожарского, 2	47,99 ₽/шт
+Кефир Княгинино 0.1%, 430мл	https://www.perekrestok.ru/cat/120/p/kefir-knaginino-0-1-430ml-3385605	nn	Нижний Новгород, площадь Минина и Пожарского, 2	41,99 ₽/шт
+Кефир Княгинино 3.2%, 930мл	https://www.perekrestok.ru/cat/120/p/kefir-knaginino-3-2-930ml-3385606	nn	Нижний Новгород, площадь Минина и Пожарского, 2	89,99 ₽/шт
+Биокефир Княгинино 2.5%, 430мл	https://www.perekrestok.ru/cat/120/p/biokefir-knaginino-2-5-430ml-3426478	nn	Нижний Новгород, площадь Минина и Пожарского, 2	51,99 ₽/шт
+Кефир Городецкий с лактулозой 3.5%, 250мл	https://www.perekrestok.ru/cat/120/p/kefir-gorodeckij-s-laktulozoj-3-5-250ml-2110898	nn	Нижний Новгород, площадь Минина и Пожарского, 2	33,99 ₽/шт
+Кефир Северная Долина 1%, 920мл	https://www.perekrestok.ru/cat/120/p/kefir-severnaa-dolina-1-920ml-4270171	nn	Нижний Новгород, площадь Минина и Пожарского, 2	81,99 ₽/шт
+Напиток сывороточно-кефирный Городецкий МЗ ананасовый сок и сахаром пастеризованный 0.5%, 450мл	https://www.perekrestok.ru/cat/120/p/napitok-syvorotocno-kefirnyj-gorodeckij-mz-ananasovyj-sok-i-saharom-pasterizovannyj-0-5-450ml-4120491	nn	Нижний Новгород, площадь Минина и Пожарского, 2	39,99 ₽/шт
+Продукт кефирный Эго с голубикой и черникой 1%, 950мл	https://www.perekrestok.ru/cat/120/p/produkt-kefirnyj-ego-s-golubikoj-i-cernikoj-1-950ml-4055257	nn	Нижний Новгород, площадь Минина и Пожарского, 2	94,99 ₽/шт
+Кефир Северная Долина 2.5%, 420мл	https://www.perekrestok.ru/cat/120/p/kefir-severnaa-dolina-2-5-420ml-4270172	nn	Нижний Новгород, площадь Минина и Пожарского, 2	49,99 ₽/шт
+Продукт кефирный Эго с клубникой 1%, 950мл	https://www.perekrestok.ru/cat/120/p/produkt-kefirnyj-ego-s-klubnikoj-1-950ml-3397352	nn	Нижний Новгород, площадь Минина и Пожарского, 2	94,99 ₽/шт
+Кефир Приволжское 3.2%, 450мл	https://www.perekrestok.ru/cat/120/p/kefir-privolzskoe-3-2-450ml-3354350	nn	Нижний Новгород, площадь Минина и Пожарского, 2	41,99 ₽/шт
+Кефир Шахунские Молочные Продукты 3.2%, 450мл	https://www.perekrestok.ru/cat/120/p/kefir-sahunskie-molocnye-produkty-3-2-450ml-2070968	nn	Нижний Новгород, площадь Минина и Пожарского, 2	55,99 ₽/шт
+Кефир Приволжское обезжиренный 0.1%, 450мл	https://www.perekrestok.ru/cat/120/p/kefir-privolzskoe-obezzirennyj-0-1-450ml-3354356	nn	Нижний Новгород, площадь Минина и Пожарского, 2	37,99 ₽/шт
+Ряженка 2.5% Молочный знак, 175мл	https://www.perekrestok.ru/cat/120/p/razenka-2-5-molocnyj-znak-175ml-4230794	nn	Нижний Новгород, площадь Минина и Пожарского, 2	26,99 ₽/шт
+Ряженка термостатная 2.5% Зелёная Линия, 450мл	https://www.perekrestok.ru/cat/120/p/razenka-termostatnaa-2-5-zelenaa-linia-450ml-4162258	nn	Нижний Новгород, площадь Минина и Пожарского, 2	75,99 ₽/шт
+Ряженка 3.2% Молочный знак, 430мл	https://www.perekrestok.ru/cat/120/p/razenka-3-2-molocnyj-znak-430ml-4173940	nn	Нижний Новгород, площадь Минина и Пожарского, 2	53,99 ₽/шт
+Ряженка 3.2% Зелёная Линия, 900г	https://www.perekrestok.ru/cat/120/p/razenka-3-2-zelenaa-linia-900g-4322301	nn	Нижний Новгород, площадь Минина и Пожарского, 2	89,99 ₽/шт
+Ряженка Домик в деревне Клубника 2.1%, 270мл	https://www.perekrestok.ru/cat/120/p/razenka-domik-v-derevne-klubnika-2-1-270ml-4208224	nn	Нижний Новгород, площадь Минина и Пожарского, 2	49,99 ₽/шт
+Ряженка банан-карамель 2% Зелёная Линия, 230мл	https://www.perekrestok.ru/cat/120/p/razenka-banan-karamel-2-zelenaa-linia-230ml-4250866	nn	Нижний Новгород, площадь Минина и Пожарского, 2	53,99 ₽/шт
+Ряженка курага-чернослив 2% Зелёная Линия, 230мл	https://www.perekrestok.ru/cat/120/p/razenka-kuraga-cernosliv-2-zelenaa-linia-230ml-4250861	nn	Нижний Новгород, площадь Минина и Пожарского, 2	53,99 ₽/шт
+Ряженка Княгинино 3.5%, 430мл	https://www.perekrestok.ru/cat/120/p/razenka-knaginino-3-5-430ml-3448464	nn	Нижний Новгород, площадь Минина и Пожарского, 2	57,99 ₽/шт
+Ряженка Эго термостатная 3.2%, 300мл	https://www.perekrestok.ru/cat/120/p/razenka-ego-termostatnaa-3-2-300ml-3934839	nn	Нижний Новгород, площадь Минина и Пожарского, 2	53,99 ₽/шт
+Ряженка Северная Долина 3.2%, 920мл	https://www.perekrestok.ru/cat/120/p/razenka-severnaa-dolina-3-2-920ml-4270167	nn	Нижний Новгород, площадь Минина и Пожарского, 2	99,99 ₽/шт
+Ряженка Приволжское 3.2%, 450мл	https://www.perekrestok.ru/cat/120/p/razenka-privolzskoe-3-2-450ml-3477245	nn	Нижний Новгород, площадь Минина и Пожарского, 2	43,99 ₽/шт
+Ряженка Приволжский МЗ 3.2%, 350мл	https://www.perekrestok.ru/cat/120/p/razenka-privolzskij-mz-3-2-350ml-4277327	nn	Нижний Новгород, площадь Минина и Пожарского, 2	41,99 ₽/шт
+Айран G-balance газированый 1%, 1л	https://www.perekrestok.ru/cat/120/p/ajran-g-balance-gazirovanyj-1-1l-4005466	nn	Нижний Новгород, площадь Минина и Пожарского, 2	104,99 ₽/шт
+Довга Долголетие с рисом и травами 1.7%, 300мл	https://www.perekrestok.ru/cat/120/p/dovga-dolgoletie-s-risom-i-travami-1-7-300ml-3946755	nn	Нижний Новгород, площадь Минина и Пожарского, 2	69,99 ₽/шт
+Мацони Долголетие 3.6-4.2%, 950мл	https://www.perekrestok.ru/cat/120/p/maconi-dolgoletie-3-6-4-2-950ml-4237433	nn	Нижний Новгород, площадь Минина и Пожарского, 2	229,99 ₽/шт
+Тан Ростагроэкспорт для окрошки 1%, 1л	https://www.perekrestok.ru/cat/120/p/tan-rostagroeksport-dla-okroski-1-1l-4236226	nn	Нижний Новгород, площадь Минина и Пожарского, 2	104,99 ₽/шт
+Айран Долголетие Турецкий 1.8%, 300мл	https://www.perekrestok.ru/cat/120/p/ajran-dolgoletie-tureckij-1-8-300ml-3940946	nn	Нижний Новгород, площадь Минина и Пожарского, 2	81,99 ₽/шт
+Тан G-balance огуречный 1%, 500мл	https://www.perekrestok.ru/cat/120/p/tan-g-balance-ogurecnyj-1-500ml-3250392	nn	Нижний Новгород, площадь Минина и Пожарского, 2	63,99 ₽/шт
+Айран El'natur негазированный 1.7%, 500мл	https://www.perekrestok.ru/cat/120/p/ajran-elnatur-negazirovannyj-1-7-500ml-3673148	nn	Нижний Новгород, площадь Минина и Пожарского, 2	41,99 ₽/шт
+Кумыс New Product 1.5%, 500мл	https://www.perekrestok.ru/cat/120/p/kumys-new-product-1-5-500ml-3250390	nn	Нижний Новгород, площадь Минина и Пожарского, 2	69,99 ₽/шт
+Напиток Actimuno Kids кисломолочный детский с клубникой и бананом 1.5%, 95мл	https://www.perekrestok.ru/cat/230/p/napitok-actimuno-kids-kislomolocnyj-detskij-s-klubnikoj-i-bananom-1-5-95ml-4311962	nn	Нижний Новгород, площадь Минина и Пожарского, 2	27,99 ₽/шт
+Напиток Actimuno кисломолочный с гранатом и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-granatom-i-cinkom-1-5-95ml-4311968	nn	Нижний Новгород, площадь Минина и Пожарского, 2	27,99 ₽/шт
+Напиток Actimuno кисломолочный с клубникой и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-klubnikoj-i-cinkom-1-5-95ml-4311970	nn	Нижний Новгород, площадь Минина и Пожарского, 2	27,99 ₽/шт
+Напиток Actimuno кисломолочный с черникой ежевикой и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-cernikoj-ezevikoj-i-cinkom-1-5-95ml-4311963	nn	Нижний Новгород, площадь Минина и Пожарского, 2	29,99 ₽/шт
+Напиток кисломолочный Имунеле Земляника 1.2%, 100мл	https://www.perekrestok.ru/cat/120/p/napitok-kislomolocnyj-imunele-zemlanika-1-2-100ml-3962	nn	Нижний Новгород, площадь Минина и Пожарского, 2	33,99 ₽/шт
+Напиток Actimuno кисломолочный Ягодный микс с цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-agodnyj-miks-s-cinkom-1-5-95ml-4311967	nn	Нижний Новгород, площадь Минина и Пожарского, 2	27,99 ₽/шт
+Напиток кисломолочный Exponenta High-Pro черника-земляника обезжиренный, 250мл	https://www.perekrestok.ru/cat/120/p/napitok-kislomolocnyj-exponenta-high-pro-cernika-zemlanika-obezzirennyj-250ml-4089604	nn	Нижний Новгород, площадь Минина и Пожарского, 2	134,99 ₽/шт
+Напиток Actimuno кисломолочный сладкий 1.6%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-sladkij-1-6-95ml-4311969	nn	Нижний Новгород, площадь Минина и Пожарского, 2	27,99 ₽/шт
+Напиток кисломолочный Exponenta клубника-арбуз обезжиренный 0%, 250мл	https://www.perekrestok.ru/cat/120/p/napitok-kislomolocnyj-exponenta-klubnika-arbuz-obezzirennyj-0-250ml-3682422	nn	Нижний Новгород, площадь Минина и Пожарского, 2	134,99 ₽/шт
+Напиток Actimuno кисломолочный с вишней черешней и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-visnej-ceresnej-i-cinkom-1-5-95ml-4311966	nn	Нижний Новгород, площадь Минина и Пожарского, 2	27,99 ₽/шт
+Напиток функциональный Имунеле лесные ягоды 1.2%, 100г	https://www.perekrestok.ru/cat/230/p/napitok-funkcionalnyj-imunele-lesnye-agody-1-2-100g-3326481	nn	Нижний Новгород, площадь Минина и Пожарского, 2	33,99 ₽/шт
+Напиток Actimuno кисломолочный с киви клубникой и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-kivi-klubnikoj-i-cinkom-1-5-95ml-4311971	nn	Нижний Новгород, площадь Минина и Пожарского, 2	27,99 ₽/шт
+Напиток кисломолочный Exponenta High-Pro кокос-миндаль обезжиренный, 250мл	https://www.perekrestok.ru/cat/120/p/napitok-kislomolocnyj-exponenta-high-pro-kokos-mindal-obezzirennyj-250ml-4089581	nn	Нижний Новгород, площадь Минина и Пожарского, 2	129,99 ₽/шт
+Напиток кисломолочный Имунеле Черника 1.2%, 100мл	https://www.perekrestok.ru/cat/230/p/napitok-kislomolocnyj-imunele-cernika-1-2-100ml-4004	nn	Нижний Новгород, площадь Минина и Пожарского, 2	33,99 ₽/шт
+Напиток Actimuno кисломолочный с земляникой шиповником и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-zemlanikoj-sipovnikom-i-cinkom-1-5-95ml-4311965	nn	Нижний Новгород, площадь Минина и Пожарского, 2	27,99 ₽/шт
+Напиток кисломолочный Exponenta Bio-Skyr 3в1 черника-голубика обезжиренный, 500мл	https://www.perekrestok.ru/cat/120/p/napitok-kislomolocnyj-exponenta-bio-skyr-3v1-cernika-golubika-obezzirennyj-500ml-4121244	nn	Нижний Новгород, площадь Минина и Пожарского, 2	134,99 ₽/шт
+Напиток кисломолочный Exponenta Хай Про со вкусом солёная карамель обезжиренный, 250мл	https://www.perekrestok.ru/cat/120/p/napitok-kislomolocnyj-exponenta-haj-pro-so-vkusom-solenaa-karamel-obezzirennyj-250ml-4242833	nn	Нижний Новгород, площадь Минина и Пожарского, 2	134,99 ₽/шт
+Напиток Exponenta bio-skyr 3в1 со вкусом страчателла пломбир обезжиренный, 500мл	https://www.perekrestok.ru/cat/120/p/napitok-exponenta-bio-skyr-3v1-so-vkusom-stracatella-plombir-obezzirennyj-500ml-4237066	nn	Нижний Новгород, площадь Минина и Пожарского, 2	129,99 ₽/шт
+Напиток Actimuno Kids кисломолочный детский малиновое мороженое 1.5%, 95мл	https://www.perekrestok.ru/cat/230/p/napitok-actimuno-kids-kislomolocnyj-detskij-malinovoe-morozenoe-1-5-95ml-4311974	nn	Нижний Новгород, площадь Минина и Пожарского, 2	27,99 ₽/шт
+Напиток Actimuno Kids кисломолочный детский лесная земляничка 1.5%, 95мл	https://www.perekrestok.ru/cat/230/p/napitok-actimuno-kids-kislomolocnyj-detskij-lesnaa-zemlanicka-1-5-95ml-4311972	nn	Нижний Новгород, площадь Минина и Пожарского, 2	27,99 ₽/шт
+Напиток кисломолочный Actimuno с манго маракуйей и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-kislomolocnyj-actimuno-s-mango-marakujej-i-cinkom-1-5-95ml-4326199	nn	Нижний Новгород, площадь Минина и Пожарского, 2	41,99 ₽/шт
+Бифидок Шахунья 3.2%, 450мл	https://www.perekrestok.ru/cat/120/p/bifidok-sahuna-3-2-450ml-2070965	nn	Нижний Новгород, площадь Минина и Пожарского, 2	51,99 ₽/шт
+Бифилайф Превосходство Лучшего 3.2%, 200мл	https://www.perekrestok.ru/cat/120/p/bifilajf-prevoshodstvo-lucsego-3-2-200ml-4018125	nn	Нижний Новгород, площадь Минина и Пожарского, 2	41,99 ₽/шт
+Снежок Княгинино йогуртный с подсластителем 3.2%, 430мл	https://www.perekrestok.ru/cat/120/p/snezok-knaginino-jogurtnyj-s-podslastitelem-3-2-430ml-3414270	nn	Нижний Новгород, площадь Минина и Пожарского, 2	47,99 ₽/шт
+Напиток сывороточный Мажитэль Ананас-Манго 0.05%, 950мл	https://www.perekrestok.ru/cat/120/p/napitok-syvorotocnyj-mazitel-ananas-mango-0-05-950ml-3495187	nn	Нижний Новгород, площадь Минина и Пожарского, 2	114,99 ₽/шт
+Коктейль сыворотчный Мажитэль арбуз-дыня, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotcnyj-mazitel-arbuz-dyna-950g-3495185	nn	Нижний Новгород, площадь Минина и Пожарского, 2	114,99 ₽/шт
+Коктейль сыворотчный Мажитэль персик-маракуйя с витаминами, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotcnyj-mazitel-persik-marakuja-s-vitaminami-950g-23077	nn	Нижний Новгород, площадь Минина и Пожарского, 2	119,99 ₽/шт
+Коктейль сывороточный Мажитэль Пина Колада с витаминами, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotocnyj-mazitel-pina-kolada-s-vitaminami-950g-3379001	nn	Нижний Новгород, площадь Минина и Пожарского, 2	119,99 ₽/шт
+Коктейль сыворотчный Мажитэль клубника с витаминами, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotcnyj-mazitel-klubnika-s-vitaminami-950g-23035	nn	Нижний Новгород, площадь Минина и Пожарского, 2	119,99 ₽/шт
+Напиток сывороточный Актуаль с соками апельсина и манго 0.1%, 930мл	https://www.perekrestok.ru/cat/120/p/napitok-syvorotocnyj-aktual-s-sokami-apelsina-i-mango-0-1-930ml-3629005	nn	Нижний Новгород, площадь Минина и Пожарского, 2	134,99 ₽/шт
+Напиток сывороточный Актуаль с соками апельсина и манго 0.1%, 310мл	https://www.perekrestok.ru/cat/120/p/napitok-syvorotocnyj-aktual-s-sokami-apelsina-i-mango-0-1-310ml-3629004	nn	Нижний Новгород, площадь Минина и Пожарского, 2	51,99 ₽/шт
+Напиток Мажитель Ягодный пунш с соком стерилизованный, 950г	https://www.perekrestok.ru/cat/120/p/napitok-mazitel-agodnyj-puns-s-sokom-sterilizovannyj-950g-4344157	nn	Нижний Новгород, площадь Минина и Пожарского, 2	119,99 ₽/шт
+Коктейль сыворотчный Мажитэль мультифрукт с витаминами, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotcnyj-mazitel-multifrukt-s-vitaminami-950g-23076	nn	Нижний Новгород, площадь Минина и Пожарского, 2	119,99 ₽/шт
+Напиток на сыворотке Актуаль с соком персика и маракуйи 0.1%, 930мл	https://www.perekrestok.ru/cat/120/p/napitok-na-syvorotke-aktual-s-sokom-persika-i-marakuji-0-1-930ml-3629006	nn	Нижний Новгород, площадь Минина и Пожарского, 2	124,99 ₽/шт
+Напиток Мажитель Клубничный мохито с яблочным соком пастеризованный, 950г	https://www.perekrestok.ru/cat/120/p/napitok-mazitel-klubnicnyj-mohito-s-ablocnym-sokom-pasterizovannyj-950g-4344158	nn	Нижний Новгород, площадь Минина и Пожарского, 2	129,99 ₽/шт
+Напиток сывороточный Актуаль с соками персика и маракуйи 0.1%, 310мл	https://www.perekrestok.ru/cat/120/p/napitok-syvorotocnyj-aktual-s-sokami-persika-i-marakuji-0-1-310ml-3629003	nn	Нижний Новгород, площадь Минина и Пожарского, 2	51,99 ₽/шт
+Коктейль Добрый Кашалот сывороточный клубника-малина 0.1%, 250мл	https://www.perekrestok.ru/cat/120/p/koktejl-dobryj-kasalot-syvorotocnyj-klubnika-malina-0-1-250ml-3976378	nn	Нижний Новгород, площадь Минина и Пожарского, 2	41,99 ₽/шт
+Ацидофилин 3.2% Молочный знак, 175мл	https://www.perekrestok.ru/cat/120/p/acidofilin-3-2-molocnyj-znak-175ml-4230793	nn	Нижний Новгород, площадь Минина и Пожарского, 2	26,99 ₽/шт
+Биопродукт Bio Баланс кефирный 1%, 930мл	https://www.perekrestok.ru/cat/120/p/bioprodukt-bio-balans-kefirnyj-1-930ml-2085953	pg	Пятигорск, улица Малыгина, 5	79,99 ₽/шт
+Кефир Простоквашино 3.2%, 930мл	https://www.perekrestok.ru/cat/120/p/kefir-prostokvasino-3-2-930ml-97452	pg	Пятигорск, улица Малыгина, 5	91,99 ₽/шт
+Кефир 3.2% Молочный знак, 430мл	https://www.perekrestok.ru/cat/120/p/kefir-3-2-molocnyj-znak-430ml-4174038	pg	Пятигорск, улица Малыгина, 5	49,99 ₽/шт
+Кефир 3.2% Молочный Знак, 175мл	https://www.perekrestok.ru/cat/120/p/kefir-3-2-molocnyj-znak-175ml-4318914	pg	Пятигорск, улица Малыгина, 5	19,75 ₽/шт
+Коктейль Простоквашино кефирный обогащённый клубника обезжиренный, 900мл	https://www.perekrestok.ru/cat/120/p/koktejl-prostokvasino-kefirnyj-obogasennyj-klubnika-obezzirennyj-900ml-4000350	pg	Пятигорск, улица Малыгина, 5	89,99 ₽/шт
+Кефир Кубанский Молочник 2.5%, 720мл	https://www.perekrestok.ru/cat/120/p/kefir-kubanskij-molocnik-2-5-720ml-3604726	pg	Пятигорск, улица Малыгина, 5	89,99 ₽/шт
+Кефир Кубанская Бурёнка 2.5%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-kubanskaa-burenka-2-5-900ml-3491537	pg	Пятигорск, улица Малыгина, 5	89,99 ₽/шт
+Биопродукт Bio Баланс кефирный обогащенный бифидобактериями и пребиотиком инулином 1%, 930мл	https://www.perekrestok.ru/cat/120/p/bioprodukt-bio-balans-kefirnyj-obogasennyj-bifidobakteriami-i-prebiotikom-inulinom-1-930ml-3627914	pg	Пятигорск, улица Малыгина, 5	87,99 ₽/шт
+Биопродукт Bio Баланс кефирный 0%, 930мл	https://www.perekrestok.ru/cat/120/p/bioprodukt-bio-balans-kefirnyj-0-930ml-2167932	pg	Пятигорск, улица Малыгина, 5	95,99 ₽/шт
+Кефир Ставропольский 2.5%, 1л	https://www.perekrestok.ru/cat/120/p/kefir-stavropolskij-2-5-1l-3378562	pg	Пятигорск, улица Малыгина, 5	71,99 ₽/шт
+Кефир Агрокомплекс 1.5%, 400мл	https://www.perekrestok.ru/cat/120/p/kefir-agrokompleks-1-5-400ml-3697066	pg	Пятигорск, улица Малыгина, 5	49,99 ₽/шт
+Кефир Ставропольский 2.5%, 500мл	https://www.perekrestok.ru/cat/120/p/kefir-stavropolskij-2-5-500ml-3378563	pg	Пятигорск, улица Малыгина, 5	37,77 ₽/шт
+Кефир Кавказский долгожитель 2.5%, 400мл	https://www.perekrestok.ru/cat/120/p/kefir-kavkazskij-dolgozitel-2-5-400ml-4242180	pg	Пятигорск, улица Малыгина, 5	41,99 ₽/шт
+Кефир Кавказский долгожитель 1%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-kavkazskij-dolgozitel-1-900ml-4242914	pg	Пятигорск, улица Малыгина, 5	97,99 ₽/шт
+Кефир Кавказский долгожитель 1%, 400мл	https://www.perekrestok.ru/cat/120/p/kefir-kavkazskij-dolgozitel-1-400ml-4242174	pg	Пятигорск, улица Малыгина, 5	61,99 ₽/шт
+Кефир Молочный Родник 2.5%, 880мл	https://www.perekrestok.ru/cat/120/p/kefir-molocnyj-rodnik-2-5-880ml-3936530	pg	Пятигорск, улица Малыгина, 5	97,99 ₽/шт
+Кефир Бабулины Продукты 1%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-babuliny-produkty-1-900ml-3690914	pg	Пятигорск, улица Малыгина, 5	87,99 ₽/шт
+Ряженка 2.5% Молочный знак, 175мл	https://www.perekrestok.ru/cat/120/p/razenka-2-5-molocnyj-znak-175ml-4230794	pg	Пятигорск, улица Малыгина, 5	24,99 ₽/шт
+Ряженка 3.2% Молочный знак, 430мл	https://www.perekrestok.ru/cat/120/p/razenka-3-2-molocnyj-znak-430ml-4173940	pg	Пятигорск, улица Малыгина, 5	33,99 ₽/шт
+Ряженка Коровка из Кореновки термостатная 4%, 300мл	https://www.perekrestok.ru/cat/120/p/razenka-korovka-iz-korenovki-termostatnaa-4-300ml-4225820	pg	Пятигорск, улица Малыгина, 5	63,99 ₽/шт
+Ряженка Кубанский Молочник 2.5%, 450мл	https://www.perekrestok.ru/cat/120/p/razenka-kubanskij-molocnik-2-5-450ml-4233124	pg	Пятигорск, улица Малыгина, 5	71,99 ₽/шт
+Ряженка Ставропольский 2.5%, 500мл	https://www.perekrestok.ru/cat/120/p/razenka-stavropolskij-2-5-500ml-3378564	pg	Пятигорск, улица Малыгина, 5	47,99 ₽/шт
+Ряженка Молочный Родник 2.5%, 400мл	https://www.perekrestok.ru/cat/120/p/razenka-molocnyj-rodnik-2-5-400ml-3489039	pg	Пятигорск, улица Малыгина, 5	51,99 ₽/шт
+Ряженка Бабулины продукты 2.5%, 400мл	https://www.perekrestok.ru/cat/120/p/razenka-babuliny-produkty-2-5-400ml-4237718	pg	Пятигорск, улица Малыгина, 5	59,99 ₽/шт
+Айран Долголетие турецкий кисломолочный 1.8%, 180мл	https://www.perekrestok.ru/cat/120/p/ajran-dolgoletie-tureckij-kislomolocnyj-1-8-180ml-4277160	pg	Пятигорск, улица Малыгина, 5	39,99 ₽/шт
+Довга Долголетие с рисом и травами 1.7%, 300мл	https://www.perekrestok.ru/cat/120/p/dovga-dolgoletie-s-risom-i-travami-1-7-300ml-3946755	pg	Пятигорск, улица Малыгина, 5	69,99 ₽/шт
+Айран 1% Зелёная Линия, 500мл	https://www.perekrestok.ru/cat/120/p/ajran-1-zelenaa-linia-500ml-4202023	pg	Пятигорск, улица Малыгина, 5	65,99 ₽/шт
+Тан 1% Зелёная Линия, 500мл	https://www.perekrestok.ru/cat/120/p/tan-1-zelenaa-linia-500ml-4205870	pg	Пятигорск, улица Малыгина, 5	39,99 ₽/шт
+Айран Ростовский, 1л	https://www.perekrestok.ru/cat/120/p/ajran-rostovskij-1l-2030274	pg	Пятигорск, улица Малыгина, 5	57,99 ₽/шт
+Тан Ростовский, 1л	https://www.perekrestok.ru/cat/120/p/tan-rostovskij-1l-2030269	pg	Пятигорск, улица Малыгина, 5	57,99 ₽/шт
+Мацони Кавказский Долгожитель 4%, 900мл	https://www.perekrestok.ru/cat/120/p/maconi-kavkazskij-dolgozitel-4-900ml-3378367	pg	Пятигорск, улица Малыгина, 5	114,99 ₽/шт
+Тан G-balance огуречный 1%, 500мл	https://www.perekrestok.ru/cat/120/p/tan-g-balance-ogurecnyj-1-500ml-3250392	pg	Пятигорск, улица Малыгина, 5	67,99 ₽/шт
+Тан Кавказский Долгожитель 0.5%, 1л	https://www.perekrestok.ru/cat/120/p/tan-kavkazskij-dolgozitel-0-5-1l-3389223	pg	Пятигорск, улица Малыгина, 5	75,99 ₽/шт
+Каймак Кавказский Долгожитель кисломолочный 20%, 300мл	https://www.perekrestok.ru/cat/120/p/kajmak-kavkazskij-dolgozitel-kislomolocnyj-20-300ml-4227820	pg	Пятигорск, улица Малыгина, 5	99,99 ₽/шт
+Продукт кисломолочный Коровка из кореновки мацони термостатный 4%, 300мл	https://www.perekrestok.ru/cat/120/p/produkt-kislomolocnyj-korovka-iz-korenovki-maconi-termostatnyj-4-300ml-4225809	pg	Пятигорск, улица Малыгина, 5	55,99 ₽/шт
+Айран G-balance Турецкий с огурцом и зеленью 1.8%, 500мл	https://www.perekrestok.ru/cat/120/p/ajran-g-balance-tureckij-s-ogurcom-i-zelenu-1-8-500ml-4185337	pg	Пятигорск, улица Малыгина, 5	104,99 ₽/шт
+Кумыс New Product 1.5%, 500мл	https://www.perekrestok.ru/cat/120/p/kumys-new-product-1-5-500ml-3250390	pg	Пятигорск, улица Малыгина, 5	64,99 ₽/шт
+Айран Белый Медведь негазированный 0.5%, 900мл	https://www.perekrestok.ru/cat/120/p/ajran-belyj-medved-negazirovannyj-0-5-900ml-4144608	pg	Пятигорск, улица Малыгина, 5	53,99 ₽/шт
+Мацони Ставропоьский простоквашный 2.5%, 450мл	https://www.perekrestok.ru/cat/120/p/maconi-stavroposkij-prostokvasnyj-2-5-450ml-3378560	pg	Пятигорск, улица Малыгина, 5	41,99 ₽/шт
+Продукт кисломолочный Кавказский долгожитель мацони 4%, 300мл	https://www.perekrestok.ru/cat/120/p/produkt-kislomolocnyj-kavkazskij-dolgozitel-maconi-4-300ml-4227822	pg	Пятигорск, улица Малыгина, 5	97,99 ₽/шт
+Катык Кавказский Долгожитель кисломолочный 4%, 400г	https://www.perekrestok.ru/cat/120/p/katyk-kavkazskij-dolgozitel-kislomolocnyj-4-400g-4281451	pg	Пятигорск, улица Малыгина, 5	83,99 ₽/шт
+Мацони Белый Медведь 3.2%, 330мл	https://www.perekrestok.ru/cat/120/p/maconi-belyj-medved-3-2-330ml-3694599	pg	Пятигорск, улица Малыгина, 5	35,99 ₽/шт
+Айран Кавказский Долгожитель высокобелковый 2%, 450мл	https://www.perekrestok.ru/cat/120/p/ajran-kavkazskij-dolgozitel-vysokobelkovyj-2-450ml-4129871	pg	Пятигорск, улица Малыгина, 5	81,99 ₽/шт
+Напиток Actimuno Kids кисломолочный детский с клубникой и бананом 1.5%, 95мл	https://www.perekrestok.ru/cat/230/p/napitok-actimuno-kids-kislomolocnyj-detskij-s-klubnikoj-i-bananom-1-5-95ml-4311962	pg	Пятигорск, улица Малыгина, 5	31,99 ₽/шт
+Напиток Actimuno кисломолочный с гранатом и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-granatom-i-cinkom-1-5-95ml-4311968	pg	Пятигорск, улица Малыгина, 5	31,99 ₽/шт
+Напиток кисломолочный Имунеле Земляника 1.2%, 100мл	https://www.perekrestok.ru/cat/120/p/napitok-kislomolocnyj-imunele-zemlanika-1-2-100ml-3962	pg	Пятигорск, улица Малыгина, 5	34,99 ₽/шт
+Напиток Actimuno кисломолочный Ягодный микс с цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-agodnyj-miks-s-cinkom-1-5-95ml-4311967	pg	Пятигорск, улица Малыгина, 5	31,99 ₽/шт
+Напиток Actimuno кисломолочный сладкий 1.6%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-sladkij-1-6-95ml-4311969	pg	Пятигорск, улица Малыгина, 5	31,99 ₽/шт
+Напиток Actimuno кисломолочный с вишней черешней и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-visnej-ceresnej-i-cinkom-1-5-95ml-4311966	pg	Пятигорск, улица Малыгина, 5	31,99 ₽/шт
+Варенец Коровка Из Кореновки термостатный 4%, 300мл	https://www.perekrestok.ru/cat/120/p/varenec-korovka-iz-korenovki-termostatnyj-4-300ml-4225817	pg	Пятигорск, улица Малыгина, 5	61,99 ₽/шт
+Напиток кисломолочный Имунеле Малина-Морошка 1.2%, 100мл	https://www.perekrestok.ru/cat/230/p/napitok-kislomolocnyj-imunele-malina-moroska-1-2-100ml-3501804	pg	Пятигорск, улица Малыгина, 5	34,99 ₽/шт
+Напиток Actimuno Kids кисломолочный детский Тропический микс киви-манго-ананас 1.5%, 95мл	https://www.perekrestok.ru/cat/230/p/napitok-actimuno-kids-kislomolocnyj-detskij-tropiceskij-miks-kivi-mango-ananas-1-5-95ml-4311964	pg	Пятигорск, улица Малыгина, 5	31,99 ₽/шт
+Напиток Actimuno Kids кисломолочный детский малиновое мороженое 1.5%, 95мл	https://www.perekrestok.ru/cat/230/p/napitok-actimuno-kids-kislomolocnyj-detskij-malinovoe-morozenoe-1-5-95ml-4311974	pg	Пятигорск, улица Малыгина, 5	31,99 ₽/шт
+Напиток кисломолочный Actimuno с манго маракуйей и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-kislomolocnyj-actimuno-s-mango-marakujej-i-cinkom-1-5-95ml-4326199	pg	Пятигорск, улица Малыгина, 5	31,99 ₽/шт
+Простокваша Коровка Из Кореновки термостатная 2.5%, 300мл	https://www.perekrestok.ru/cat/120/p/prostokvasa-korovka-iz-korenovki-termostatnaa-2-5-300ml-4225821	pg	Пятигорск, улица Малыгина, 5	55,99 ₽/шт
+Снежок Коровка Из Кореновки йогуртный 2.3%, 450мл	https://www.perekrestok.ru/cat/120/p/snezok-korovka-iz-korenovki-jogurtnyj-2-3-450ml-3973807	pg	Пятигорск, улица Малыгина, 5	71,99 ₽/шт
+Коктейль сыворотчный Мажитэль арбуз-дыня, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotcnyj-mazitel-arbuz-dyna-950g-3495185	pg	Пятигорск, улица Малыгина, 5	119,99 ₽/шт
+Коктейль сыворотчный Мажитэль персик-маракуйя с витаминами, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotcnyj-mazitel-persik-marakuja-s-vitaminami-950g-23077	pg	Пятигорск, улица Малыгина, 5	119,99 ₽/шт
+Коктейль сыворотчный Мажитэль клубника с витаминами, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotcnyj-mazitel-klubnika-s-vitaminami-950g-23035	pg	Пятигорск, улица Малыгина, 5	119,99 ₽/шт
+Напиток сывороточный Актуаль с соками апельсина и манго 0.1%, 930мл	https://www.perekrestok.ru/cat/120/p/napitok-syvorotocnyj-aktual-s-sokami-apelsina-i-mango-0-1-930ml-3629005	pg	Пятигорск, улица Малыгина, 5	129,99 ₽/шт
+Напиток сывороточный Актуаль с соками апельсина и манго 0.1%, 310мл	https://www.perekrestok.ru/cat/120/p/napitok-syvorotocnyj-aktual-s-sokami-apelsina-i-mango-0-1-310ml-3629004	pg	Пятигорск, улица Малыгина, 5	47,99 ₽/шт
+Напиток на сыворотке Актуаль с соком персика и маракуйи 0.1%, 930мл	https://www.perekrestok.ru/cat/120/p/napitok-na-syvorotke-aktual-s-sokom-persika-i-marakuji-0-1-930ml-3629006	pg	Пятигорск, улица Малыгина, 5	129,99 ₽/шт
+Ацидофилин 3.2% Молочный знак, 175мл	https://www.perekrestok.ru/cat/120/p/acidofilin-3-2-molocnyj-znak-175ml-4230793	pg	Пятигорск, улица Малыгина, 5	24,99 ₽/шт
+Ацидофилин Зелёная Линия БЗМЖ 2.5% ПЭТ, 300г	https://www.perekrestok.ru/cat/120/p/acidofilin-zelenaa-linia-bzmz-2-5-pet-300g-4292714	pg	Пятигорск, улица Малыгина, 5	67,99 ₽/шт
+Кефир Простоквашино 2.5%, 930мл	https://www.perekrestok.ru/cat/120/p/kefir-prostokvasino-2-5-930ml-2093082	rnd	Ростов-на-Дону, Будённовский проспект, 45	84,99 ₽/шт
+Биопродукт Bio Баланс кефирный 1%, 930мл	https://www.perekrestok.ru/cat/120/p/bioprodukt-bio-balans-kefirnyj-1-930ml-2085953	rnd	Ростов-на-Дону, Будённовский проспект, 45	79,99 ₽/шт
+Кефир Простоквашино 3.2%, 930мл	https://www.perekrestok.ru/cat/120/p/kefir-prostokvasino-3-2-930ml-97452	rnd	Ростов-на-Дону, Будённовский проспект, 45	91,99 ₽/шт
+Кефир 3.2% Молочный Знак, 175мл	https://www.perekrestok.ru/cat/120/p/kefir-3-2-molocnyj-znak-175ml-4318914	rnd	Ростов-на-Дону, Будённовский проспект, 45	19,75 ₽/шт
+Коктейль Простоквашино кефирный обогащённый клубника обезжиренный, 900мл	https://www.perekrestok.ru/cat/120/p/koktejl-prostokvasino-kefirnyj-obogasennyj-klubnika-obezzirennyj-900ml-4000350	rnd	Ростов-на-Дону, Будённовский проспект, 45	89,99 ₽/шт
+Кефир Кубанский Молочник 2.5%, 720мл	https://www.perekrestok.ru/cat/120/p/kefir-kubanskij-molocnik-2-5-720ml-3604726	rnd	Ростов-на-Дону, Будённовский проспект, 45	89,99 ₽/шт
+Кефир Коровка Из Кореновки ГОСТ 1%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-korovka-iz-korenovki-gost-1-900ml-3274191	rnd	Ростов-на-Дону, Будённовский проспект, 45	89,99 ₽/шт
+Кефир Кубанская Бурёнка 2.5%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-kubanskaa-burenka-2-5-900ml-3491537	rnd	Ростов-на-Дону, Будённовский проспект, 45	89,99 ₽/шт
+Кефир Кубанский Молочник 2.5%, 450мл	https://www.perekrestok.ru/cat/120/p/kefir-kubanskij-molocnik-2-5-450ml-4233125	rnd	Ростов-на-Дону, Будённовский проспект, 45	55,99 ₽/шт
+Кефир Коровка из Кореновки 2.7%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-korovka-iz-korenovki-2-7-900ml-4260731	rnd	Ростов-на-Дону, Будённовский проспект, 45	95,99 ₽/шт
+Кефир 1% Молочный Знак, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-1-molocnyj-znak-900ml-4261311	rnd	Ростов-на-Дону, Будённовский проспект, 45	89,99 ₽/шт
+Кефир Агрокомплекс 2.5%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-agrokompleks-2-5-900ml-3605398	rnd	Ростов-на-Дону, Будённовский проспект, 45	89,99 ₽/шт
+Биопродукт Bio Баланс кефирный обогащенный бифидобактериями и пребиотиком инулином 1%, 930мл	https://www.perekrestok.ru/cat/120/p/bioprodukt-bio-balans-kefirnyj-obogasennyj-bifidobakteriami-i-prebiotikom-inulinom-1-930ml-3627914	rnd	Ростов-на-Дону, Будённовский проспект, 45	95,99 ₽/шт
+Биопродукт Bio Баланс кефирный 0%, 930мл	https://www.perekrestok.ru/cat/120/p/bioprodukt-bio-balans-kefirnyj-0-930ml-2167932	rnd	Ростов-на-Дону, Будённовский проспект, 45	93,99 ₽/шт
+Кефир Агрокомплекс 1%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-agrokompleks-1-900ml-3649154	rnd	Ростов-на-Дону, Будённовский проспект, 45	85,99 ₽/шт
+Кефир Агрокомплекс 1.5%, 400мл	https://www.perekrestok.ru/cat/120/p/kefir-agrokompleks-1-5-400ml-3697066	rnd	Ростов-на-Дону, Будённовский проспект, 45	65,99 ₽/шт
+Кефир Белый Медведь 2.5%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-belyj-medved-2-5-900ml-3668814	rnd	Ростов-на-Дону, Будённовский проспект, 45	81,99 ₽/шт
+Кефир Молочная Легенда 1%, 270мл	https://www.perekrestok.ru/cat/120/p/kefir-molocnaa-legenda-1-270ml-4292533	rnd	Ростов-на-Дону, Будённовский проспект, 45	33,99 ₽/шт
+Кефир Кубанский Хуторок 2.5%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-kubanskij-hutorok-2-5-900ml-2090211	rnd	Ростов-на-Дону, Будённовский проспект, 45	60,82 ₽/шт
+Кефир Коровка Из Кореновки отборный 3.2-4.8%, 900мл	https://www.perekrestok.ru/cat/120/p/kefir-korovka-iz-korenovki-otbornyj-3-2-4-8-900ml-3673903	rnd	Ростов-на-Дону, Будённовский проспект, 45	114,99 ₽/шт
+Кефир РЗПС нежирный 1%, 930мл	https://www.perekrestok.ru/cat/120/p/kefir-rzps-nezirnyj-1-930ml-3440864	rnd	Ростов-на-Дону, Будённовский проспект, 45	75,99 ₽/шт
+Ряженка 2.5% Молочный знак, 175мл	https://www.perekrestok.ru/cat/120/p/razenka-2-5-molocnyj-znak-175ml-4230794	rnd	Ростов-на-Дону, Будённовский проспект, 45	24,99 ₽/шт
+Ряженка Коровка из Кореновки термостатная 4%, 300мл	https://www.perekrestok.ru/cat/120/p/razenka-korovka-iz-korenovki-termostatnaa-4-300ml-4225820	rnd	Ростов-на-Дону, Будённовский проспект, 45	67,99 ₽/шт
+Продукт кисломолочный Простоквашино ряженковый сладкий со вкусом ванили 6%, 150мл	https://www.perekrestok.ru/cat/120/p/produkt-kislomolocnyj-prostokvasino-razenkovyj-sladkij-so-vkusom-vanili-6-150ml-4172160	rnd	Ростов-на-Дону, Будённовский проспект, 45	49,99 ₽/шт
+Ряженка Кубанский Молочник 2.5%, 450мл	https://www.perekrestok.ru/cat/120/p/razenka-kubanskij-molocnik-2-5-450ml-4233124	rnd	Ростов-на-Дону, Будённовский проспект, 45	69,99 ₽/шт
+Ряженка Агрокомплекс Выселковский 2.5%, 900мл	https://www.perekrestok.ru/cat/120/p/razenka-agrokompleks-vyselkovskij-2-5-900ml-4190370	rnd	Ростов-на-Дону, Будённовский проспект, 45	109,99 ₽/шт
+Ряженка Агрокомплекс 2.5%, 450мл	https://www.perekrestok.ru/cat/120/p/razenka-agrokompleks-2-5-450ml-3660949	rnd	Ростов-на-Дону, Будённовский проспект, 45	67,99 ₽/шт
+Ряженка Коровка Из Кореновки 4%, 450мл	https://www.perekrestok.ru/cat/120/p/razenka-korovka-iz-korenovki-4-450ml-2081592	rnd	Ростов-на-Дону, Будённовский проспект, 45	71,99 ₽/шт
+Ряженка 3.4% Молочный Знак, 330мл	https://www.perekrestok.ru/cat/120/p/razenka-3-4-molocnyj-znak-330ml-4254652	rnd	Ростов-на-Дону, Будённовский проспект, 45	55,99 ₽/шт
+Ряженка Белый Медведь 3.2%, 330мл	https://www.perekrestok.ru/cat/120/p/razenka-belyj-medved-3-2-330ml-3695475	rnd	Ростов-на-Дону, Будённовский проспект, 45	55,99 ₽/шт
+Ряженка Кубанский Молочник Яблоко-Корица с наполнителем 2.5%, 720мл	https://www.perekrestok.ru/cat/120/p/razenka-kubanskij-molocnik-abloko-korica-s-napolnitelem-2-5-720ml-4166124	rnd	Ростов-на-Дону, Будённовский проспект, 45	134,99 ₽/шт
+Айран Долголетие турецкий кисломолочный 1.8%, 180мл	https://www.perekrestok.ru/cat/120/p/ajran-dolgoletie-tureckij-kislomolocnyj-1-8-180ml-4277160	rnd	Ростов-на-Дону, Будённовский проспект, 45	35,99 ₽/шт
+Айран Долголетие 1.5-2%, 500мл	https://www.perekrestok.ru/cat/120/p/ajran-dolgoletie-1-5-2-500ml-3940947	rnd	Ростов-на-Дону, Будённовский проспект, 45	85,99 ₽/шт
+Довга Долголетие с рисом и травами 1.7%, 300мл	https://www.perekrestok.ru/cat/120/p/dovga-dolgoletie-s-risom-i-travami-1-7-300ml-3946755	rnd	Ростов-на-Дону, Будённовский проспект, 45	69,99 ₽/шт
+Айран 1% Зелёная Линия, 500мл	https://www.perekrestok.ru/cat/120/p/ajran-1-zelenaa-linia-500ml-4202023	rnd	Ростов-на-Дону, Будённовский проспект, 45	65,99 ₽/шт
+Тан 1% Зелёная Линия, 500мл	https://www.perekrestok.ru/cat/120/p/tan-1-zelenaa-linia-500ml-4205870	rnd	Ростов-на-Дону, Будённовский проспект, 45	65,99 ₽/шт
+Айран Ростовский, 1л	https://www.perekrestok.ru/cat/120/p/ajran-rostovskij-1l-2030274	rnd	Ростов-на-Дону, Будённовский проспект, 45	51,99 ₽/шт
+Тан Ростовский, 1л	https://www.perekrestok.ru/cat/120/p/tan-rostovskij-1l-2030269	rnd	Ростов-на-Дону, Будённовский проспект, 45	45,99 ₽/шт
+Мацони Кавказский Долгожитель 4%, 900мл	https://www.perekrestok.ru/cat/120/p/maconi-kavkazskij-dolgozitel-4-900ml-3378367	rnd	Ростов-на-Дону, Будённовский проспект, 45	179,99 ₽/шт
+Тан G-balance огуречный 1%, 500мл	https://www.perekrestok.ru/cat/120/p/tan-g-balance-ogurecnyj-1-500ml-3250392	rnd	Ростов-на-Дону, Будённовский проспект, 45	67,99 ₽/шт
+Тан Кавказский Долгожитель 0.5%, 1л	https://www.perekrestok.ru/cat/120/p/tan-kavkazskij-dolgozitel-0-5-1l-3389223	rnd	Ростов-на-Дону, Будённовский проспект, 45	69,99 ₽/шт
+Каймак Кавказский Долгожитель кисломолочный 20%, 300мл	https://www.perekrestok.ru/cat/120/p/kajmak-kavkazskij-dolgozitel-kislomolocnyj-20-300ml-4227820	rnd	Ростов-на-Дону, Будённовский проспект, 45	109,99 ₽/шт
+Продукт кисломолочный Коровка из кореновки мацони термостатный 4%, 300мл	https://www.perekrestok.ru/cat/120/p/produkt-kislomolocnyj-korovka-iz-korenovki-maconi-termostatnyj-4-300ml-4225809	rnd	Ростов-на-Дону, Будённовский проспект, 45	59,99 ₽/шт
+Айран G-balance Турецкий с огурцом и зеленью 1.8%, 500мл	https://www.perekrestok.ru/cat/120/p/ajran-g-balance-tureckij-s-ogurcom-i-zelenu-1-8-500ml-4185337	rnd	Ростов-на-Дону, Будённовский проспект, 45	104,99 ₽/шт
+Кумыс New Product 1.5%, 500мл	https://www.perekrestok.ru/cat/120/p/kumys-new-product-1-5-500ml-3250390	rnd	Ростов-на-Дону, Будённовский проспект, 45	64,99 ₽/шт
+Мацони Агрокомплекс 4%, 300мл	https://www.perekrestok.ru/cat/120/p/maconi-agrokompleks-4-300ml-4087847	rnd	Ростов-на-Дону, Будённовский проспект, 45	57,99 ₽/шт
+Мацони Кавказский Долгожитель высокобелковый 2%, 450мл	https://www.perekrestok.ru/cat/120/p/maconi-kavkazskij-dolgozitel-vysokobelkovyj-2-450ml-4129854	rnd	Ростов-на-Дону, Будённовский проспект, 45	129,99 ₽/шт
+Катык Халалмилк 6%, 500мл	https://www.perekrestok.ru/cat/120/p/katyk-halalmilk-6-500ml-3978530	rnd	Ростов-на-Дону, Будённовский проспект, 45	134,99 ₽/шт
+Айран Белый Медведь негазированный 0.5%, 900мл	https://www.perekrestok.ru/cat/120/p/ajran-belyj-medved-negazirovannyj-0-5-900ml-4144608	rnd	Ростов-на-Дону, Будённовский проспект, 45	57,99 ₽/шт
+Айран Кавказский Долгожитель 4%, 900мл	https://www.perekrestok.ru/cat/120/p/ajran-kavkazskij-dolgozitel-4-900ml-3378371	rnd	Ростов-на-Дону, Будённовский проспект, 45	159,99 ₽/шт
+Айран Ростовский, 500мл	https://www.perekrestok.ru/cat/120/p/ajran-rostovskij-500ml-2030275	rnd	Ростов-на-Дону, Будённовский проспект, 45	27,99 ₽/шт
+Тан Ростовский, 500мл	https://www.perekrestok.ru/cat/120/p/tan-rostovskij-500ml-2030268	rnd	Ростов-на-Дону, Будённовский проспект, 45	27,99 ₽/шт
+Мацони Белый Медведь 3.2%, 330мл	https://www.perekrestok.ru/cat/120/p/maconi-belyj-medved-3-2-330ml-3694599	rnd	Ростов-на-Дону, Будённовский проспект, 45	55,99 ₽/шт
+Напиток Actimuno Kids кисломолочный детский с клубникой и бананом 1.5%, 95мл	https://www.perekrestok.ru/cat/230/p/napitok-actimuno-kids-kislomolocnyj-detskij-s-klubnikoj-i-bananom-1-5-95ml-4311962	rnd	Ростов-на-Дону, Будённовский проспект, 45	31,99 ₽/шт
+Напиток Actimuno кисломолочный с гранатом и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-granatom-i-cinkom-1-5-95ml-4311968	rnd	Ростов-на-Дону, Будённовский проспект, 45	31,99 ₽/шт
+Напиток Actimuno кисломолочный с клубникой и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-klubnikoj-i-cinkom-1-5-95ml-4311970	rnd	Ростов-на-Дону, Будённовский проспект, 45	31,99 ₽/шт
+Напиток Actimuno кисломолочный с черникой ежевикой и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-cernikoj-ezevikoj-i-cinkom-1-5-95ml-4311963	rnd	Ростов-на-Дону, Будённовский проспект, 45	31,99 ₽/шт
+Напиток кисломолочный Имунеле Земляника 1.2%, 100мл	https://www.perekrestok.ru/cat/120/p/napitok-kislomolocnyj-imunele-zemlanika-1-2-100ml-3962	rnd	Ростов-на-Дону, Будённовский проспект, 45	34,99 ₽/шт
+Напиток Actimuno кисломолочный Ягодный микс с цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-agodnyj-miks-s-cinkom-1-5-95ml-4311967	rnd	Ростов-на-Дону, Будённовский проспект, 45	31,99 ₽/шт
+Напиток кисломолочный Exponenta High-Pro черника-земляника обезжиренный, 250мл	https://www.perekrestok.ru/cat/120/p/napitok-kislomolocnyj-exponenta-high-pro-cernika-zemlanika-obezzirennyj-250ml-4089604	rnd	Ростов-на-Дону, Будённовский проспект, 45	124,99 ₽/шт
+Напиток Actimuno кисломолочный сладкий 1.6%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-sladkij-1-6-95ml-4311969	rnd	Ростов-на-Дону, Будённовский проспект, 45	31,99 ₽/шт
+Напиток кисломолочный Exponenta клубника-арбуз обезжиренный 0%, 250мл	https://www.perekrestok.ru/cat/120/p/napitok-kislomolocnyj-exponenta-klubnika-arbuz-obezzirennyj-0-250ml-3682422	rnd	Ростов-на-Дону, Будённовский проспект, 45	124,99 ₽/шт
+Напиток Actimuno кисломолочный с вишней черешней и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-visnej-ceresnej-i-cinkom-1-5-95ml-4311966	rnd	Ростов-на-Дону, Будённовский проспект, 45	31,99 ₽/шт
+Напиток Actimuno кисломолочный с киви клубникой и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-kivi-klubnikoj-i-cinkom-1-5-95ml-4311971	rnd	Ростов-на-Дону, Будённовский проспект, 45	31,99 ₽/шт
+Напиток Actimuno кисломолочный с земляникой шиповником и цинком 1.5%, 95мл	https://www.perekrestok.ru/cat/120/p/napitok-actimuno-kislomolocnyj-s-zemlanikoj-sipovnikom-i-cinkom-1-5-95ml-4311965	rnd	Ростов-на-Дону, Будённовский проспект, 45	31,99 ₽/шт
+Напиток кисломолочный Exponenta Хай Про со вкусом солёная карамель обезжиренный, 250мл	https://www.perekrestok.ru/cat/120/p/napitok-kislomolocnyj-exponenta-haj-pro-so-vkusom-solenaa-karamel-obezzirennyj-250ml-4242833	rnd	Ростов-на-Дону, Будённовский проспект, 45	134,99 ₽/шт
+Напиток Exponenta bio-skyr 3в1 со вкусом страчателла пломбир обезжиренный, 500мл	https://www.perekrestok.ru/cat/120/p/napitok-exponenta-bio-skyr-3v1-so-vkusom-stracatella-plombir-obezzirennyj-500ml-4237066	rnd	Ростов-на-Дону, Будённовский проспект, 45	134,99 ₽/шт
+Варенец Коровка Из Кореновки термостатный 4%, 300мл	https://www.perekrestok.ru/cat/120/p/varenec-korovka-iz-korenovki-termostatnyj-4-300ml-4225817	rnd	Ростов-на-Дону, Будённовский проспект, 45	61,99 ₽/шт
+Напиток кисломолочный Имунеле Малина-Морошка 1.2%, 100мл	https://www.perekrestok.ru/cat/230/p/napitok-kislomolocnyj-imunele-malina-moroska-1-2-100ml-3501804	rnd	Ростов-на-Дону, Будённовский проспект, 45	34,99 ₽/шт
+Напиток Actimuno Kids кисломолочный детский Тропический микс киви-манго-ананас 1.5%, 95мл	https://www.perekrestok.ru/cat/230/p/napitok-actimuno-kids-kislomolocnyj-detskij-tropiceskij-miks-kivi-mango-ananas-1-5-95ml-4311964	rnd	Ростов-на-Дону, Будённовский проспект, 45	31,99 ₽/шт
+Напиток Actimuno Kids кисломолочный детский малиновое мороженое 1.5%, 95мл	https://www.perekrestok.ru/cat/230/p/napitok-actimuno-kids-kislomolocnyj-detskij-malinovoe-morozenoe-1-5-95ml-4311974	rnd	Ростов-на-Дону, Будённовский проспект, 45	31,99 ₽/шт
+Напиток Actimuno Kids кисломолочный детский лесная земляничка 1.5%, 95мл	https://www.perekrestok.ru/cat/230/p/napitok-actimuno-kids-kislomolocnyj-detskij-lesnaa-zemlanicka-1-5-95ml-4311972	rnd	Ростов-на-Дону, Будённовский проспект, 45	31,99 ₽/шт
+Простокваша Коровка Из Кореновки термостатная 2.5%, 300мл	https://www.perekrestok.ru/cat/120/p/prostokvasa-korovka-iz-korenovki-termostatnaa-2-5-300ml-4225821	rnd	Ростов-на-Дону, Будённовский проспект, 45	63,99 ₽/шт
+Бифилайф Здоровье Из Предгорья 2.5%, 500мл	https://www.perekrestok.ru/cat/120/p/bifilajf-zdorove-iz-predgora-2-5-500ml-3657734	rnd	Ростов-на-Дону, Будённовский проспект, 45	75,99 ₽/шт
+Снежок Коровка Из Кореновки йогуртный 2.3%, 450мл	https://www.perekrestok.ru/cat/120/p/snezok-korovka-iz-korenovki-jogurtnyj-2-3-450ml-3973807	rnd	Ростов-на-Дону, Будённовский проспект, 45	73,99 ₽/шт
+Снежок Кубанский молочник сладкий 2.5%, 450мл	https://www.perekrestok.ru/cat/120/p/snezok-kubanskij-molocnik-sladkij-2-5-450ml-4233123	rnd	Ростов-на-Дону, Будённовский проспект, 45	73,99 ₽/шт
+Снежок Кубанский Молочник 2.5%, 720мл	https://www.perekrestok.ru/cat/120/p/snezok-kubanskij-molocnik-2-5-720ml-3604727	rnd	Ростов-на-Дону, Будённовский проспект, 45	114,99 ₽/шт
+Напиток сывороточный Мажитэль Ананас-Манго 0.05%, 950мл	https://www.perekrestok.ru/cat/120/p/napitok-syvorotocnyj-mazitel-ananas-mango-0-05-950ml-3495187	rnd	Ростов-на-Дону, Будённовский проспект, 45	139,99 ₽/шт
+Коктейль сыворотчный Мажитэль арбуз-дыня, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotcnyj-mazitel-arbuz-dyna-950g-3495185	rnd	Ростов-на-Дону, Будённовский проспект, 45	114,99 ₽/шт
+Коктейль сыворотчный Мажитэль персик-маракуйя с витаминами, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotcnyj-mazitel-persik-marakuja-s-vitaminami-950g-23077	rnd	Ростов-на-Дону, Будённовский проспект, 45	119,99 ₽/шт
+Коктейль сывороточный Мажитэль Пина Колада с витаминами, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotocnyj-mazitel-pina-kolada-s-vitaminami-950g-3379001	rnd	Ростов-на-Дону, Будённовский проспект, 45	119,99 ₽/шт
+Коктейль сыворотчный Мажитэль клубника с витаминами, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotcnyj-mazitel-klubnika-s-vitaminami-950g-23035	rnd	Ростов-на-Дону, Будённовский проспект, 45	119,99 ₽/шт
+Напиток сывороточный Актуаль с соками апельсина и манго 0.1%, 930мл	https://www.perekrestok.ru/cat/120/p/napitok-syvorotocnyj-aktual-s-sokami-apelsina-i-mango-0-1-930ml-3629005	rnd	Ростов-на-Дону, Будённовский проспект, 45	124,99 ₽/шт
+Напиток сывороточный Актуаль с соками апельсина и манго 0.1%, 310мл	https://www.perekrestok.ru/cat/120/p/napitok-syvorotocnyj-aktual-s-sokami-apelsina-i-mango-0-1-310ml-3629004	rnd	Ростов-на-Дону, Будённовский проспект, 45	34,99 ₽/шт
+Напиток на сыворотке Актуаль с соком персика и маракуйи 0.1%, 930мл	https://www.perekrestok.ru/cat/120/p/napitok-na-syvorotke-aktual-s-sokom-persika-i-marakuji-0-1-930ml-3629006	rnd	Ростов-на-Дону, Будённовский проспект, 45	124,99 ₽/шт
+Напиток Мажитель Клубничный мохито с яблочным соком пастеризованный, 950г	https://www.perekrestok.ru/cat/120/p/napitok-mazitel-klubnicnyj-mohito-s-ablocnym-sokom-pasterizovannyj-950g-4344158	rnd	Ростов-на-Дону, Будённовский проспект, 45	129,99 ₽/шт
+Коктейль сыворотчный Мажитэль киви-мангостин с витаминами, 950г	https://www.perekrestok.ru/cat/120/p/koktejl-syvorotcnyj-mazitel-kivi-mangostin-s-vitaminami-950g-4123383	rnd	Ростов-на-Дону, Будённовский проспект, 45	124,99 ₽/шт
+Напиток сывороточный Актуаль с соками персика и маракуйи 0.1%, 310мл	https://www.perekrestok.ru/cat/120/p/napitok-syvorotocnyj-aktual-s-sokami-persika-i-marakuji-0-1-310ml-3629003	rnd	Ростов-на-Дону, Будённовский проспект, 45	45,99 ₽/шт
+Ацидофилин 3.2% Молочный знак, 175мл	https://www.perekrestok.ru/cat/120/p/acidofilin-3-2-molocnyj-znak-175ml-4230793	rnd	Ростов-на-Дону, Будённовский проспект, 45	24,99 ₽/шт
+Напиток кисломолочный Молочная Легенда Микс кефирный злаковый 0.9%, 900мл	https://www.perekrestok.ru/cat/120/p/napitok-kislomolocnyj-molocnaa-legenda-miks-kefirnyj-zlakovyj-0-9-900ml-4310158	rnd	Ростов-на-Дону, Будённовский проспект, 45	69,99 ₽/шт
